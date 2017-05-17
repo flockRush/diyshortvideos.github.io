@@ -75,6 +75,11 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
     display: none;
   }
 
+.ui.header {
+  font-size:1.9em!important;
+  font-weight:300!important;
+}
+
   @media only screen and (max-width: 700px) {
     .ui.fixed.menu {
       display: none !important;
@@ -155,7 +160,6 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
       .masthead{ height:85%; }
 
 }
-
 
 .footer {
   height:15%;
