@@ -10,14 +10,14 @@ var pdf = require('metalsmith-pdf');
 
 Metalsmith(__dirname)
   .metadata({
-    title: "Build big, targeted social audiences efficiently: Flockrush",
+    title: "#1 App For Targeted Social Audience Building: Flockrush",
     description: "Flockrush is a feature rich strategy-driven app for marketing teams to efficiently build big, targeted social audiences.",
     generator: "Metalsmith",
     url: "http://www.flockrush.com",
     latitude: "43.6437147",
     longitude: "79.4085915",
     type: "website",
-    image: "/img/flockrush-icon-Logo.svg"
+    image: "/img/Flockrush-icon-Logo.svg"
   })
 
   .source('./src')

@@ -147,3 +147,15 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
     font-size:40px;
     }
     }
+
+#landing-page-header-img {
+
+      background-image:url("/img/Flockrush-website-size.jpg");
+      background-repeat:no-repeat;
+      background-size:contain;
+      background-position:center center;
+      padding:60px 0;
+      margin:2rem 0;
+
+    }
+    /* Custom Labels */
