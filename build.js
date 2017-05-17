@@ -10,14 +10,14 @@ var pdf = require('metalsmith-pdf');
 
 Metalsmith(__dirname)
   .metadata({
-    title: "DIY Short Videos",
-    description: "Curated Do-it-Yourself Short Videos.",
+    title: "Flockrush: Social Audience Builders",
+    description: "Flockrush is a strategy-driven marketing app to efficiently build big, targeted social audiences.",
     generator: "Metalsmith",
-    url: "http://www.diyshortvideos.com",
+    url: "http://www.flockrush.com",
     latitude: "43.6437147",
     longitude: "79.4085915",
     type: "website",
-    image: "/img/ubersales-icon-Logo.svg"
+    image: "/img/flockrush-icon-Logo.svg"
   })
 
   .source('./src')
