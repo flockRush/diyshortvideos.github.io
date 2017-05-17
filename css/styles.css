@@ -152,8 +152,14 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
 
       background-image:url("/img/Flockrush-website-size.jpg")!important;
       background-size:cover!important;
+      .masthead{ height:85%; }
+
 }
-    /* Custom Labels */
+
+
+.footer {
+  height:15%;
+}
 
 .space-2em {
   margin-top: 2em!important;
