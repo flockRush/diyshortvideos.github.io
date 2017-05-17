@@ -148,14 +148,17 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
     }
     }
 
-#landing-page-header-img {
+.masthead {
 
-      background-image:url("/img/Flockrush-website-size.jpg");
-      background-repeat:no-repeat;
-      background-size:contain;
-      background-position:center center;
-      padding:60px 0;
-      margin:2rem 0;
-
-    }
+      background-image:url("/img/Flockrush-website-size.jpg")!important;
+      background-size:cover!important;
+}
     /* Custom Labels */
+
+.space-2em {
+  margin-top: 2em;
+}
+
+.space-5em {
+  margin-top: 5em;
+}
