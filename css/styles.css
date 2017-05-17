@@ -168,3 +168,7 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
 .space-10em {
   margin-top: 10em!important;
 }
+
+.vertical-segment-grey-color {
+  background-color: #f6f7f9!important;
+}
