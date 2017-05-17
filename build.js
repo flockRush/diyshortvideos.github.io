@@ -10,8 +10,8 @@ var pdf = require('metalsmith-pdf');
 
 Metalsmith(__dirname)
   .metadata({
-    title: "Flockrush: Social Audience Builders",
-    description: "Flockrush is a strategy-driven marketing app to efficiently build big, targeted social audiences.",
+    title: "Build big, targeted social audiences efficiently: Flockrush",
+    description: "Flockrush is a feature rich strategy-driven app for marketing teams to efficiently build big, targeted social audiences.",
     generator: "Metalsmith",
     url: "http://www.flockrush.com",
     latitude: "43.6437147",
