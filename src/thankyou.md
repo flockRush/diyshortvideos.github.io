@@ -11,11 +11,10 @@ layout: thankyou.html
       <br>#userGeneratedContent
       <br>#contextOfContent
       <br>
-      <br>(- contentGeneratedFlockRrush -)
-
+      <br>(- forTheFlockRrush -)
   </p>
   <div class="ui center aligned header">
-      across Organic &amp; Paid for long term reach!
+       across Organic &amp; Paid to ensure long term reach!
   </div>
 </div>
 </div>
