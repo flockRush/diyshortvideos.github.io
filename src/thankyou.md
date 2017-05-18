@@ -16,7 +16,7 @@ layout: thankyou.html
             <br></p>
   <br>
   <div class="ui center aligned header">
-            in Your Origanic and Paid
+            in Your Organic and Paid
         </div>
   <div class="ui center aligned header">
             Marketing Communication Strategy.
