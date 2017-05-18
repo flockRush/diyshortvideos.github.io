@@ -10,6 +10,9 @@ layout: thankyou.html
   <p>#bandGeneratedContent
       <br>#userGeneratedContent
       <br>#contextOfContent
+      <br>
+      <br>#thinkContent
+
   </p>
   <div class="ui center aligned header">
       across Organic &amp; Paid for long term reach!
