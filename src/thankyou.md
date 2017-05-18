@@ -11,7 +11,7 @@ layout: thankyou.html
       <br>#userGeneratedContent
       <br>#contextOfContent
       <br>
-      <br>(#contentGeneratedFlockRrush)
+      <br>(- contentGeneratedFlockRrush -)
 
   </p>
   <div class="ui center aligned header">
