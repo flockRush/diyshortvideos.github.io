@@ -11,7 +11,7 @@ layout: thankyou.html
       <br>#userGeneratedContent
       <br>#contextOfContent
       <br>
-      <br>#thinkContent
+      <br>contentRush
 
   </p>
   <div class="ui center aligned header">
