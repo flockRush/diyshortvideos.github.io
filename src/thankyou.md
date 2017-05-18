@@ -11,7 +11,7 @@ layout: thankyou.html
       <br>#userGeneratedContent
       <br>#contextOfContent
       <br>
-      <br>(- forTheFlockRrush -)
+      <br>(- forFlockrush -)
   </p>
   <div class="ui center aligned header">
        across Organic &amp; Paid to ensure long term reach!
