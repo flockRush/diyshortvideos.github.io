@@ -13,7 +13,7 @@ layout: thankyou.html
   </p>
   <div class="ui center aligned header">
       in Your Marketing Communication Strategy
-      across organic and paid!
+      across Organic &amp; Paid!
   </div>
 </div>
 </div>
