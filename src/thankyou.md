@@ -12,7 +12,7 @@ layout: thankyou.html
       <br>#contextOfContent
   </p>
   <div class="ui center aligned header">
-      in Your Marketing Communication Strategy<br>
+      in a Marketing Communication Strategy<br>
       across <br>Organic &amp; Paid for maximum impact!
   </div>
 </div>
