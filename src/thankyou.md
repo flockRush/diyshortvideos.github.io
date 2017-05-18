@@ -12,8 +12,8 @@ layout: thankyou.html
       <br>#contextOfContent
   </p>
   <div class="ui center aligned header">
-      in Your Marketing Communication Strategy
-      across Organic &amp; Paid!
+      in Your Marketing Communication Strategy<br>
+      across <br>Organic &amp; Paid!
   </div>
 </div>
 </div>
