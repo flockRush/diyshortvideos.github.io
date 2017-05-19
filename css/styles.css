@@ -10,6 +10,10 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
   background-color: #0C6897!important;
 }
 
+.green {
+  background-color: #32f99e!important;
+}
+
 /* Layout page from Semantic-UI */
 
   .hidden.menu {
