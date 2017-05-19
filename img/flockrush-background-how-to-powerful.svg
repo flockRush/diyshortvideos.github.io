@@ -108,7 +108,7 @@
 	C268.852,193.257,290.655,215.06,290.655,241.956z"/>
 <line fill="none" stroke="#57ADDD" stroke-width="2" stroke-miterlimit="10" x1="201.89" y1="347.995" x2="290.034" y2="347.995"/>
 <line fill="none" stroke="#428EC1" stroke-width="2" stroke-miterlimit="10" x1="215.561" y1="352.37" x2="276.362" y2="352.37"/>
-<text transform="matrix(1 0 0 1 191.5728 342.981)"><tspan x="0" y="0" fill="#224D6B" font-family="'OpenSans-Extrabold'" font-size="20.5698" letter-spacing="-1">PO</tspan><tspan x="26.92" y="0" fill="#224D6B" font-family="'OpenSans-Extrabold'" font-size="20.5698">WER</tspan><tspan x="71.035" y="0" fill="#224D6B" font-family="'OpenSans-Extrabold'" font-size="20.5698" letter-spacing="-1">F</tspan><tspan x="80.889" y="0" fill="#224D6B" font-family="'OpenSans-Extrabold'" font-size="20.5698" letter-spacing="-1">U</tspan><tspan x="94.812" y="0" fill="#224D6B" font-family="'OpenSans-Extrabold'" font-size="20.5698">L</tspan></text>
+<text transform="matrix(1 0 0 1 191.5728 342.981)"><tspan x="0" y="0" fill="#57ADDD" font-family="'OpenSans-Extrabold'" font-size="20.5698" letter-spacing="-1">PO</tspan><tspan x="26.92" y="0" fill="#57ADDD" font-family="'OpenSans-Extrabold'" font-size="20.5698">WER</tspan><tspan x="71.035" y="0" fill="#57ADDD" font-family="'OpenSans-Extrabold'" font-size="20.5698" letter-spacing="-1">F</tspan><tspan x="80.889" y="0" fill="#57ADDD" font-family="'OpenSans-Extrabold'" font-size="20.5698" letter-spacing="-1">U</tspan><tspan x="94.812" y="0" fill="#57ADDD" font-family="'OpenSans-Extrabold'" font-size="20.5698">L</tspan></text>
 <circle fill="#336699" cx="290.586" cy="193.342" r="0.836"/>
 <circle fill="#336699" cx="326.6" cy="157.292" r="0.836"/>
 <circle fill="#336699" cx="157.32" cy="157.328" r="0.836"/>
