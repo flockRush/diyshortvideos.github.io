@@ -183,8 +183,16 @@ h5 {
 
 .masthead {
 
-      background-image:url("/img/Flockrush-website-size.jpg")!important;
+      background-image:url("/img/flockrush-no-logo-background.jpg")!important;
       background-size:cover!important;
+}
+
+.cropsegment450{
+  height:450px;
+  overflow:hidden;
+}
+.cropsegment450 segment{
+  margin-top;-100px;
 }
 
 .space-3em {
