@@ -135,7 +135,7 @@ h5 {
 /* Custom */
 
 .ui.fixed.inverted.menu{
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(12,104,151,.7);
 
 }
 .ui.fixed.inverted.menu .ui.container{
@@ -153,7 +153,7 @@ h5 {
     background-color: #EB2328!important;
 }
 .ui.inverted.menu, .red.active.item, .ui.inverted.red.menu {
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(12,104,151,.7);
     border-radius: 0px;
 }
 .ui.inverted.segment, .ui.primary.inverted.segment {
