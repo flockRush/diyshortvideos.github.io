@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  $('.left.demo.sidebar').first()
+  $('.topnav.sidebar').first()
    .sidebar('attach events', '.toggle.button')
   ;
   $('.toggle.button')
