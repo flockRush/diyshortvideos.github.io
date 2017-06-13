@@ -14,6 +14,12 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
   background-color: #32f99e!important;
 }
 
+.menu-color{
+    background-color:#0C6897!important;
+    font-size:18px !important;
+    font-weight:300 !important;
+}
+
 /* Layout page from Semantic-UI */
 
   .hidden.menu {
@@ -277,7 +283,7 @@ html.ios body {
 }
 
 .login-free-trial .wrapper{
-  background-color:#2e3548;
+  background-color:#0C6897;
   white-space:nowrap;
   padding:5px;
   border-radius:5px;
@@ -287,7 +293,7 @@ html.ios body {
   margin:0 !important;
 }
 .login-free-trial .wrapper .login{
-  background-color:#2e3548 !important;
+  background-color:#0C6897 !important;
 }
 .login-free-trial .wrapper .item.free-trial:last-child{
   border-radius:5px !important;
