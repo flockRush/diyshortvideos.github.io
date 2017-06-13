@@ -275,3 +275,20 @@ html.ios,
 html.ios body {
  height: initial !important;
 }
+
+.login-free-trial .wrapper{
+  background-color:#2e3548;
+  white-space:nowrap;
+  padding:5px;
+  border-radius:5px;
+}
+.login-free-trial .wrapper a{
+  display:inline-block !important;
+  margin:0 !important;
+}
+.login-free-trial .wrapper .login{
+  background-color:#2e3548 !important;
+}
+.login-free-trial .wrapper .item.free-trial:last-child{
+  border-radius:5px !important;
+}
