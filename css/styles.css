@@ -242,6 +242,10 @@ img {
   margin-bottom:;-100px;
 }
 
+.space-2em {
+  margin-top: 2em!important;
+}
+
 .space-3em {
   margin-top: 3em!important;
 }
@@ -253,6 +257,11 @@ img {
 .space-5em {
   margin-top: 5em!important;
 }
+
+.space-12em {
+  margin-top: 12em!important;
+}
+
 .space-10em {
   margin-top: 10em!important;
 }
