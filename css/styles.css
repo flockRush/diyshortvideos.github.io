@@ -283,7 +283,7 @@ html.ios body {
 }
 
 .login-free-trial .wrapper{
-  background-color:#0C6897;
+  background-color:#095378;
   white-space:nowrap;
   padding:5px;
   border-radius:5px;
@@ -293,7 +293,7 @@ html.ios body {
   margin:0 !important;
 }
 .login-free-trial .wrapper .login{
-  background-color:#0C6897 !important;
+  background-color:#095378 !important;
 }
 .login-free-trial .wrapper .item.free-trial:last-child{
   border-radius:5px !important;
