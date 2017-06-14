@@ -40,9 +40,9 @@ Why we do it this way?  </div>
   <p class="p-em-166">
 On all our plans you get full access to all the extensive features that make our audience building strategy so effective.</p>
   <p>
-As your audiences grow so too does the amount of data processing and traffic hosting managed by us.</p>
+As your audiences grow, so too does the amount of data processing and traffic hosting managed by us.</p>
   <p>
-So the cost of using Flockrush only increases as the size and value of your audience does making it easy to plan as you grow.
+So the cost of using Flockrush only increases as the size and value of your audience does, making it easy to plan as you grow.
             </p>
 </div>
 </div>
