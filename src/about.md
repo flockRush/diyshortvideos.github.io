@@ -5,7 +5,7 @@ layout: about.html
 <div class="ui left vertical stripe segment">
   <div class="ui left text container">
   <h2 class="ui header">About</h2>
-  <p>It’s tough getting your message out there and noticed, against a wall of marketing noise. Like many start-ups, we needed to make a limited marketing budget punch well above its weight, and that’s how Flockrush was born. We discovered that we could
+  <p>It’s tough getting your message out there and be noticed, against a wall of marketing noise. Like many start-ups, we needed to make a limited marketing budget punch well above its weight, and that’s how Flockrush was born. We discovered that we could
             build audiences to market to. Audiences that wouldn’t vanish overnight, and audiences that could be highly targeted. Using content to tell stories and build audiences works, but the tools available made this harder work than made sense to
             us.
         </p>
