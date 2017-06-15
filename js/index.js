@@ -24,9 +24,9 @@ $(document).ready(function(){
   max: 20,
   start: 3,
   onChange: function(value) {
-    $('#display-pricing').html((value*99) + " $/month");
-    $('#display-audience').html((value*100000));
-
+    $('#display-pricing').html((value*99).toLocaleString() + " $/month");
+    $('#display-audience').html((value*100000).toLocaleString());
+    
   }
 });
 
