@@ -20,12 +20,12 @@ $(document).ready(function(){
 
   // Set custom step
   $('#pricing-slider').range({
-  min: 0,
+  min: 1,
   max: 10,
   start: 5,
   onChange: function(value) {
-    $('#display-pricing').html((value*100) + " $/month");
-    $('#display-audience').html((value*100) + " Size");
+    $('#display-pricing').html((value*99) + " $/month");
+    $('#display-audience').html((value*10000));
 
   }
 });
