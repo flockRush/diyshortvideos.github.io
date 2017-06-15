@@ -29,7 +29,7 @@ Audience Size</p>
 </div>
 </div>
 
-<div class="ui vertical stripe segment grey-color">
+<div class="ui vertical left aligned stripe segment grey-color">
   <div class="ui page container">
   <div class="ui h-bold">
       Every Feature On Every Plan
