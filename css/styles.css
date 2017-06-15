@@ -151,6 +151,13 @@ h5 {
 
 }
 
+.h-semibold {
+  font-size:2em!important;
+  font-weight:400!important;
+  margin-top: 2em!important;
+
+}
+
 .table-medium {
   font-size:1.33em!important;
   font-weight:400!important;
