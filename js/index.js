@@ -37,7 +37,7 @@ $('#pricing-slider').range({
   step: 7,
   onChange: function(value) {
     $('#display-pricing').html(pricings[value]);
-    $('#display-audience').html((value*100000).toLocaleString());
+    $('#display-audience').html((value*10000).toLocaleString());
  }
 
 
