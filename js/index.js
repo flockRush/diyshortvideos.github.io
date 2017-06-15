@@ -20,7 +20,7 @@ $(document).ready(function(){
 
   // Set custom step
 
-pricings= [
+ pricings= [
  null,
  "99",
  "149",
@@ -29,8 +29,8 @@ pricings= [
  "1,499",
  "2,499",
  "4,999",
-]
-audiences= [
+ ]
+ audiences= [
  null,
  "10,000",
  "100,000",
@@ -39,8 +39,8 @@ audiences= [
  "3,000,000",
  "5,000,000",
  "10,000,000",
-]
-$('#pricing-slider').range({
+ ]
+ $('#pricing-slider').range({
   min: 1,
   max: 7,
   start: 3,
@@ -48,6 +48,6 @@ $('#pricing-slider').range({
   onChange: function(value) {
     $('#display-pricing').html(pricings[value]);
     $('#display-audience').html(audiences[value]);
- }
-
+  }
+  });
 });
