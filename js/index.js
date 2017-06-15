@@ -24,7 +24,7 @@ $(document).ready(function(){
   max: 10,
   start: 5,
   onChange: function(value) {
-    $('#display-pricing').html(value);
+    $('#display-pricing').html(Cost per month $ );
   }
 });
 
