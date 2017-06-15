@@ -14,10 +14,10 @@ layout: pricing.html
   <p>By working this way our success can only follow yours - keeping us working continually to make improvements to the speed and efficiency of growing your fans with Flockrush.</p>
 </div>
   <div class="six wide center aligned right floated column">
+  <div class="ui segment grey-color">
   <div class="ui h-bold">Estimated monthly cost</div>
   <p class="p-em-166">
 Audience Size</p>
-  <div class="ui segment grey-color">
   <div class="ui range" id="pricing-slider">
 </div>
   <br>
