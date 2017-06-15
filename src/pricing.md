@@ -25,13 +25,9 @@ Audience Size</p>
     Value: <span id="display-pricing">
 </span></p>
 </div>
-  <p>
-</p>
 </div>
 </div>
 </div>
-
-
 
 <div class="ui vertical stripe segment grey-color">
   <div class="ui page container">
