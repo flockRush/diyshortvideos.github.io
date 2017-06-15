@@ -50,5 +50,4 @@ $('#pricing-slider').range({
     $('#display-audience').html(audiences[value]);
  }
 
-
 });
