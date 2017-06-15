@@ -19,7 +19,7 @@ Audience Size: <span id="display-audience">
 </span></p><br><div class="ui teal range" id="pricing-slider">
 </div><br>
   <br><p class="p-em-166"><span class="h-semibold" id="display-pricing">
-</span> <span class="p-light icongrey">  US$/month</span></p></div>
+</span> <span class="p-light icongrey">  US $/month</span></p></div>
 </div>
 </div>
 </div>
