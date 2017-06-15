@@ -21,12 +21,12 @@ $(document).ready(function(){
   // Set custom step
   $('#pricing-slider').range({
   min: 1,
-  max: 20,
+  max: 100,
   start: 3,
   onChange: function(value) {
     $('#display-pricing').html((value*99).toLocaleString() + " $/month");
     $('#display-audience').html((value*100000).toLocaleString());
-    
+
   }
 });
 
