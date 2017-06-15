@@ -25,6 +25,8 @@ $(document).ready(function(){
   start: 5,
   onChange: function(value) {
     $('#display-pricing').html((value*100) + " $/month");
+    $('#display-audience').html((value*100) + " Size");
+
   }
 });
 
