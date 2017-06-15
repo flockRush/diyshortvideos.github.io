@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /thankyou/
+Disallow: /after_onboarding/
+Disallow: /before_onboarding/
+Disallow: /layouts/
+Disallow: /src/
+Disallow: /admin/
+Disallow: /campaigns_csv/
