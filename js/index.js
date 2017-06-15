@@ -30,6 +30,16 @@ pricings= [
  "2,499",
  "4,999",
 ]
+audiences= [
+ null,
+ "10,000",
+ "100,000",
+ "1000,000",
+ "2,000,000",
+ "3,000,000",
+ "5,000,000",
+ "10,000,000",
+]
 $('#pricing-slider').range({
   min: 1,
   max: 7,
@@ -37,7 +47,7 @@ $('#pricing-slider').range({
   step: 7,
   onChange: function(value) {
     $('#display-pricing').html(pricings[value]);
-    $('#display-audience').html((value*10000).toLocaleString());
+    $('#display-audience').html(audiences[value]);
  }
 
 
