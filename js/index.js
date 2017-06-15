@@ -22,6 +22,7 @@ $(document).ready(function(){
 
  pricings= [
  null,
+ "0",
  "99",
  "149",
  "499",
@@ -32,6 +33,7 @@ $(document).ready(function(){
  ]
  audiences= [
  null,
+ "0",
  "10,000",
  "100,000",
  "1,000,000",
@@ -42,8 +44,8 @@ $(document).ready(function(){
  ]
  $('#pricing-slider').range({
   min: 1,
-  max: 7,
-  start: 3,
+  max: 8,
+  start: 4,
   step: 1,
   onChange: function(value) {
     $('#display-pricing').html(pricings[value]);
