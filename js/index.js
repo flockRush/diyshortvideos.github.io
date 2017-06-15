@@ -24,7 +24,7 @@ $(document).ready(function(){
   max: 10,
   start: 5,
   onChange: function(value) {
-    $('#display-pricing').html("(value*100) + $/month");
+    $('#display-pricing').html((value*100) + " $/month");
   }
 });
 
