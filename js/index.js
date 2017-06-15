@@ -44,7 +44,7 @@ $(document).ready(function(){
   min: 1,
   max: 7,
   start: 3,
-  step: 7,
+  step: 1,
   onChange: function(value) {
     $('#display-pricing').html(pricings[value]);
     $('#display-audience').html(audiences[value]);
