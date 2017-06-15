@@ -342,3 +342,9 @@ html.ios body {
 .login-free-trial .wrapper .item.free-trial:last-child{
   border-radius:5px !important;
 }
+
+.ui.link.cards.feature-cards .card .extra-content{
+  display:none;
+  margin-top:2rem;
+  text-transform:uppercase;
+}
