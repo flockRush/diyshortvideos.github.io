@@ -19,15 +19,26 @@ $(document).ready(function(){
   });
 
   // Set custom step
-  $('#pricing-slider').range({
-  min: 1,
-  max: 25,
-  start: 3,
-  onChange: function(value) {
-    $('#display-pricing').html((value*99).toLocaleString());
-    $('#display-audience').html((value*100000).toLocaleString());
 
-  }
-});
+pricings= [
+ null,
+ "99",
+ "149",
+ "499",
+ "U999",
+ "1,499",
+ "$2,499",
+ "$4,999",
+]
+$('#pricing-slider').range({
+  min: 1,
+  max: 7,
+  start: 3,
+  step: 7,
+  onChange: function(value) {
+    $('#display-pricing').html(pricings[value]);
+    $('#display-audience').html((value*100000).toLocaleString());
+ }
+
 
 });
