@@ -13,7 +13,7 @@ layout: about.html
   <p>
             For the first time, it is possible to do what Flockrush excels at in one platform, for entire teams. Following content 'from cradle to grave' in one place is saving content teams massive amounts of time in itself, but with the features we've built to support content curation and publishing across all social channels simultaneously, new ways of working for large and small teams are now possible.
         </p>
-  <p>Our patented AI technology supports our cloud-based SaaS platform giving you access to your projects wherever you want to be, always using the latest software release and running with telco-grade reliability.
+  <p>Our AI technology supports our cloud-based SaaS platform giving you access to your projects wherever you want to be, always using the latest software release and running with telco-grade reliability.
         </p>
   <p>But we're never satisfied - our success only comes when yours does - so we're always working to make better and new ways to support you in achieving your marketing goals. Whatever it takes.
         </p>
@@ -30,13 +30,11 @@ layout: about.html
 
 </p>
   <p>The Flockrush platform supports teams of any size to:</p>
-  <div class="ui ordered list p-light-up">
-  <a class="item">Discover high volumes of great content, including royalty paid images and UGC</a>
+  <div class="ui ordered list p-light-up"><a class="item">Discover high volumes of great content, including royalty paid images and UGC</a>
   <a class="item">
 Tell your story to get noticed with mass content curation for all your channels simultaneously</a>
   <a class="item">
-Build and manage your audience effectively with state of the art social media management tools</a>
-</div>
+Build and manage your audience effectively with state of the art social media management tools</a></div>
   <p>With full social content and blog content integration – including Flockrush’s own high performance blog Flockhorn and WordPress integration - marketers now have the opportunity to build and own large audiences with the ability to activate always-on campaigns, targeting those audiences with key marketing messages.
 
 </p>
