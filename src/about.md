@@ -30,11 +30,9 @@ layout: about.html
 
 </p>
   <p>The Flockrush platform supports teams of any size to:</p>
-  <div class="ui ordered list p-light-up"><a class="item">Discover high volumes of great content, including royalty paid images and UGC</a>
-  <a class="item">
-Tell your story to get noticed with mass content curation for all your channels simultaneously</a>
-  <a class="item">
-Build and manage your audience effectively with state of the art social media management tools</a></div>
+  <ol class="ui list p-light-up"><li>Discover high volumes of great content, including royalty paid images and UGC</li><li>
+Tell your story to get noticed with mass content curation for all your channels simultaneously</li><li>
+Build and manage your audience effectively with state of the art social media management tools</li></ol>
   <p>With full social content and blog content integration – including Flockrush’s own high performance blog Flockhorn and WordPress integration - marketers now have the opportunity to build and own large audiences with the ability to activate always-on campaigns, targeting those audiences with key marketing messages.
 
 </p>
