@@ -12,6 +12,9 @@ layout: pricing.html
       </p>
   <p>It doesn't matter how many pages you manage, or how big your team is, what you pay is based on the overall results you achieve.</p>
   <p>By working this way our success can only follow yours - keeping us working continually to make improvements to the speed and efficiency of growing your fans with Flockrush.</p>
+  <p>Flockrush <i class="ui icon large red heart"></i> Open Source.</p>
+  <p>That's why we're giving an ad supported 1 million tier away free for open source projects.</p>
+  <p>That's worth $12,000/year. Enjoy!</p>
 </div>
   <div class="five wide left aligned column">
   <div class="ui segment grey-color"><br><div class="ui h-bold">Monthly cost</div><p class="p-em-166">
