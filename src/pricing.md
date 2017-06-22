@@ -10,7 +10,7 @@ layout: pricing.html
   <p class="p-em-166">
         Our simple pricing structure is tied to the size of your audience.
       </p>
-  <p>It doesn't matter how many pages you manage, or how big your team is, what you pay is based on the overall results you achieve.</p>
+  <p>It doesn't matter how many pages you manage, or how big is your blog, or how big your team is, what you pay is based on the overall results you achieve.</p>
   <p>By working this way our success can only follow yours - keeping us working continually to make improvements to the speed and efficiency of growing your fans with Flockrush.</p>
   <p>Flockrush <i class="ui icon large iconred heart"></i> Open Source.</p>
   <p>That's why we're giving an ad supported 1 million tier away free for open source projects.</p>
