@@ -16,7 +16,7 @@ layout: resources.html
 </div>
 </div>
 
-<div class="ui bottom attached segment">
+<div class="ui bottom attached container">
   <div class="ui link cards">
   <div class="card">
   <div class="image">
