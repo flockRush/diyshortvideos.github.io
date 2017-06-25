@@ -16,9 +16,8 @@ layout: resources.html
 </div>
 </div>
 
- <div class="ui bottom attached container space-5em-bottom space-5em> 
-
-<div class="ui link cards">
+<div class="ui bottom attached container space-5em-bottom space-5em">
+  <div class="ui link cards">
   <div class="card">
   <div class="image">
   <img src="/img/Flockrush-icon-logo.png">
@@ -31,5 +30,6 @@ layout: resources.html
   <div class="extra content">
                 ...and how Flockrush makes it possible
             </div>
+</div>
 </div>
 </div>
