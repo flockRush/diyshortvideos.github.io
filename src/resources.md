@@ -16,20 +16,20 @@ layout: resources.html
 </div>
 </div>
 
-<div class="ui bottom attached container">
-  <div class="ui link cards">
+ <div class="ui bottom attached container space-5em-bottom space-5em> 
+
+<div class="ui link cards">
   <div class="card">
   <div class="image">
   <img src="/img/Flockrush-icon-logo.png">
 </div>
   <div class="content">
-  <div class="description cardlgfont">
+  <div class="description h-small">
                     Why content curation beats content creation for audience building.
                 </div>
 </div>
   <div class="extra content">
                 ...and how Flockrush makes it possible
             </div>
-</div>
 </div>
 </div>
