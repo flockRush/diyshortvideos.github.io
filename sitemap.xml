@@ -5,28 +5,32 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url>
-  <loc>http://www.flockrush.com/</loc>
-  <lastmod>2017-06-15T15:35:30+00:00</lastmod>
-</url>
-<url>
-  <loc>http://www.flockrush.com/product/</loc>
-  <lastmod>2017-06-15T15:35:30+00:00</lastmod>
-</url>
-<url>
-  <loc>http://www.flockrush.com/pricing/</loc>
-  <lastmod>2017-06-15T15:35:30+00:00</lastmod>
-</url>
-<url>
-  <loc>http://www.flockrush.com/about/</loc>
-  <lastmod>2017-06-15T15:35:30+00:00</lastmod>
-</url>
-<url>
-  <loc>http://www.flockrush.com/privacy-policy/</loc>
-  <lastmod>2017-06-15T15:35:30+00:00</lastmod>
-</url>
-<url>
-  <loc>http://www.flockrush.com/terms-of-service/</loc>
-  <lastmod>2017-06-15T15:35:30+00:00</lastmod>
-</url>
+            <url>
+              <loc>http://www.flockrush.com/</loc>
+              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
+            </url>
+            <url>
+              <loc>http://www.flockrush.com/product/</loc>
+              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
+            </url>
+            <url>
+              <loc>http://www.flockrush.com/resources/</loc>
+              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
+            </url>
+            <url>
+              <loc>http://www.flockrush.com/pricing/</loc>
+              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
+            </url>
+            <url>
+              <loc>http://www.flockrush.com/about/</loc>
+              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
+            </url>
+            <url>
+              <loc>http://www.flockrush.com/privacy-policy/</loc>
+              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
+            </url>
+            <url>
+              <loc>http://www.flockrush.com/terms-of-service/</loc>
+              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
+            </url>
 </urlset>
