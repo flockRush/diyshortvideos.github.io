@@ -90,7 +90,7 @@ layout: product.html
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest strategy resources:
-            </p>
+          </p>
   <p>
 </p>
 </div>
@@ -100,7 +100,7 @@ layout: product.html
   <div class="eight wide column">
   <img class="ui image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
-  <div class="sixteen wide right top aligned column">
+  <div class="sixteen wide right aligned column">
   <p>See all
             <a href="/resources/">resources </a>
             <i class="chevron tiny right icon"></i></p>
