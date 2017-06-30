@@ -83,7 +83,7 @@ layout: product.html
   <div class="ui grid">
   <div class="sixteen wide column">
   <div class="six wide center aligned right floated column">
-  <img class="ui massive image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
+  <img class="ui image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
 </div>
   <div class="sixteen wide left aligned column">
@@ -93,10 +93,10 @@ layout: product.html
 </p>
 </div>
   <div class="eight wide column">
-  <img class="ui massive image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
+  <img class="ui image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
   <div class="eight wide column">
-  <img class="ui massive image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
+  <img class="ui image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
