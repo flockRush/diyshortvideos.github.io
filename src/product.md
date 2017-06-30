@@ -4,7 +4,7 @@ layout: product.html
 
 <!-- Product page -->
 
-<div class="ui vertical stripe segment grey-color">
+ <div class="ui vertical stripe segment grey-color">
   <div class="ui center aligned container">
   <div class="ui four stackable link cards feature-cards"><a class="ui card" href="/product/#strategy-guidance">
   <div class="center aligned content">
@@ -81,25 +81,28 @@ layout: product.html
 </div>
   <div class=" seven wide center aligned column">
   <div class="ui grid">
-  <div class="seven column row">
+  <div class="sixteen wide column">
   <div class="six wide center aligned right floated column">
   <img class="ui massive image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
 </div>
+  <div class="sixteen wide left aligned column">
   <p class="p-em-166">Our latest strategy resources:
-          </p>
-  <p></p>
-  <div class="seven column row">
-  <div class="column">
+            </p>
+  <p>
+</p>
+</div>
+  <div class="eight wide column">
   <img class="ui massive image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
-  <div class="column">
+  <div class="eight wide column">
   <img class="ui massive image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
-</div>
+  <div class="sixteen wide right aligned column">
   <p>See all
-              <a href="/resources/">resources </a>
-              <i class="chevron tiny right icon"></i></p>
+            <a href="/resources/">resources </a>
+            <i class="chevron tiny right icon"></i></p>
+</div>
 </div>
 </div>
 </div>
