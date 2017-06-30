@@ -4,7 +4,7 @@ layout: product.html
 
 <!-- Product page -->
 
- <div class="ui vertical stripe segment grey-color">
+<div class="ui vertical stripe segment grey-color">
   <div class="ui center aligned container">
   <div class="ui four stackable link cards feature-cards"><a class="ui card" href="/product/#strategy-guidance">
   <div class="center aligned content">
@@ -108,9 +108,9 @@ layout: product.html
 
 <div id="content-discovery" class="ui vertical stripe segment grey-color">
   <div class="ui stackable grid">
-  <div class="seven wide center aligned column">
+  <div class="two wide column">
 </div>
-  <div class="five wide middle aligned column">
+  <div class="five wide column">
   <div class="ui h-bold"> Content Discovery</div>
   <p class="p-em-166">The fastest way to find and curate a large pool of the most engaging content for your audience.</p>
   <p>Flockrush uses artificial intelligence solutions to find and sort content suggestions for your page subjects.</p>
@@ -120,14 +120,38 @@ layout: product.html
         Having quick and easy access to relevant, high performing content transforms what can otherwise be a long and time-consuming process.
       </p>
 </div>
+  <div class="one wide column">
+</div>
+  <div class=" seven wide column">
+  <div class="ui grid">
+  <div class="sixteen wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+</div>
+  <div class="sixteen wide left bottom aligned column">
+  <p class="p-em-166">Our latest content discovery resources:
+          </p>
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+</div>
+  <div class="sixteen wide right aligned column">
+  <p>See all
+            <a href="/resources/">resources </a>
+            <i class="chevron tiny right icon"></i></p>
+</div>
+</div>
+</div>
 </div>
 </div>
 
 <div id="content-curation" class="ui vertical stripe segment">
   <div class="ui stackable grid">
-  <div class="two wide center aligned column">
+  <div class="two wide column">
 </div>
-  <div class="five wide middle aligned column">
+  <div class="five wide column">
   <div class="ui h-bold"> Content Curation</div>
   <p class="p-em-166">Tell your stories quickly and effectively by curating at scale across all your channels simultaneously.</p>
   <p>
@@ -137,9 +161,29 @@ layout: product.html
   <p>
         No other tool gives you the power to curate so broadly and so fast, ensuring your publishing catalog can grow quicker than you thought possible.
       </p>
-  <p>
-</p>
-  <div class=" seven wide center aligned column">
+</div>
+  <div class="one wide column">
+</div>
+  <div class=" seven wide column">
+  <div class="ui grid">
+  <div class="sixteen wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+</div>
+  <div class="sixteen wide left bottom aligned column">
+  <p class="p-em-166">Our latest content curation resources:
+          </p>
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+</div>
+  <div class="sixteen wide right aligned column">
+  <p>See all
+            <a href="/resources/">resources </a>
+            <i class="chevron tiny right icon"></i></p>
+</div>
 </div>
 </div>
 </div>
@@ -147,9 +191,9 @@ layout: product.html
 
 <div id="content-publishing" class="ui vertical stripe segment grey-color">
   <div class="ui stackable grid">
-  <div class="seven wide center aligned column">
+  <div class="two wide column">
 </div>
-  <div class="five wide middle aligned column">
+  <div class="five wide column">
   <div class="ui h-bold"> Content Publishing</div>
   <p class="p-em-166">Feature rich queues, approval workflows, automated scheduling and blog posting</p>
   <p>
@@ -159,14 +203,38 @@ layout: product.html
   <p>
         Our highly customizable workflow processes and automated scheduling means content can flow efficiently from discovering to social publishing and blog posting but with full control.</p>
 </div>
+  <div class="one wide column">
+</div>
+  <div class=" seven wide column">
+  <div class="ui grid">
+  <div class="sixteen wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+</div>
+  <div class="sixteen wide left bottom aligned column">
+  <p class="p-em-166">Our latest content publishing resources:
+          </p>
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+</div>
+  <div class="sixteen wide right aligned column">
+  <p>See all
+            <a href="/resources/">resources </a>
+            <i class="chevron tiny right icon"></i></p>
+</div>
+</div>
+</div>
 </div>
 </div>
 
 <div id="ugc-rights-management" class="ui vertical stripe segment">
   <div class="ui stackable grid">
-  <div class="two wide center aligned column">
+  <div class="two wide column">
 </div>
-  <div class="five wide middle aligned column">
+  <div class="five wide column">
   <div class="ui h-bold"> UGC Rights Management</div>
   <p class="p-em-166">Get rights to user-generated content the easy way, with automated workflows to queue publishing on approval</p>
   <p>
@@ -175,7 +243,29 @@ layout: product.html
         With our smart workflow solution, any UGC requiring owner approval can be queued for posting subject to receiving approval.</p>
   <p>
         Once owners give approval using our single-click process, content is automatically scheduled, leaving an electronic paper trail you can use anytime you may need it.</p>
-  <div class=" seven wide center aligned column">
+</div>
+  <div class="one wide column">
+</div>
+  <div class=" seven wide column">
+  <div class="ui grid">
+  <div class="sixteen wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+</div>
+  <div class="sixteen wide left bottom aligned column">
+  <p class="p-em-166">Our latest UGC Rights Management resources:
+          </p>
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+</div>
+  <div class="sixteen wide right aligned column">
+  <p>See all
+            <a href="/resources/">resources </a>
+            <i class="chevron tiny right icon"></i></p>
+</div>
 </div>
 </div>
 </div>
@@ -183,9 +273,9 @@ layout: product.html
 
 <div id="audience-engagement" class="ui vertical stripe segment grey-color">
   <div class="ui stackable grid">
-  <div class="seven wide center aligned column">
+  <div class="two wide column">
 </div>
-  <div class="five wide middle aligned column">
+  <div class="five wide column">
   <div class="ui h-bold"> Audience Engagement</div>
   <p class="p-em-166">Manage your community interactions with fast prioritization of the most valuable engagement</p>
   <p>
@@ -195,14 +285,38 @@ layout: product.html
   <p>
         Rules and filters allow you to get to the highest priority/opportunity messages and make the most of your community management resources.</p>
 </div>
+  <div class="one wide column">
+</div>
+  <div class=" seven wide column">
+  <div class="ui grid">
+  <div class="sixteen wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+</div>
+  <div class="sixteen wide left bottom aligned column">
+  <p class="p-em-166">Our latest audience engagement resources:
+          </p>
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+</div>
+  <div class="sixteen wide right aligned column">
+  <p>See all
+            <a href="/resources/">resources </a>
+            <i class="chevron tiny right icon"></i></p>
+</div>
+</div>
+</div>
 </div>
 </div>
 
 <div id="analytics-dashboards" class="ui vertical stripe segment">
   <div class="ui stackable grid">
-  <div class="two wide center aligned column">
+  <div class="two wide column">
 </div>
-  <div class="five wide middle aligned column">
+  <div class="five wide column">
   <div class="ui h-bold"> Analytics Dashboards</div>
   <p class="p-em-166">Follow your audience as it grows with powerful analytics dashboards to track your growth and success</p>
   <p>
@@ -211,7 +325,29 @@ layout: product.html
         Flockrush features a range of highly customizable report widgets, including real-time streaming to allow you to track audience growth across all channels in one place.</p>
   <p>
         Our AI solutions support rich features language interpretation to allow you to track sentiment and mentions enabling you to visualize and understand what is driving your growth.</p>
-  <div class=" seven wide center aligned column">
+</div>
+  <div class="one wide column">
+</div>
+  <div class=" seven wide column">
+  <div class="ui grid">
+  <div class="sixteen wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+</div>
+  <div class="sixteen wide left bottom aligned column">
+  <p class="p-em-166">Our latest analytics resources:
+          </p>
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+</div>
+  <div class="sixteen wide right aligned column">
+  <p>See all
+            <a href="/resources/">resources </a>
+            <i class="chevron tiny right icon"></i></p>
+</div>
 </div>
 </div>
 </div>
@@ -219,9 +355,9 @@ layout: product.html
 
 <div id="blog-management" class="ui vertical stripe segment grey-color">
   <div class="ui stackable grid">
-  <div class="seven wide center aligned column">
+  <div class="two wide column">
 </div>
-  <div class="five wide middle aligned column">
+  <div class="five wide column">
   <div class="ui h-bold"> Blog Management</div>
   <p class="p-em-166">With Flockrush’s built-in blogging platform your social and blog posting can be fully integrated.
       </p>
@@ -239,6 +375,30 @@ layout: product.html
         Test your current blog performance at
         <a href="https://developers.google.com/speed/pagespeed/insights/">Google speed test. </a>  A key to optimum page ranking.
       </p>
+</div>
+  <div class="one wide column">
+</div>
+  <div class=" seven wide column">
+  <div class="ui grid">
+  <div class="sixteen wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+</div>
+  <div class="sixteen wide left bottom aligned column">
+  <p class="p-em-166">Our latest blogging resources:
+          </p>
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+</div>
+  <div class="eight wide column">
+  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+</div>
+  <div class="sixteen wide right aligned column">
+  <p>See all
+            <a href="/resources/">resources </a>
+            <i class="chevron tiny right icon"></i></p>
+</div>
+</div>
 </div>
 </div>
 </div>
