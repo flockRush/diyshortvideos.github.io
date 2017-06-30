@@ -84,17 +84,17 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
+  <img class="ui image" height="200" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest strategy resources:
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
+  <img class="ui image" height="200" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
   <div class="eight wide column">
-  <img class="ui image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
+  <img class="ui image" height="200" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
