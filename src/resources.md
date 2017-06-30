@@ -19,7 +19,7 @@ layout: resources.html
 <div class="ui bottom attached container space-5em-bottom space-5em">
   <div class="ui stackable link cards">
   <a class="ui card" href="/resources/Why-content-curation-beats-content-creation-for-audience-building"><div class="image">
-  <img src="/img/Flockrush-icon-logo.png">
+  <img src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div><div class="content">
   <div class="description h-small">
                     Why content curation beats content creation for audience building.
