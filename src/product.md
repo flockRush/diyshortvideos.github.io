@@ -67,9 +67,9 @@ layout: product.html
 
 <div id="strategy-guidance" class="ui vertical stripe segment">
   <div class="ui stackable grid">
-  <div class="two wide center aligned column">
+  <div class="two wide column">
 </div>
-  <div class="five wide middle aligned column">
+  <div class="five wide column">
   <div class="ui h-bold"> Strategy Guidance </div>
   <p class="p-em-166">Flockrush resources support you to create an effective marketing strategy to grow audiences on social.</p>
   <p>
@@ -79,14 +79,14 @@ layout: product.html
   <p>
         Every step of the way our guides will support you, as will the Flockrush team, always willing to answer your questions.</p>
 </div>
-  <div class=" seven wide center aligned column">
+  <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <div class="six wide center aligned right floated column">
+  <div class="six wide center floated column">
   <img class="ui image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
 </div>
-  <div class="sixteen wide left aligned column">
+  <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest strategy resources:
             </p>
   <p>
@@ -98,7 +98,7 @@ layout: product.html
   <div class="eight wide column">
   <img class="ui image" src="/img/Flockrush-icon-logo.png" alt="Flockrush logo">
 </div>
-  <div class="sixteen wide right aligned column">
+  <div class="sixteen wide right top aligned column">
   <p>See all
             <a href="/resources/">resources </a>
             <i class="chevron tiny right icon"></i></p>
