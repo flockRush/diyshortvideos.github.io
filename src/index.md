@@ -9,7 +9,7 @@ layout: index.html
   <p class="p-em-166"><i class="checkmark large icongreen icon"></i>
 Killer performing presentation layer across WEBPAGES and SOCIAL
 </p>
-  <p class="p-em-166">i class="checkmark large icongreen icon"&gt;
+  <p class="p-em-166"><i class="checkmark large icongreen icon"></i>
  Content creation and publishing workflows to inspire creativity and amazing results.</p>
 </div>
 </div>
