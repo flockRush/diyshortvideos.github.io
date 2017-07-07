@@ -7,7 +7,7 @@ layout: index.html
 <div class="ui vertical stripe segment grey-color">
   <div class="ui center aligned text container">
   <p class="p-em-166"><i class="checkmark large icongreen icon"></i>
-Killer performing presentation layer across WEBPAGES and SOCIAL
+Killer performing presentation layer across WEBPAGES and SOCIAL.
 </p>
   <p class="p-em-166"><i class="checkmark large icongreen icon"></i>
   Content creation and publishing workflows to inspire and drive results.</p>
