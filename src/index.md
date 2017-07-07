@@ -11,7 +11,7 @@ Killer performing presentation layer across WEBPAGES and SOCIAL.
 </p>
   <p class="p-em-166"><i class="checkmark large icongreen icon"></i>
   Content creation and publishing workflows to inspire and drive results.</p>
-  <p>Clients<a href="http://www.puppydogcrush.com/">Puppy Dog Crush</a>.
+  <p>Portfolio: <a href="http://www.puppydogcrush.com/">Blog </a><a href="https://www.facebook.com/PuppyDogCrush" facebook="" <="" a="">Puppy Dog Crush Fan Pages</a>.
         </p>
 </div>
 </div>
