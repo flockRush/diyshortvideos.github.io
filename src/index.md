@@ -5,10 +5,14 @@ layout: index.html
 <!-- Discover - Tell a story - Build graet Audinces -Promote Home Page --> -
 
 <div class="ui vertical stripe segment grey-color">
-  <div class="ui h-bold"><i class="checkmark large icongreen icon"></i>
+  <div class="ui center aligned text container">
+  <div class="ui h-bold"><i class="checkmark large icongreen icon">
+</i>
 Killer performing presentation layer across WEBPAGES and SOCIAL
 </div>
-  <div class="ui h-bold"><i class="checkmark large icongreen icon"></i> Content creation and publishing workflows to inspire creativity and results. Period.</div>
+  <div class="ui h-bold"><i class="checkmark large icongreen icon">
+</i> Content creation and publishing workflows to inspire creativity and amazing results.</div>
+</div>
 </div>
 
 <div class="ui vertical stripe segment">
