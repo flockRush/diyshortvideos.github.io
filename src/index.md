@@ -10,7 +10,7 @@ layout: index.html
 Killer performing presentation layer across WEBPAGES and SOCIAL
 </p>
   <p class="p-em-166"><i class="checkmark large icongreen icon"></i>
- Content creation and publishing workflows to inspire creativity and amazing results.</p>
+  Content creation and publishing workflows to inspire and drive amazing results.</p>
 </div>
 </div>
 
