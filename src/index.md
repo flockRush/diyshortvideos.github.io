@@ -13,7 +13,7 @@ Killer presentation layer across WEBPAGES and SOCIAL.
   Content creation and publishing workflows to inspire and drive results.</p>
   <p>Portfolio: <a href="http://www.puppydogcrush.com/">Blog </a> and  <a href="https://www.facebook.com/PuppyDogCrush">Facebook fan page </a>for Puppy Dog Crush Fan Pages.
         </p>
-  <p>We are here to ensure your success. What ever it Takes. W.I.T.</p>
+  <p>We are here to ensure your success. Whatever It Takes. W.I.T.</p>
 </div>
 </div>
 
