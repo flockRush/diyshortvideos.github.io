@@ -2,9 +2,9 @@
 layout: index.html
 ---
 
-<!-- Discover - Tell a story - Build graet Audinces -Promote Home Page --> -
+<!-- Discover - Tell a story - Build graet Audinces -Promote Home Page -->
 
-<div class="ui vertical stripe segment grey-color">
+ <div class="ui vertical stripe segment grey-color">
   <div class="ui center aligned text container">
   <p><i class="checkmark large icongreen icon"></i>
 Killer presentation layer across Webpages and Social Fan pages.
