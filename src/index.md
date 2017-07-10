@@ -2,7 +2,7 @@
 layout: index.html
 ---
 
-<!-- Discover - Tell a story - Build graet Audinces -Promote Home Page -->
+<!-- Discover - Tell a story - Build great Audiences -Promote Home Page -->
 
  <div class="ui vertical stripe segment grey-color">
   <div class="ui center aligned text container">

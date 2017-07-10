@@ -4,7 +4,7 @@ layout: product.html
 
 <!-- Product page -->
 
-<div class="ui vertical stripe segment grey-color">
+ <div class="ui vertical stripe segment grey-color">
   <div class="ui center aligned container">
   <div class="ui four stackable link cards feature-cards"><a class="ui card" href="/product/#strategy-guidance">
   <div class="center aligned content">
@@ -125,7 +125,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+  <img class="ui fluid image" src="/img/flockrush-content-discovery-350x150.jpg" alt="Flockrush Content Discovery 350x150">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest content discovery resources:
