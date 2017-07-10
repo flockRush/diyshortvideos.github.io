@@ -43,7 +43,7 @@ $(document).ready(function(){
  $('#pricing-slider').range({
   min: 1,
   max: 7,
-  start: 4,
+  start: 3,
   step: 1,
   onChange: function(value) {
     $('#display-pricing').html(pricings[value]);
