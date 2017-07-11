@@ -49,16 +49,16 @@ Using Flockrush doesn’t just simplify the journey for your content, we also ma
   <p>
 Follow our ten-step strategy and begin your journey to your first one million social fans…</p>
   <p></p>
-  <div class="ui list"><a class="item" href="/#stepone/">Step One: Decide on a subject for your social fan pages</a>
-<a class="item" href="#steptwo">Step Two: Start your content discovery engine</a>
-<a class="item" href="#stepthree">Step Three: Curate your way to high performance</a>
-<a class="item" href="#stepfour">Step Four: Quick and easy user-generated rights management</a>
-<a class="item" href="#stepfive">Step Five: Publish content, prune, publish it again - rinse, repeat</a>
-<a class="item" href="#stepsix">Step Six: Boost your best content to your segmented target market</a>
-<a class="item" href="#stepseven">Step Seven: Engage your audience</a>
-<a class="item" href="#stepeight">Step Eight: Use a blog to gain high volumes of email subscribers, cross-promote your products and monetize your audience</a>
-<a class="item" href="#stepnine">Step Nine: Analyze your results and learn</a>
-<a class="item" href="#stepten">Step Ten: Repeat your success - build another audience!</a></div>
+  <div class="ui list"><a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone/">Step One: Decide on a subject for your social fan pages</a>
+<a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#steptwo">Step Two: Start your content discovery engine</a>
+<a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepthree">Step Three: Curate your way to high performance</a>
+<a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepfour">Step Four: Quick and easy user-generated rights management</a>
+<a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepfive">Step Five: Publish content, prune, publish it again - rinse, repeat</a>
+<a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepsix">Step Six: Boost your best content to your segmented target market</a>
+<a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepseven">Step Seven: Engage your audience</a>
+<a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepeight">Step Eight: Use a blog to gain high volumes of email subscribers, cross-promote your products and monetize your audience</a>
+<a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepnine">Step Nine: Analyze your results and learn</a>
+<a class="item" href="/resources/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepten">Step Ten: Repeat your success - build another audience!</a></div>
   <h3 id="stepone">Step One: Decide on a subject for your social pages</h3>
   <p>You can use Flockrush to manage audience building on any topic. Our core strategy is to find a subject that is of interest to the people you want to target. The rise in influencers and micro-influencers has shown that people will follow and engage in high numbers if the subject is interesting.  The prime objective is building targeted traffic - the subject is simply the vehicle to do that, even if it is unrelated to the reason you want high traffic volumes.</p>
   <p>
