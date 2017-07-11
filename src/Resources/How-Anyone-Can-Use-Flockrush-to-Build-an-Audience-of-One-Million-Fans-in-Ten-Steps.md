@@ -66,7 +66,7 @@ layout: >-
           </td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepnine">Step Nine: </a></td><td>Analyze your results and learn
           </td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepten">Step Ten: </a></td><td>Repeat your success - build another audience!</td></tr></tbody></table>
   <p></p>
-  <h3 id="stepone">Step One: Decide on a subject for your social pages</h3>
+  <h3 id="stepone" class="green">StepOne: Decide on a subject for your social pages</h3>
   <p>You can use Flockrush to manage audience building on any topic. Our core strategy is to find a subject that is of interest to the people you want to target. The rise in influencers and micro-influencers has shown that people will follow and engage
       in high numbers if the subject is interesting. The prime objective is building targeted traffic - the subject is simply the vehicle to do that, even if it is unrelated to the reason you want high traffic volumes.</p>
   <p>
@@ -85,7 +85,7 @@ layout: >-
       where you will learn how to experiment and test topics to ensure alignment with your target audience.</p>
   <p>
       Find out more about picking a subject for your social pages here LINK TO THE RESOURCE DEDICATED TO THIS</p>
-  <h3 id="steptwo">Step Two: Start your content discovery engine</h3>
+  <h3 id="steptwo" class="green">StepTwo: Start your content discovery engine</h3>
   <p>Creating content in high volumes can be very costly, and without any guarantee of success. Finding high performance content, and lots of it, is crucial to building pages that experience constant engagement. Consider a page scheduled with hourly posts
       every day – a year of audience building will need nearly 9,000 posts so discovering content at scale, and quickly, is baked into Flockrush from the outset. </p>
   <p>
@@ -97,7 +97,7 @@ layout: >-
       With Flockrush you also get access to a huge database of high quality, royalty paid, images and videos. These can be used commercially with no extra charges and can be modified at will to make them really engage your audience.</p>
   <p>
       Find out more about how Flockrush can find you almost limitless free content here LINK TO THE RESOURCE DEDICATED TO THIS</p>
-  <h3 id="stepthree">Step Three: Curate your way to high performance</h3>
+  <h3 id="stepthree" class="green">StepThree: Curate your way to high performance</h3>
   <p>To really stand out when using user-generated content you need to present it in a visually original and entertaining way – such adding your own impactful narrative to a video, making a fun meme - anything that takes quality content and makes it a
       great story.</p>
   <p>
@@ -116,7 +116,7 @@ layout: >-
       - with sorting and filtering for easy content performance management.</p>
   <p>
       Find out more about how to curate your content with Flockrush here LINK TO THE RESOURCE DEDICATED TO THIS</p>
-  <h3 id="stepfour">Step Four: Quick and easy user-generated rights management</h3>
+  <h3 id="stepfour" class="green">StepFour: Quick and easy user-generated rights management</h3>
   <p>Using UGC is great to quickly create a pool of low cost, high performance content, but with it comes responsibility to get approval to use it to ensure you aren’t exposing yourself to copyright claims from content owners. </p>
   <p>
       In extreme cases social networks can remove pages who are found to continually flout copyright, and when using UGC in high volumes this in itself can become highly time consuming to administer. With Flockrush a simple single-click process can request
@@ -125,7 +125,7 @@ layout: >-
       Posts can be automatically released for publishing on receipt of authorization without any further involvement from you, so Flockrush really takes the burden out of managing what can be a difficult process.</p>
   <p>
       Find out more about managing UGC content with Flockrush here LINK TO THE RESOURCE DEDICATED TO THIS</p>
-  <h3 id="stepfive">Step Five: Publish content, then publish it again, and again</h3>
+  <h3 id="stepfive" class="green">StepFive: Publish content, then publish it again, and again</h3>
   <p>A key feature of Flockrush to enable publishing at scale is automated scheduling of content queues. Once you add posts to a queue you are ready to push that content to your pages with ease.</p>
   <p>
       Publishing from content queues is as simple as creating a schedule for what days and times (or frequency) to post and letting Flockrush take care of it. Once you have set the rules you only need to be concerned with ensuring your best content gets maximum
@@ -140,7 +140,7 @@ layout: >-
       By republishing your very best content you can improve your post engagement many times over and achieve efficiency that’s hard to deliver any other way.</p>
   <p>
       You can read more about how Flockrush publishes your content here LINK TO THE RESOURCE DEDICATED TO THIS</p>
-  <h3 id="stepsix">Step Six: Promote your best content to your target market</h3>
+  <h3 id="stepsix" class="green">StepSix: Promote your best content to your target market</h3>
   <p>When you start the process of audience building with Flockrush you chose a topic that resonates highly with your target market. So how do you bring in your ideal fans to achieve your overall marketing objectives?</p>
   <p>
       A key component of the strategy is to combine promoted posts with your organic publishing. This achieves three key aims:</p>
@@ -154,7 +154,7 @@ layout: >-
   <p>
       This also opens up the possibility of using consumer focused networks, such as Facebook, to target people not just based on their consumer lifestyle but their professional one too – read our blog about how to target B2B opportunities through Facebook
       to find out more. LINK TO THE RESOURCE DEDICATED TO THIS</p>
-  <h3 id="stepseven">Step Seven: Engage your audience
+  <h3 id="stepseven" class="green">StepSeven: Engage your audience
     </h3>
   <p>When you’ve successfully posting to your pages you will find the most engaging content will generate lots of comments. Whilst you don’t need to acknowledge or reply to every comment, engaging your audience within posts can be a great way to boost
       your post performance.</p>
@@ -163,7 +163,7 @@ layout: >-
   <p>
       Encouraging users to interact will increase the visibility of your posts on follower feeds and make you visible to their followers. Personalized responses with open questions and reasons to like or share posts are a great way to boost engagement and also
       allow you to add further personality to your pages.</p>
-  <h3 id="stepeight">Step Eight: Use a blog to gain high volumes of email subscribers, cross-promote your products and monetize your audience</h3>
+  <h3 id="stepeight" class="green">StepEight: Use a blog to gain high volumes of email subscribers, cross-promote your products and monetize your audience</h3>
   <p>The ultimate aim for having a large audience is to turn it into a successful traffic engine that you can use to grow large numbers of email subscribers, cross promote products and monetize your audience. Social networks typically prioritize content
       that builds quality engagement within their platform, but within your strategy you need to be able to use fan engagement to deliver traffic to the place where you want to activate your marketing.</p>
   <p>
@@ -181,7 +181,7 @@ layout: >-
       possible by other means.</p>
   <p>
       To find out how our high performing blog platform is the key to monetizing your audience read more here LINK TO THE RESOURCE DEDICATED TO THIS</p>
-  <h3 id="stepnine">Step Nine: Analyze your results and learn</h3>
+  <h3 id="stepnine" class="green">StepNine: Analyze your results and learn</h3>
   <p>With Flockrush anyone really can develop and monetize big audience following our strategy of using content to build fans. Tracking and understanding your performance is essential to really drive your effectiveness and here too Flockrush delivers a
       leading feature that delivers effective results.</p>
   <p>
@@ -191,7 +191,7 @@ layout: >-
       Dashboards are quick to set up and easily configured and can be automatically delivered to your inbox as often as you or your team need them. </p>
   <p>
       To learn more about how analytics can support your audience growth read more here LINK TO THE RESOURCE DEDICATED TO THIS</p>
-  <h3 id="stepten">Step Ten: Repeat your success - build another audience!</h3>
+  <h3 id="stepten" class="green">StepTen: Repeat your success - build another audience!</h3>
   <p>You don’t have to wait to get your first million followers before you start building more pages, but once you’ve experienced how Flockrush works you will discover that you can replicate the strategy as many times as you like and reap the benefits
       of building and monetizing big, targeted audiences.</p>
   <p>
