@@ -1,6 +1,6 @@
 ---
 layout: >-
-  Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps.html
+  How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps.html
 ---
 
 <div class="ui left vertical stripe segment">
