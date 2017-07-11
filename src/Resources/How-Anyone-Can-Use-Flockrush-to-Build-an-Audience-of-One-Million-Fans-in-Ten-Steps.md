@@ -88,7 +88,6 @@ layout: >-
                   <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Nine</a>
                   <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Ten</a></div>
 </div>
-  <p></p>
   <h3 id="stepone" class="green">Step One: Decide on a subject for your social pages</h3>
   <p>You can use Flockrush to manage audience building on any topic. Our core strategy is to find a subject that is of interest to the people you want to target. The rise in influencers and micro-influencers has shown that people will follow and engage
       in high numbers if the subject is interesting. The prime objective is building targeted traffic - the subject is simply the vehicle to do that, even if it is unrelated to the reason you want high traffic volumes.</p>
@@ -135,10 +134,7 @@ layout: >-
   <p>
       Curation is where you add value – and getting this right will have a huge impact on the success of your strategy. It’s as much art as science, but once you are publishing content you will quickly learn what works best and how to curate for maximum impact.</p>
   <p>
-      Over time you will generate enough content that recycling your best performing content becomes your primary content source - continuing to grow your fan page audience for you. ‘Pruning’ your content to ensure you reuse the best performing posts is easy</p>
-  <pre><code>  - with sorting and filtering for easy content performance management.&lt;/p&gt;
-</code></pre>
-  <p></p>
+      Over time you will generate enough content that recycling your best performing content becomes your primary content source - continuing to grow your fan page audience for you. ‘Pruning’ your content to ensure you reuse the best performing posts is easy - with sorting and filtering for easy content performance management.</p>
   <p>
       Find out more about how to curate your content with Flockrush here LINK TO THE RESOURCE DEDICATED TO THIS</p>
   <h3 id="stepfour" class="green">Step Four: Quick and easy user-generated rights management</h3>
