@@ -4,7 +4,7 @@ layout: product.html
 
 <!-- Product page -->
 
-<div class="ui vertical stripe segment grey-color">
+ <div class="ui vertical stripe segment grey-color">
   <div class="ui center aligned container">
   <div class="ui four stackable link cards feature-cards"><a class="ui card" href="/product/#strategy-guidance">
   <div class="center aligned content">
@@ -79,10 +79,10 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+  <img class="ui fluid image" src="/img/flockrush-build-an-audience-of-million-in-10-steps.jpg" alt="Build an audience of million in 10 steps">
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+  <img class="ui fluid image" height="200" src="/img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt="How to choose a topic to build an audience">
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
@@ -120,7 +120,7 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+  <img class="ui fluid image" src="/img/discovering-content-at-scale–how-to-find-free-content-using-Flockrush.jpg" alt="Discovering Content at scale how to find free content using Flockrush">
 </div>
   <div class="eight wide column">
   <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
@@ -161,7 +161,7 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+  <img class="ui fluid image" src="/img/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush">
 </div>
   <div class="eight wide column">
   <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
@@ -203,7 +203,7 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+  <img class="ui fluid image" src="/img/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed.jpg" alt="How Flockrush uses content queues to get your fan pages noticed">
 </div>
   <div class="eight wide column">
   <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
@@ -244,7 +244,7 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+  <img class="ui fluid image" src="/img/What-you-need-to-know-about-UGC-rights-approval.jpg" alt="What you need to know about UGC rights approval">
 </div>
   <div class="eight wide column">
   <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
@@ -335,7 +335,7 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+  <img class="ui fluid image" src="/img/Using-Audience-Engagement-To-Grow-Fans-with-flockrush.jpg" alt="Using Audience Engagement To Grow Fans with flockrush">
 </div>
   <div class="eight wide column">
   <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
@@ -376,7 +376,7 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush add 170x125">
+  <img class="ui fluid image" src="/img/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages.jpg" alt="Audience Building By Numbers using analytics to grow your fan pages">
 </div>
   <div class="eight wide column">
   <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
