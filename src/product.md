@@ -79,7 +79,9 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-build-an-audience-of-million-in-10-steps.jpg" alt="Build an audience of million in 10 steps">
+  <a href="/Audience-Fan-Page-Building-101-How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps" class="ui fluid image">
+  <img src="img/flockrush-build-an-audience-of-million-in-10-steps.jpg" alt="Build an audience of million in 10 steps">
+</a>
 </div>
   <div class="eight wide column">
   <img class="ui fluid image" height="200" src="/img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt="How to choose a topic to build an audience">
