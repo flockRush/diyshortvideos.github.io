@@ -148,6 +148,19 @@ h5 {
   font-weight:300!important;
 }
 
+.image {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+
+h-image { 
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+}
+
+
 .h-small {
   font-size:1.4em!important;
   font-weight:300!important;

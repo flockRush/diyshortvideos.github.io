@@ -125,7 +125,10 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-content-discovery-350x150.jpg" alt="Flockrush Content Discovery 350x150">
+  <div class="imagemiddle"><img class="ui fluid image" src="/img/flockrush-content-discovery-350x150.jpg" alt="Flockrush Content Discovery 350x150">
+  <h-image>CONTENT DISCOVERY</h-image></div>
+  <p>
+</p>
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest content discovery resources:
