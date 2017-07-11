@@ -22,8 +22,7 @@ layout: resources.html
   <img src="img/flockrush-build-an-audience-of-million-in-10-steps.jpg" alt="Build an audience of million in 10 steps">
 </div><div class="content">
   <div class="description h-small">
-                    Build an audience of million in 10 steps
-       </div>
+How Anyone Can Use Flockrush to Build an Audience of One Million Fans in Ten Steps.       </div>
 </div><div class="extra content">
                 Audience Fan Page Building 101
      </div></a>
