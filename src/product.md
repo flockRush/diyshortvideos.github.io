@@ -128,6 +128,11 @@ layout: product.html
   <div class="imagemiddle"><img class="ui fluid image" src="/img/flockrush-content-discovery-350x150.jpg" alt="Flockrush Content Discovery 350x150">
   <h-image>
   <span>CONTENT DISCOVERY</span>
+</h-image>
+
+<h-image>
+  <span>A Movie in the Park:<span class="spacer">
+</span></span>
 </h-image></div>
   <p>
 </p>
