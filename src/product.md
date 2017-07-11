@@ -84,7 +84,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+  <img class="ui fluid image" src="/img/flockrush-STRATEGY-GUIDANCE-350x150.jpg" alt="Flockrush add 350x150">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest strategy resources:
@@ -125,7 +125,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-content-discovery-350x150.jpg" alt="Flockrush Content Discovery 350x150">
+  <img class="ui fluid image" src="/img/flockrush-Content-Discovery-Main-350x150.jpg" alt="Flockrush Content Discovery 350x150">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest content discovery resources:
