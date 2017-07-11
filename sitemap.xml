@@ -4,33 +4,42 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-            <url>
-              <loc>http://www.flockrush.com/</loc>
-              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
-            </url>
-            <url>
-              <loc>http://www.flockrush.com/product/</loc>
-              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
-            </url>
-            <url>
-              <loc>http://www.flockrush.com/resources/</loc>
-              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
-            </url>
-            <url>
-              <loc>http://www.flockrush.com/pricing/</loc>
-              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
-            </url>
-            <url>
-              <loc>http://www.flockrush.com/about/</loc>
-              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
-            </url>
-            <url>
-              <loc>http://www.flockrush.com/privacy-policy/</loc>
-              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
-            </url>
-            <url>
-              <loc>http://www.flockrush.com/terms-of-service/</loc>
-              <lastmod>2017-06-30T19:41:19+00:00</lastmod>
-            </url>
+<url>
+  <loc>http://www.flockrush.com/</loc>
+  <lastmod>2017-07-11T21:54:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.flockrush.com/product/</loc>
+  <lastmod>2017-07-11T21:54:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.flockrush.com/resources/</loc>
+  <lastmod>2017-07-11T21:54:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.flockrush.com/pricing/</loc>
+  <lastmod>2017-07-11T21:54:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.flockrush.com/about/</loc>
+  <lastmod>2017-07-11T21:54:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.flockrush.com/privacy-policy/</loc>
+  <lastmod>2017-07-11T21:54:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.flockrush.com/terms-of-service/</loc>
+  <lastmod>2017-07-11T21:54:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.flockrush.com/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/</loc>
+  <lastmod>2017-07-11T21:54:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.flockrush.com/custom-demo/</loc>
+  <lastmod>2017-07-11T21:54:14+00:00</lastmod>
+</url>
 </urlset>
