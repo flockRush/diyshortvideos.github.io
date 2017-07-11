@@ -580,3 +580,7 @@ html.ios body {
   left: 0;
   transition: left 0.5s ease;
 }
+
+.overlay.fixed .menu {
+   left: 800px;
+ }
