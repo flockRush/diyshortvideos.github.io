@@ -167,7 +167,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+  <img class="ui fluid image" src="/img/flockrush-content-curation-350x150.jpg" alt="Flockrush Content Curation">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest content curation resources:
@@ -208,7 +208,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+  <img class="ui fluid image" src="/img/flocrush-content-publishing-350x150.jpg" alt="Flockrush Content Publishing">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest content publishing resources:
@@ -249,7 +249,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+  <img class="ui fluid image" src="/img/flockrush-ugc-management-350x150.jpg" alt="Flockrush UGC Rights Management">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest UGC Rights Management resources:
@@ -290,7 +290,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+  <img class="ui fluid image" src="/img/flockrush-AUDIENCE-ENGAGEMENT-350x150.jpg" alt="Flockrush Audience Engagement">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest audience engagement resources:
@@ -331,7 +331,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+  <img class="ui fluid image" src="/img/flockrush-ANALYTICS-DASHBOARDS-350x150.jpg" alt="Flockrush Analytics Dashboards">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest analytics resources:
@@ -381,7 +381,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-350x150.jpg" alt="Flockrush add 350x150">
+  <img class="ui fluid image" src="/img/flockrush-BLOG-MANAGEMENT-350x150.jpg" alt="Flockrush Blog Management">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest blogging resources:
