@@ -29,7 +29,7 @@ layout: resources.html
   <img src="img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt=" Choosing topics to build your audiences">
 </div><div class="content">
   <div class="description h-small">
-          How to choose a topic to build an audience</div>
+           Choosing topics to build your audiences  </div>
 </div><div class="extra content">
         How to find topics 101
       </div></a>
