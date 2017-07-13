@@ -7,5 +7,8 @@ layout: thankyou-subscription.html
   <div class="ui center aligned header">
       Expect to learn about a proven strategy to engage and monetize audiences.
   </div>
+  <div class="item space-3em">
+  <a class="ui blue button button-font-format" href="http://www.flockrush.com">« return to home page</a>
+</div>
 </div>
 </div>
