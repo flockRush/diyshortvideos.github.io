@@ -26,7 +26,7 @@ layout: resources.html
         Audience Fan Page Building 101
       </div></a>
     <a class="ui card" href="/resources/How-to-choose-a-topic-to-build-a-fan-page/"><div class="image">
-  <img src="img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt="How to choose a topic to build an audience">
+  <img src="img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt=" Choosing topics to build your audiences">
 </div><div class="content">
   <div class="description h-small">
           How to choose a topic to build an audience</div>
