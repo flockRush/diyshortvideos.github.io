@@ -56,36 +56,36 @@ layout: How-to-build-an-audience-of-one-million-fans-in-ten-steps.html
       Using Flockrush doesn’t just simplify the journey for your content, we also make it happen more effectively thanks to our focus on making every step of the process uniquely aligned to the needs of audience builders.</p>
   <p>
       Follow our ten-step strategy and begin your journey to your first one million social fans…</p>
-  <table class="ui very basic collapsing celled table table-compact"><tbody><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step One</a></td><td>Decide on a subject for your social fan pages</td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#steptwo">Step Two</a></td><td>Start your content discovery engine</td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepthree">Step Three</a></td><td>Curate your way to high performance
-          </td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepfour">Step Four</a></td><td>Quick and easy user-generated rights management
-          </td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepfive">Step Five</a></td><td>Publish content, prune, publish it again - rinse, repeat
-          </td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepsix">Step Six</a></td><td>Boost your best content to your segmented target market
-          </td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepseven">Step Seven</a></td><td>Engage your audience
-          </td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepeight">Step Eight</a></td><td>Use a blog to gain high volumes of email subscribers, cross-promote your products and monetize your audience
-          </td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepnine">Step Nine</a></td><td>Analyze your results and learn
-          </td></tr><tr><td><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepten">Step Ten</a></td><td>Repeat your success - build another audience!</td></tr></tbody></table>
+  <table class="ui very basic collapsing celled table table-compact"><tbody><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step One</a></td><td>Decide on a subject for your social fan pages</td></tr><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#steptwo">Step Two</a></td><td>Start your content discovery engine</td></tr><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepthree">Step Three</a></td><td>Curate your way to high performance
+          </td></tr><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepfour">Step Four</a></td><td>Quick and easy user-generated rights management
+          </td></tr><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepfive">Step Five</a></td><td>Publish content, prune, publish it again - rinse, repeat
+          </td></tr><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepsix">Step Six</a></td><td>Boost your best content to your segmented target market
+          </td></tr><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepseven">Step Seven</a></td><td>Engage your audience
+          </td></tr><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepeight">Step Eight</a></td><td>Use a blog to gain high volumes of email subscribers, cross-promote your products and monetize your audience
+          </td></tr><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepnine">Step Nine</a></td><td>Analyze your results and learn
+          </td></tr><tr><td><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepten">Step Ten</a></td><td>Repeat your success - build another audience!</td></tr></tbody></table>
   <div class="overlay">
-  <div class="ui labeled icon vertical menu"><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step One</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#steptwo">Step Two</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepthree">Step Three</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepfour">Step Four</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepfive">Step Five</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepsix">Step Six</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepseven">Step Seven</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepeight">Step Eight</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepnine">Step Nine</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepten">Step Ten</a></div>
+  <div class="ui labeled icon vertical menu"><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step One</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#steptwo">Step Two</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepthree">Step Three</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepfour">Step Four</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepfive">Step Five</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepsix">Step Six</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepseven">Step Seven</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepeight">Step Eight</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepnine">Step Nine</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepten">Step Ten</a></div>
 </div>
   <div class="overlay placeholder" style="display: none;">
-  <div class="ui labeled icon vertical menu"><a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Two</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Three</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Four</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Five</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Six</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Seven</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Eight</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Nine</a>
-                  <a class="item" href="/resources/How-Anyone-Can-Use-Flockrush-to-Build-an-Audience-of-One-Million-Fans-in-Ten-Steps/#stepone">Step Ten</a></div>
+  <div class="ui labeled icon vertical menu"><a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step Two</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step Three</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step Four</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step Five</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step Six</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step Seven</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step Eight</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step Nine</a>
+                  <a class="item" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/#stepone">Step Ten</a></div>
 </div>
   <h3 id="stepone" class="green">Step One: Decide on a subject for your social pages</h3>
   <p>You can use Flockrush to manage audience building on any topic. Our core strategy is to find a subject that is of interest to the people you want to target. The rise in influencers and micro-influencers has shown that people will follow and engage
