@@ -27,22 +27,22 @@ How Anyone Can Use Flockrush to Build an Audience of One Million Fans in Ten Ste
                 Audience Fan Page Building 101
      </div></a>
 </div>
-</div>
-
-<div class="ui bottom attached container space-5em-bottom space-5em">
+  <div class="ui bottom attached container space-5em-bottom space-5em">
   <div class="ui stackable link cards">
-  <a class="ui card" href="/resources/How-to-choose-a-topic-to-build-a-fan-page/"><div class="image">
+  <a class="ui card" href="/resources/How-to-choose-a-topic-to-build-a-fan-page/">
+  <div class="image">
   <img src="img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt="How to choose a topic to build an audience">
-</div><div class="content">
+</div>
+  <div class="content">
   <div class="description h-small">
 How to choose a topic to build an audience</div>
-</div><div class="extra content">
+</div>
+  <div class="extra content">
                 How to find topics 101
-     </div></a>
+     </div>
+</a>
 </div>
-</div>
-
-<div class="ui bottom attached container space-5em-bottom space-5em">
+  <div class="ui bottom attached container space-5em-bottom space-5em">
   <div class="ui stackable link cards">
   <a class="ui card" href="/resources/Discoving-content-at-scale-how-to-find-high-performing-content-for-free-using-Flockrush/"><div class="image">
   <img src="/img/discovering-content-at-scale–how-to-find-free-content-using-Flockrush.jpg" alt="Discovering Content at scale how to find free content using Flockrush">
@@ -52,5 +52,7 @@ Discover high performance content at scale</div>
 </div><div class="extra content">
                 Finding content
      </div></a>
+</div>
+</div>
 </div>
 </div>
