@@ -34,7 +34,7 @@ layout: How-to-choose-a-topic-to-build-a-fan-page.html
       scope for a large audience. </p>
   <p>You are looking for pages with many millions of followers, and a high volume of those from this group, ideally millions. Facebook ranks relevance, shows the total Facebook following for the page and the number of followers from your demographic selection.
       </p>
-  <p><img alt="Facebook traffic opportunities" src="img/Facebook-traffic-opportunities.png" title=""></p>
+  <p><img alt="Facebook traffic opportunities" src="img/facebook-traffic-opportunities.png" title=""></p>
   <p></p>
   <p>This can give you a quick reference to see where the traffic opportunities lie. </p>
   <h3 class="ui header">
