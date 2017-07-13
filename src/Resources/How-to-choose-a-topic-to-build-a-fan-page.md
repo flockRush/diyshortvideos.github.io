@@ -12,7 +12,7 @@ layout: How-to-choose-a-topic-to-build-a-fan-page.html
       <a href="https://www.facebook.com/business/news/audience-insights">https://www.facebook.com/ads/audience-insights/</a>
       ) gives you a wealth of insights in to the interests of demographic profiles you can select.
     </p>
-  <p><img alt="uncover Facebook topic ideas" src="img/uncover- facebook-topic-ideas.png"></p>
+  <p><img alt="uncover Facebook topic ideas" src="img/uncover-facebook-topic-ideas.png"></p>
   <p>So here's how you can use this to uncover ideas on topics for your fan pages. </p>
   <h3 class="ui header">Filter with your target audience, but without being too restrictive.
     </h3>
