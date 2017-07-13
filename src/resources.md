@@ -46,7 +46,7 @@ layout: resources.html
   <img src="img/How-to-choose-images-primed-for-social-engagement.jpg" alt="How to choose images primed for social engagement">
 </div><div class="content">
   <div class="description h-small">
-      How to choose images primed for social engagement
+      Find images primed for social engagement
 </div>
 </div><div class="extra content">
 Choosing great media        </div></a></div>
