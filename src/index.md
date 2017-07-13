@@ -10,8 +10,9 @@ layout: index.html
 Killer presentation layer across Webpages and Social Fan pages.
 </p>
   <p><i class="checkmark large icongreen icon"></i>
-  Content creation and publishing workflows to inspire and drive results.</p>
-  <p class="p-em-166">Portfolio</p>
+  Content creation and publishing workflows to inspire deliver what people wanna see.</p>
+  <p><i class="checkmark large icongreen icon"></i>
+   Engage and monetize your audiences like never before.</p>
   <p><a href="http://www.puppydogcrush.com/">Blog </a> and  <a href="https://www.facebook.com/PuppyDogCrush">Facebook fan page </a>for Puppy Dog Crush.
   </p>
 </div>
