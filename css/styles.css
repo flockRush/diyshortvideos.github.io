@@ -291,6 +291,11 @@ img {
   max-width:100%
 }
 
+#narrow-masthead {
+    min-height: 400px;
+    padding: 1em 0em;
+  }
+
 .cropsegment500{
   height:500px;
   overflow:hidden;
@@ -339,6 +344,8 @@ img {
 .space-notchem-bottom {
   margin-bottom: .9em!important;
 }
+
+
 
 .space-12em {
   margin-top: 12em!important;
