@@ -1,5 +1,5 @@
 ---
-layout: thankyou-confirmation.html
+layout: Thank-you-for-your-Subscription-Confirmation.html
 ---
 
 <div class="ui vertical stripe segment vertical-segment-grey-color">
