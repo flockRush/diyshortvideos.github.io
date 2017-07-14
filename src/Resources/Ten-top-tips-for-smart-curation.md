@@ -21,7 +21,7 @@ layout: Ten-top-tips-for-smart-curation.html
       <a class="item"><span class="bold-notchup">Recycle and reuse </span>- Save your best content and re-use it, remembering most of your audience are unlikely to see your organic content in their feeds. By re-publishing it you can continue to grow engagement significantly</a></div>
   <p>Becoming a great curator gives you the opportunity to grow audiences without the high cost of creating your own brand content.
   </p>
-  <p>Flockrush is purpose built to help curators grow audiences quickly - to find out more about Flockrush and the role of curation have a look at Why Content Curation Beats Content Creation for Audience Building. [INSERT LINK TO RESOURCE]
+  <p>Flockrush is purpose built to help curators grow audiences quickly - to find out more about Flockrush and the role of curation have a look at <a href="resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building/">Why Content Curation Beats Content Creation for Audience Building</a>. 
   </p>
 </div>
 </div>
