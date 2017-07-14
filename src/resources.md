@@ -49,5 +49,22 @@ layout: resources.html
       Find images primed for social engagement
 </div>
 </div><div class="extra content">
-Choosing great media        </div></a></div>
+Choosing great media        </div></a>
+
+
+<a class="ui card" href="/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building"><div class="image">
+  <img src="/img/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush">
+</div><div class="content">
+  <div class="description h-small">
+Understand why content curation is so effective to build your fan page audience</div>
+</div><div class="extra content">
+Why Content Curation</div></a>
+
+<a class="ui card" href="/resources/Ten-top-tips-for-smart-curation"><div class="image">
+  <img src="/img/Ten-top-tips-for-smart-curation-flockrush.jpg" alt="Ten top tips for smart curation flockrush">
+</div><div class="content">
+  <div class="description h-small">
+How to curate content more effectively to get more social engagement</div>
+</div><div class="extra content">
+10 Top Tips        </div></a></div>
 </div>

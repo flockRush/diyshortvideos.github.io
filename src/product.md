@@ -168,11 +168,14 @@ layout: product.html
   <p class="p-em-166">Our latest content curation resources:
           </p>
 </div>
+  <div class="eight wide column"><a href="/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building" class="ui fluid image">
+  <img src="/img/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush">
+</a>
+  <br></div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush">
-</div>
-  <div class="eight wide column">
-  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+  <a href="/resources/Ten-top-tips-for-smart-curation" class="ui fluid image">
+  <img src="/img/Ten-top-tips-for-smart-curation-flockrush.jpg" alt="Ten top tips for smart curation flockrush">
+</a>
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all

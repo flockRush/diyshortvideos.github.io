@@ -200,6 +200,13 @@ h5 {
   font-size:1.04em!important;
 }
 
+.bold-notchup {
+  font-size:1.04em!important;
+  font-weight: bold!important;
+
+}
+
+
   @media only screen and (max-width: 700px) {
     .ui.fixed.menu {
       display: none !important;
