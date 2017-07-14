@@ -52,8 +52,8 @@ layout: How-to-choose-a-topic-to-build-a-fan-page.html
       Consider all your options
     </h3>
   <p>Your hunt may offer you a number of topics to consider. Look at the options that have the performance potential and review them against: </p>
-  <div class="ui ordered list p-light-up"><a>Is there a good source of content for this topic – look in Flockrush content discovery to see what UGC and royalty paid images are there </a>
-  <a>How much interest you have in the topic – where you have a number of curators and a number of topics it’s always best to match people to the topics that most engage them so they will be able to curate the best content </a></div>
+  <div class="ui ordered list p-light-up"><a class="item">Is there a good source of content for this topic – look in Flockrush content discovery to see what UGC and royalty paid images are there </a>
+    <a class="item">How much interest you have in the topic – where you have a number of curators and a number of topics it’s always best to match people to the topics that most engage them so they will be able to curate the best content </a></div>
   <h3 class="ui header">
       Working backwards - validating your ideas
     </h3>
