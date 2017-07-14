@@ -9,7 +9,7 @@ layout: Ten-top-tips-for-smart-curation.html
         </h2>
   <p><i class="bigquote">"A curator is an information chemist. He or she mixes atoms together in a way to build an info-molecule. Then adds value to that molecule" - Robert Scoble</i></p>
   <p class="p-em-166">Tips for curating with the best:</p>
-  <div class="ui ordered list"><a class="item"><span class="bold-notchup">Work with a subject that you are interested in </span> - curation needs creativity, which will be easier if you are interested in why you're posting.</a>
+  <div class="ui ordered list p-light-up"><a class="item"><span class="bold-notchup">Work with a subject that you are interested in </span> - curation needs creativity, which will be easier if you are interested in why you're posting.</a>
       <a class="item"><span class="bold-notchup">Develop a consistent style </span>- growing and retaining followers needs consistency, develop a style that works and use it.</a>
       <a class="item"><span class="bold-notchup">Add value to your posts ondurationchange=""</span>- curation needs to add commentary, questions, observations to posts that will increase your fans' engagement audiences need entertaining!</a>
       <a class="item"><span class="bold-notchup">Have an opinion </span>-  when sharing content add your personality to it and give a view on what you think is great about it</a>
@@ -21,7 +21,7 @@ layout: Ten-top-tips-for-smart-curation.html
       <a class="item"><span class="bold-notchup">Recycle and reuse </span>- Save your best content and re-use it, remembering most of your audience are unlikely to see your organic content in their feeds. By re-publishing it you can continue to grow engagement significantly</a></div>
   <p>Becoming a great curator gives you the opportunity to grow audiences without the high cost of creating your own brand content.
   </p>
-  <p>Flockrush is purpose built to help curators grow audiences quickly - to find out more about Flockrush and the role of curation have a look at <a href="resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building/">Why Content Curation Beats Content Creation for Audience Building</a>. 
+  <p>Flockrush is purpose built to help curators grow audiences quickly - to find out more about Flockrush and the role of curation have a look at <a href="resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building/">Why Content Curation Beats Content Creation for Audience Building</a>.
   </p>
 </div>
 </div>
