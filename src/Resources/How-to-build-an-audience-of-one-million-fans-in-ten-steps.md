@@ -21,6 +21,7 @@ layout: How-to-build-an-audience-of-one-million-fans-in-ten-steps.html
   <p>
       People have enormous interest in so many things, but for brands organic reach is heading only one way - and that’s towards zero, as reported by
       <a href="https://social.ogilvy.com/facebook-zero-considering-life-after-the-demise-of-organic-reach/">social@Ogilvy.</a></p>
+  <p><img class="ui fluid image" src="/img/Organic-Reach-Chart.png" alt="Ogilvy  Facebook Organic Reach Report"></p>
   <p>
       Flockrush combats this by using a topics of broad interest that appeal to human desires for entertainment, intrigue and education - such as travel, cute pets, stocks or “how to” hacks - it’s far easier to build highly engaged fan page communities, and
       using the Flockrush strategy these audiences are built with target demographics and segmentation, aligned to your brand.</p>
