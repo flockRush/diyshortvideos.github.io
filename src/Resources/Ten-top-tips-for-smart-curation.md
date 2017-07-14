@@ -9,7 +9,7 @@ layout: Ten-top-tips-for-smart-curation.html
     </h2>
   <p><i class="bigquote">"A curator is an information chemist. He or she mixes atoms together in a way to build an info-molecule. Then adds value to that molecule" - Robert Scoble</i></p>
   <p class="p-em-166">Tips for curating with the best:</p>
-  <div class="ui ordered list">
+  <div class="ui ordered list p-light-up">
   <div class="item">
   <div class="content">
   <a class="header">Work with a subject that you are interested in</a>
