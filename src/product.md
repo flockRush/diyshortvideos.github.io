@@ -299,16 +299,16 @@ layout: product.html
   <p class="p-em-166">Our latest blogging resources:
           </p>
 </div>
-  <p></p>
+  <div class="eight wide column">
+  <a href="/resources/Why-your-fan-page-audience-needs-a-Flockrush-blog/" class="ui fluid image">
+  <img src="/img/Why-your-fanpage-audience-needs-a-Flockrush-blog.jpg" alt="Why your fan page audience needs a Flockrush blog">
+</a>
 </div>
   <div class="eight wide column">
-  <a href="/resources/Why-your-fan-page-audience-needs-a-Flockrush-blog/" class="ui fluid image"><img src="/img/Why-your-fanpage-audience-needs-a-Flockrush-blog.jpg" alt="Why your fan page audience needs a Flockrush blog"></a>
+  <a href="/resources/The-Flockrush-guide-to-monetizing-your-blog/" class="ui fluid image">
+  <img src="/img/The-Flockrush-guide-to-monetizing-your-blog.jpg" alt="The Flockrush guide to monetizing your blog">
+</a>
 </div>
-  <div class="eight wide column">
-  <a href="/resources/The-Flockrush-guide-to-monetizing-your-blog/" class="ui fluid image"><img src="/img/The-Flockrush-guide-to-monetizing-your-blog.jpg" alt="The Flockrush guide to monetizing your blog"></a>
-</div>
-  <p>
-</p>
   <div class="sixteen wide right aligned column">
   <p>See all
             <a href="/resources/">resources </a>
@@ -338,8 +338,7 @@ layout: product.html
       </p>
 </div>
 </div>
-
-<div id="audience-engagement" class="ui vertical stripe segment grey-color">
+  <div id="audience-engagement" class="ui vertical stripe segment grey-color">
   <div class="ui stackable grid">
   <div class="two wide column">
 </div>
@@ -351,6 +350,7 @@ layout: product.html
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest audience engagement resources:
           </p>
+</div>
   <div class="eight wide column">
   <img class="ui fluid image" src="/img/Using-Audience-Engagement-To-Grow-Fans-with-flockrush.jpg" alt="Using Audience Engagement To Grow Fans with flockrush">
 </div>
