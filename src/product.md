@@ -354,10 +354,10 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/Using-Audience-Engagement-To-Grow-Fans-with-flockrush.jpg" alt="Using Audience Engagement To Grow Fans with flockrush">
+  <a href="/resources/Using-Audience-Engagement-To-Grow-Fans/" class="ui fluid image"><img src="/img/Using-Audience-Engagement-To-Grow-Fans-with-flockrush.jpg" alt="Using Audience Engagement To Grow Fans with flockrush"></a>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+  <a href="/resources/Driving-engagement-through-your-fan-page-audience/" class="ui fluid image"><img src="/img/Driving-engagement-through-your-fan-page-audience.jpg" alt="Driving engagement through your fan page"></a>
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
@@ -394,10 +394,10 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages.jpg" alt="Audience Building By Numbers using analytics to grow your fan pages">
+  <a href="/resources/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages/" class="ui fluid image"><img src="/img/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages.jpg" alt="Audience Building By Numbers using analytics to grow your fan pages"></a>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+  <a href="/resources/The-Flockrush-guide-to-beginners-social-analytics/" class="ui fluid image"><img src="/img/flockrush-ad-170x125.jpg" alt="A Flockrush guide to getting started with social analytics"></a>
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
@@ -420,5 +420,4 @@ layout: product.html
 </div>
 </div>
 </div>
-  <p>&gt;</p>
 </div>
