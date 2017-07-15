@@ -262,7 +262,7 @@ layout: product.html
   <img class="ui fluid image" src="/img/What-you-need-to-know-about-UGC-rights-approval.jpg" alt="What you need to know about UGC rights approval">
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
@@ -299,12 +299,16 @@ layout: product.html
   <p class="p-em-166">Our latest blogging resources:
           </p>
 </div>
-  <div class="eight wide column">
-  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush ad 170x125">
+  <p></p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+  <a href="/resources/Why-your-fan-page-audience-needs-a-Flockrush-blog/" class="ui fluid image"><img src="/img/Why-your-fanpage-audience-needs-a-Flockrush-blog.jpg" alt="Why your fan page audience needs a Flockrush blog"></a>
 </div>
+  <div class="eight wide column">
+  <a href="/resources/The-Flockrush-guide-to-monetizing-your-blog/" class="ui fluid image"><img src="/img/The-Flockrush-guide-to-monetizing-your-blog.jpg" alt="The Flockrush guide to monetizing your blog"></a>
+</div>
+  <p>
+</p>
   <div class="sixteen wide right aligned column">
   <p>See all
             <a href="/resources/">resources </a>
@@ -334,7 +338,6 @@ layout: product.html
       </p>
 </div>
 </div>
-</div>
 
 <div id="audience-engagement" class="ui vertical stripe segment grey-color">
   <div class="ui stackable grid">
@@ -353,7 +356,7 @@ layout: product.html
   <img class="ui fluid image" src="/img/Using-Audience-Engagement-To-Grow-Fans-with-flockrush.jpg" alt="Using Audience Engagement To Grow Fans with flockrush">
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
@@ -394,7 +397,7 @@ layout: product.html
   <img class="ui fluid image" src="/img/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages.jpg" alt="Audience Building By Numbers using analytics to grow your fan pages">
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+  <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
@@ -418,4 +421,4 @@ layout: product.html
 </div>
 </div>
 
- >
+>
