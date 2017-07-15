@@ -259,7 +259,9 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/What-you-need-to-know-about-UGC-rights-approval.jpg" alt="What you need to know about UGC rights approval">
+  <a href="/resources/What-you-need-to-know-about-UGC-rights-approval/" class="ui fluid image">
+  <img src="/img/What-you-need-to-know-about-UGC-rights-approval.jpg" alt="What you need to know about UGC rights approval">
+</a>
 </div>
   <div class="eight wide column">
   <img class="ui fluid image" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
