@@ -69,7 +69,7 @@ layout: >-
   <p>If you have content you want to add to Flockrush that’s easy too – our publishing tool allows you to create posts with any of your own content and add them to your content queues to be used like any content you find in Flockrush. You simply
       upload your media and then curate the post.
   </p>
-  <p><img alt="Use content from all sources" src="img/use-content-from-all-sources.png" <="" p=""></p>
+  <p><img alt="Use content from all sources" src="img/use-content-from-all-sources.png"></p>
   <p></p>
   <h3 class="ui header">
     How do I get the most out of the free content in Flockrush?
