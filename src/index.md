@@ -7,13 +7,14 @@ layout: index.html
  <div class="ui vertical stripe segment grey-color">
   <div class="ui center aligned text container">
   <p><i class="checkmark large icongreen icon"></i>
-Killer presentation layer across Webpages and Social Fan pages.
+  Our killer, high performance presentation layer manages all your content across blog and social fan pages</p>
+  <p><i class="checkmark large icongreen icon"></i>
+  Comprehensive creative and publishing workflows enable teams to discover and deliver great creative content</p>
+  <p><i class="checkmark large icongreen icon"></i>
+  Engage and monetize your audiences like never before - all within one powerful platform
 </p>
-  <p><i class="checkmark large icongreen icon"></i>
-  Content creative and publishing workflows to deliver what people wanna see.</p>
-  <p><i class="checkmark large icongreen icon"></i>
-   Engage and monetize your audiences like never before.</p>
-  <p><a href="http://www.puppydogcrush.com/">Blog </a> and  <a href="https://www.facebook.com/PuppyDogCrush">Facebook fan page </a>for Puppy Dog Crush.
+  <p>
+    See our live marketing case study "Puppy Dog Crush" using a <a href="http://www.puppydogcrush.com/">Flockrush Blog </a> and <a href="https://www.facebook.com/PuppyDogCrush">Facebook fan page </a> to target B2B aligned fans via cute canines!.
   </p>
 </div>
 </div>
