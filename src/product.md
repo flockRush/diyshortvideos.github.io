@@ -214,10 +214,14 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" src="/img/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed.jpg" alt="How Flockrush uses content queues to get your fan pages noticed">
+  <a href="/resources/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed/" class="ui fluid image">
+  <img src="/img/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed.jpg" alt="How Flockrush uses content queues to get your fan pages noticed">
+</a>
 </div>
   <div class="eight wide column">
-  <img class="ui fluid image" height="200" src="/img/flockrush-ad-170x125.jpg" alt="Flockrush logo">
+  <a href="/resources/Ten-habits-of-high-performance-content-managers/" class="ui fluid image">
+  <img src="/img/Ten-habits-of-high-performance-content-managers.jpg" alt="Ten habits of high performance content managers">
+</a>
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
@@ -413,3 +417,5 @@ layout: product.html
 </div>
 </div>
 </div>
+
+ >
