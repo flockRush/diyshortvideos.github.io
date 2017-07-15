@@ -351,7 +351,6 @@ layout: product.html
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest audience engagement resources:
           </p>
-</div>
   <div class="eight wide column">
   <img class="ui fluid image" src="/img/Using-Audience-Engagement-To-Grow-Fans-with-flockrush.jpg" alt="Using Audience Engagement To Grow Fans with flockrush">
 </div>
@@ -379,8 +378,7 @@ layout: product.html
 </div>
 </div>
 </div>
-
-<div id="analytics-dashboards" class="ui vertical stripe segment">
+  <div id="analytics-dashboards" class="ui vertical stripe segment">
   <div class="ui stackable grid">
   <div class="two wide column">
 </div>
@@ -420,5 +418,5 @@ layout: product.html
 </div>
 </div>
 </div>
-
->
+  <p>&gt;</p>
+</div>
