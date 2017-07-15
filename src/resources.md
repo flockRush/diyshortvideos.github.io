@@ -33,7 +33,7 @@ layout: resources.html
 </div><div class="extra content">
         How to find topics 101
       </div></a>
-    <a class="ui card" href="/resources/Discoving-content-at-scale-how-to-find-high-performing-content-for-free-using-Flockrush/"><div class="image">
+    <a class="ui card" href="/resources/Discovering-content-at-scale-how-to-find-high-performing-content-for-free-using-Flockrush/"><div class="image">
   <img src="/img/discovering-content-at-scale–how-to-find-free-content-using-Flockrush.jpg" alt="Discovering Content at scale how to find free content using Flockrush">
 </div><div class="content">
   <div class="description h-small">

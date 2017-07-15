@@ -1,6 +1,6 @@
 ---
 layout: >-
-  Discoving-content-at-scale-how-to-find-high-performing-content-for-free-using-Flockrush.html
+  Discovering-content-at-scale-how-to-find-high-performing-content-for-free-using-Flockrush.html
 ---
 
 <div class="ui left vertical stripe segment">
