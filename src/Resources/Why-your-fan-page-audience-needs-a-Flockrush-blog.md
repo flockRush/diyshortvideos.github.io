@@ -16,10 +16,10 @@ layout: Why-your-fan-page-audience-needs-a-Flockrush-blog.html
   Your blog is where you realize the value of the traffic.</p><ul class="ui list p-light-up"><li>Email subscription – integrated with Mailchimp to support email marketing campaigns</li><li>
     Promotional space – integrated with Google Adsense allowing you to monetize pages through the Google ad network or by working directly with brands</li></ul>
 Having an effective blog is therefore the centerpiece of realising the value of the audience you have created. <p></p><h3 class="ui header">Why your fan page audience needs a Flockrush blog
-</h3><p>The benefits of a Flockrush blog fall into four core areas:</p><ul class="ui list p-light-up"><li>Surface best performing personalized content to your visitors</li><li>Eliminate hosting and support costs for your blog</li><li>
+</h3><p>The benefits of a Flockrush blog fall into four core areas:</p><ul class="ui list p-light-up"><li>Increase engagement by surfacing best performing personalized content</li><li>
     Get increased performance – both speed (supporting SEO) and security</li><li>
     Seamless integration with your fan page content to remove time and effort in posting to your blog</li><li>
-    Built-in monetization with support for Adsense</li></ul><p>What this means is that whereas managing a typical blog getting high traffic volumes needs both platform resource to support it and content resource to add and manage content. With Flockrush all you need to be concerned with is how what you want to do
+    Built-in monetization with support for Adsense</li><li>Eliminate hosting and support costs for your blog</li></ul><p>What this means is that whereas managing a typical blog getting high traffic volumes needs both platform resource to support it and content resource to add and manage content. With Flockrush all you need to be concerned with is how what you want to do
   with the traffic you’ve generated.</p><p>
   Flockrush is integrated with both Cxense for user insights, segmentation and content personalization, and Disqus, principally for audience moderation.</p><p>
   And by the way, if you want to use WordPress that’s fine also – we integrate with that using the JetPack plugin. Flockrush users who have used WordPress often migrate to our blog platform because of the benefits it offers so if you would like a full demonstration
