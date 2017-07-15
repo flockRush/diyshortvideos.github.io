@@ -6,3 +6,4 @@ Disallow: /layouts/
 Disallow: /src/
 Disallow: /admin/
 Disallow: /campaigns_csv/
+Disallow: /devlabs/
