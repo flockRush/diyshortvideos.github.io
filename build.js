@@ -3,7 +3,6 @@ var markdown    = require('metalsmith-markdown');
 var layouts     = require('metalsmith-layouts');
 var permalinks  = require('metalsmith-permalinks');
 var json_to_files  = require('metalsmith-json-to-files');
-var headingsidentifier = require("metalsmith-headings-identifier");
 var googleAnalytics = require('metalsmith-google-analytics');
 var pdf = require('metalsmith-pdf');
 
