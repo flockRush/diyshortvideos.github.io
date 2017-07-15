@@ -25,8 +25,7 @@ Metalsmith(__dirname)
   .use(json_to_files({"source_path": "./json/"}))
   .use(markdown())
   .use(permalinks())
-//
-  .use(headingsidentifier())
+
 //  .use(googleAnalytics('UA-42771649-1'))
 
   .use(layouts({
