@@ -11,7 +11,7 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
 }
 
 .green {
-  background-color: #32f99e!important;
+  background-color: aquamarine!important;
 }
 
 .iconred {
@@ -23,7 +23,7 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
 }
 
 .icongreen {
-  color: #32f99e!important;
+  color: aquamarine!important;
 }
 
 .icongrey {
@@ -140,6 +140,7 @@ h3 {
 
 h3.ui.header {
   font-weight:400!important;
+  background-color: aquamarine!important;
 }
 
 h4 {
