@@ -7,7 +7,7 @@ layout: How-to-build-an-audience-of-one-million-fans-in-ten-steps.html
   <h2>How Anyone Can Use Flockrush to Build an Audience of One Million Fans in Ten Steps</h2>
   <p>
       Imagine if you could launch a product having already built a potential audience of one million people and hundreds of thousands of email subscribers to market it to - from apps to events to new products having such opportunity can drastically impact the
-      success of that product, and every product you want to market...</p>
+      success of that product, and every product you want to market..</p>
   <p>
       Welcome to Flockrush! This article explains how you can use
       <a href="http://www.flockrush.com/">Flockrush </a>  to build fan page audiences on social networks in excess of a million people in under a year. An audience built with Flockrush is a traffic engine - something any organisation can benefit from to </p>
