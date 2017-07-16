@@ -4,144 +4,177 @@ layout: resources.html
 
 <!-- Flockrush resources -->
 
- <div class="ui secondary pointing menu">
-  <a class="active item">
-    All
-  </a>
-  <div class="right menu">
-  <div class="item">
-  <div class="ui transparent icon input"><input type="text" placeholder="Search resources...">
-        <i class="search link icon"></i></div>
+ <div class="ui container">
+  <div class="ui padded grid">
+  <div class="black row">
+  <div class="column">
+  <h2 class="ui inverted header">Embrace Change</h2>
+  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
 </div>
 </div>
+  <div class="white row">
+  <div class="column">
+  <h2>Strategy Guidance</h2>
 </div>
-
-<div class="ui bottom attached container space-5em-bottom space-5em">
-  <div class="ui stackable link cards"><a class="ui card" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/"><div class="image">
+</div>
+  <div class="eight wide blue column">
+  <a class="ui fluid image" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/">
   <img src="img/flockrush-build-an-audience-of-million-in-10-steps.jpg" alt="Build an audience of million in 10 steps">
-</div><div class="content">
-  <div class="description h-small">
-          Build an Audience of a Million Fans in 10 Steps</div>
-</div><div class="extra content">
-        Audience Fan Page Building 101
-      </div></a>
-    <a class="ui card" href="/resources/How-to-choose-a-topic-to-build-a-fan-page/"><div class="image">
-  <img src="img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt=" Choosing topics to build your audiences">
-</div><div class="content">
-  <div class="description h-small">
-           Choosing topics to build your audiences  </div>
-</div><div class="extra content">
-        How to find topics 101
-      </div></a>
-    <a class="ui card" href="/resources/Discovering-content-at-scale-how-to-find-high-performing-content-for-free-using-Flockrush/"><div class="image">
-  <img src="/img/discovering-content-at-scale–how-to-find-free-content-using-Flockrush.jpg" alt="Discovering Content at scale how to find free content using Flockrush">
-</div><div class="content">
-  <div class="description h-small">
-          Discover high performance content at scale</div>
-</div><div class="extra content">
-        Finding content
-      </div></a>
-
-      <a class="ui card" href="/resources/How-to-choose-images-primed-for-social-engagement/"><div class="image">
-  <img src="img/How-to-choose-images-primed-for-social-engagement.jpg" alt="How to choose images primed for social engagement">
-</div><div class="content">
-  <div class="description h-small">
-      Find images primed for social engagement
+</a>
 </div>
-</div><div class="extra content">
-Choosing great media        </div></a>
-
-
-<a class="ui card" href="/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building"><div class="image">
+  <div class="eight wide teal column">
+  <a class="ui fluid image" href="/resources/How-to-choose-a-topic-to-build-a-fan-page/">
+  <img src="img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt=" Choosing topics to build your audiences">
+</a>
+</div>
+  <div class="black row">
+  <div class="right aligned column">
+  <h2 class="ui inverted header">personalize Experiences</h2>
+  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+</div>
+</div>
+  <div class="white row">
+  <div class="column">
+  <h2>Dazzling Content</h2>
+</div>
+</div>
+  <div class="eight wide teal column">
+  <a class="ui fluid image" href="/resources/Discovering-content-at-scale-how-to-find-high-performing-content-for-free-using-Flockrush/">
+  <img src="/img/discovering-content-at-scale–how-to-find-free-content-using-Flockrush.jpg" alt="Discovering Content at scale how to find free content using Flockrush">
+</a>
+</div>
+  <div class="eight wide blue column">
+  <a class="ui fluid image" href="/resources/How-to-choose-images-primed-for-social-engagement/">
+  <img src="img/How-to-choose-images-primed-for-social-engagement.jpg" alt="How to choose images primed for social engagement">
+</a>
+</div>
+  <div class="black row">
+  <div class="column">
+  <h2 class="ui inverted header">Unleash Creativity</h2>
+  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+</div>
+</div>
+  <div class="white row">
+  <div class="column">
+  <h2>Content Curation</h2>
+</div>
+</div>
+  <div class="eight wide blue column">
+  <a class="ui fluid image" href="/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building">
   <img src="/img/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush">
-</div><div class="content">
-  <div class="description h-small">
-Understand why content curation is so effective to build your fan page audience</div>
-</div><div class="extra content">
-Why Content Curation</div></a>
-
-<a class="ui card" href="/resources/Ten-top-tips-for-smart-curation"><div class="image">
+</a>
+</div>
+  <div class="eight wide teal column">
+  <a class="ui fluid image" href="/resources/Ten-top-tips-for-smart-curation">
   <img src="/img/Ten-top-tips-for-smart-curation-flockrush.jpg" alt="Ten top tips for smart curation flockrush">
-</div><div class="content">
-  <div class="description h-small">
-How to curate content more effectively to get more social engagement</div>
-</div><div class="extra content">
-10 Top Tips        </div></a>
-
-
-<a class="ui card" href="/resources/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed/"><div class="image">
+</a>
+</div>
+  <div class="black row">
+  <div class="right aligned column">
+  <h2 class="ui inverted header">Gain Speed and Scale</h2>
+  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+</div>
+</div>
+  <div class="white row">
+  <div class="column">
+  <h2>Content Management</h2>
+</div>
+</div>
+  <div class="eight wide teal column">
+  <a class="ui fluid image" href="/resources/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed/">
   <img src="/img/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed.jpg" alt="How Flockrush uses content queues to get your fan pages noticed">
-</div><div class="content">
-  <div class="description h-small">
-Content queues to get your fan pages noticed</div>
-</div><div class="extra content">
-Publishing content queues</div></a>
-
-
-<a class="ui card" href="/resources/Ten-habits-of-high-performance-content-managers/"><div class="image">
+</a>
+</div>
+  <div class="eight wide blue column">
+  <a class="ui fluid image" href="/resources/Ten-habits-of-high-performance-content-managers/">
   <img src="/img/Ten-habits-of-high-performance-content-managers.jpg" alt="Ten habits of high performance content managers">
-</div><div class="content">
-  <div class="description h-small">
-10 habits of high performance content managers</div>
-</div><div class="extra content">
-High performance content managers</div></a>
-
-<a class="ui card" href="/resources/Why-your-fan-page-audience-needs-a-Flockrush-blog/"><div class="image">
+</a>
+</div>
+  <div class="black row">
+  <div class="column">
+  <h2 class="ui inverted header">Performance Delivered</h2>
+  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+</div>
+</div>
+  <div class="white row">
+  <div class="column">
+  <h2>Blog Management</h2>
+</div>
+</div>
+  <div class="eight wide blue column">
+  <a class="ui fluid image" href="/resources/Why-your-fan-page-audience-needs-a-Flockrush-blog/">
   <img src="/img/Why-your-fanpage-audience-needs-a-Flockrush-blog.jpg" alt="Why your fan page audience needs a Flockrush blog">
-</div><div class="content">
-  <div class="description h-small">
-Why your fan page audience needs a Flockrush blog</div>
-</div><div class="extra content">
-THE Flockrush Blog</div></a>
-
-<a class="ui card" href="/resources/The-Flockrush-guide-to-monetizing-your-blog/"><div class="image">
+</a>
+</div>
+  <div class="eight wide teal column">
+  <a class="ui fluid image" href="/resources/The-Flockrush-guide-to-monetizing-your-blog/">
   <img src="/img/The-Flockrush-guide-to-monetizing-your-blog.jpg" alt="The Flockrush guide to monetizing your blog">
-</div><div class="content">
-  <div class="description h-small">
-Learn why our high performance Flockrush blog platform is key to success</div>
-</div><div class="extra content">
-Monetizing your blog</div></a>
-
-<a class="ui card" href="/resources/What-you-need-to-know-about-UGC-rights-approval/"><div class="image">
+</a>
+</div>
+  <div class="black row">
+  <div class="right aligned column">
+  <h2 class="ui inverted header">Legally Protected</h2>
+  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+</div>
+</div>
+  <div class="white row">
+  <div class="column">
+  <h2>UGC Rights Management</h2>
+</div>
+</div>
+  <div class="eight wide teal column">
+  <a class="ui fluid image" href="/resources/What-you-need-to-know-about-UGC-rights-approval/">
   <img src="/img/What-you-need-to-know-about-UGC-rights-approval.jpg" alt="What you need to know about UGC rights approval">
-</div><div class="content">
-  <div class="description h-small">
-User generated content rights approval</div>
-</div><div class="extra content">
-UGC copyrights</div></a>
-
-
-
-
-<a class="ui card" href="/resources/Using-Audience-Engagement-To-Grow-Fans/"><div class="image">
+</a>
+</div>
+  <div class="eight wide blue column">
+  <a class="ui fluid image">
+  <img src="/img/flockrush-ad-170x125.jpg" alt="Flockrush ad 350x150">
+</a>
+</div>
+  <div class="black row">
+  <div class="column">
+  <h2 class="ui inverted header">Get Noticed</h2>
+  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+</div>
+</div>
+  <div class="white row">
+  <div class="column">
+  <h2>Audience Engagement
+        </h2>
+</div>
+</div>
+  <div class="eight wide blue column">
+  <a class="ui fluid image" href="/resources/Using-Audience-Engagement-To-Grow-Fans/">
   <img src="/img/Using-Audience-Engagement-To-Grow-Fans-with-flockrush.jpg" alt="Using Audience Engagement To Grow Fans with flockrush">
-</div><div class="content">
-  <div class="description h-small">
-Using Audience Engagement To Grow Fans</div>
-</div><div class="extra content">
-Audience Engagement</div></a>
-
-<a class="ui card" href="/resources/Driving-engagement-through-your-fan-page-audience/"><div class="image">
+</a>
+</div>
+  <div class="eight wide teal column">
+  <a class="ui fluid image" href="/resources/Driving-engagement-through-your-fan-page-audience/">
   <img src="/img/Driving-engagement-through-your-fan-page-audience.jpg" alt="Driving engagement through your fan page">
-</div><div class="content">
-  <div class="description h-small">
-Driving engagement through your fan page</div>
-</div><div class="extra content">
-Fan page Engagement</div></a>
-
-<a class="ui card" href="/resources/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages/"><div class="image">
+</a>
+</div>
+  <a class="ui fluid image" href="/resources/Driving-engagement-through-your-fan-page-audience/"></a>
+  <div class="black row">
+  <div class="right aligned column">
+  <h2 class="ui inverted header">Be Strategic</h2>
+  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+</div>
+</div>
+  <div class="white row">
+  <div class="column">
+  <h2>Analytics</h2>
+</div>
+</div>
+  <div class="eight wide teal column">
+  <a class="ui fluid image" href="/resources/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages/">
   <img src="/img/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages.jpg" alt="Audience Building By Numbers using analytics to grow your fan pages">
-</div><div class="content">
-  <div class="description h-small">
-Audience Building using analytics</div>
-</div><div class="extra content">
-Analytics to drive growth</div></a>
-
-<a class="ui card" href="/resources/The-Flockrush-guide-to-beginners-social-analytics/"><div class="image">
+</a>
+</div>
+  <div class="eight wide blue column">
+  <a class="ui fluid image" href="/resources/The-Flockrush-guide-to-beginners-social-analytics/">
   <img src="/img/The-Flockrush-guide-to-beginners-social-analytics.jpg" alt="A Flockrush guide to getting started with social analytics">
-</div><div class="content">
-  <div class="description h-small">
-Guide to getting started with social analytics</div>
-</div><div class="extra content">
-Social Analytics</div></a></div>
+</a>
+</div>
+</div>
 </div>
