@@ -53,10 +53,10 @@ layout: resources.html
 </div>
 </div>
   <div class="eight wide purple column">
-  <a class="ui fluid image" href="/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building"><img src="/img/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush"></a>
+  <a class="ui fluid image" href="/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building/"><img src="/img/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush"></a>
 </div>
   <div class="eight wide purple column">
-  <a class="ui fluid image" href="/resources/Ten-top-tips-for-smart-curation"><img src="/img/Ten-top-tips-for-smart-curation-flockrush.jpg" alt="Ten top tips for smart curation flockrush"></a>
+  <a class="ui fluid image" href="/resources/Ten-top-tips-for-smart-curation/"><img src="/img/Ten-top-tips-for-smart-curation-flockrush.jpg" alt="Ten top tips for smart curation flockrush"></a>
 </div>
   <div class="purple row">
   <div class="right aligned column">
