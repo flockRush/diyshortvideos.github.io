@@ -5,7 +5,7 @@ layout: resources.html
 <!-- Flockrush resources -->
 
  <div class="ui vertical stripe segment grey-color">
-  <div class="ui center aligned container">
+  <div class="ui container">
   <div class="ui padded grid">
   <div class="black row">
   <div class="column">
