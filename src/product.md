@@ -129,7 +129,7 @@ layout: product.html
 </a>
 </div>
   <div class="eight wide column">
-  <a href="/resources/How-to-choose-images-primed-for-social-engagement" class="ui fluid image">
+  <a href="/resources/How-to-choose-images-primed-for-social-engagement/" class="ui fluid image">
   <img src="/img/How-to-choose-images-primed-for-social-engagement.jpg" alt="How to choose images primed for social engagement">
 </a>
 </div>
@@ -168,12 +168,12 @@ layout: product.html
   <p class="p-em-166">Our latest content curation resources:
           </p>
 </div>
-  <div class="eight wide column"><a href="/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building" class="ui fluid image">
+  <div class="eight wide column"><a href="/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building/" class="ui fluid image">
   <img src="/img/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush">
 </a>
   <br></div>
   <div class="eight wide column">
-  <a href="/resources/Ten-top-tips-for-smart-curation" class="ui fluid image">
+  <a href="/resources/Ten-top-tips-for-smart-curation/" class="ui fluid image">
   <img src="/img/Ten-top-tips-for-smart-curation-flockrush.jpg" alt="Ten top tips for smart curation flockrush">
 </a>
 </div>
