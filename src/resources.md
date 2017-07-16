@@ -146,6 +146,12 @@ layout: resources.html
   <div class="eight wide teal column">
   <a class="ui fluid image" href="/resources/The-Flockrush-guide-to-beginners-social-analytics/"><img src="/img/The-Flockrush-guide-to-beginners-social-analytics.jpg" alt="A Flockrush guide to getting started with social analytics"></a>
 </div>
+  <div class="teal row">
+  <div class="column">
+  <h2 class="ui inverted header">We are Flockrush</h2>
+  <p>No.1 app to build Targeted Social Audiences</p>
+</div>
+</div>
 </div>
 </div>
 </div>
