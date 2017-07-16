@@ -12,17 +12,17 @@ layout: resources.html
   <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
 </div>
 </div>
-  <div class="aquamarine row">
+  <div class="grey row">
   <div class="column">
   <h2>Strategy Guidance</h2>
 </div>
 </div>
-  <div class="eight wide aquamarine column">
+  <div class="eight wide grey column">
   <a class="ui fluid image" href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/">
   <img src="img/flockrush-build-an-audience-of-million-in-10-steps.jpg" alt="Build an audience of million in 10 steps">
 </a>
 </div>
-  <div class="eight wide aquamarine column">
+  <div class="eight wide grey column">
   <a class="ui fluid image" href="/resources/How-to-choose-a-topic-to-build-a-fan-page/">
   <img src="img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt=" Choosing topics to build your audiences">
 </a>
