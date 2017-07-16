@@ -148,7 +148,7 @@ layout: resources.html
 </div>
   <div class="teal row">
   <div class="column">
-  <h2 class="ui inverted header">Get Noticed</h2>
+  <h2 class="ui inverted header">Be Strategic</h2>
   <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
 </div>
 </div>
