@@ -29,7 +29,7 @@ layout: resources.html
 </div>
   <div class="black row">
   <div class="right aligned column">
-  <h2 class="ui inverted header">personalize Experiences</h2>
+  <h2 class="ui inverted header">Personalize Experiences</h2>
   <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
 </div>
 </div>
@@ -113,7 +113,7 @@ layout: resources.html
 </div>
   <div class="black row">
   <div class="right aligned column">
-  <h2 class="ui inverted header">Legally Protected</h2>
+  <h2 class="ui inverted header">Protect Legally</h2>
   <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
 </div>
 </div>
