@@ -26,7 +26,7 @@ layout: How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed.html
   <p>As the social platforms have matured getting your best content in front of your audience organically has become steadily harder.</p>
   <p>
           With more competition for space in content feeds from both organic and paid sources research by
-          <a href="https://social.ogilvy.com/facebook-zero-considering-life-after-the-demise-of-organic-reach/">social@Ogilvy.</a>  and others found that average organic reach for brands on Facebook has steadily fallen to around 2%.</p>
+          <a href="https://social.ogilvy.com/facebook-zero-considering-life-after-the-demise-of-organic-reach/">Social at Ogilvy.</a>  and others found that average organic reach for brands on Facebook has steadily fallen to around 2%.</p>
   <p>
           Turn this around – maybe 98% of your audience are unlikely to see the post you’ve just crafted to perfection. Ouch.</p>
   <p>
