@@ -15,7 +15,7 @@ layout: product.html
 </a>
       <a class="ui card" href="/product/#content-discovery">
   <div class="center aligned content">
-  <i class="fire huge inverted circular blue networks icon">
+  <i class="fire huge inverted circular yellow networks icon">
 </i>
   <p class="ui h-semibold">Content Discovery</p>
 </div>
