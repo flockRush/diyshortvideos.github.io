@@ -8,7 +8,7 @@ layout: product.html
   <div class="ui center aligned container">
   <div class="ui four stackable link cards feature-cards"><a class="ui card" href="/product/#strategy-guidance">
   <div class="center aligned content">
-  <i class="compass huge inverted circular olive networks icon">
+  <i class="compass huge inverted circular grey networks icon">
 </i>
   <p class="ui h-semibold">Strategy Guidance</p>
 </div>
