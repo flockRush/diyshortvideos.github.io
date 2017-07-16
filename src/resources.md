@@ -77,7 +77,7 @@ layout: resources.html
 </div>
   <div class="red row">
   <div class="column">
-  <h2>Content Management</h2>
+  <h2>Content Publishing and Management</h2>
 </div>
 </div>
   <div class="eight wide red column">
@@ -117,17 +117,17 @@ layout: resources.html
   <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
 </div>
 </div>
-  <div class="white row">
+  <div class="orange row">
   <div class="column">
   <h2>UGC Rights Management</h2>
 </div>
 </div>
-  <div class="eight wide white column">
+  <div class="eight wide orange column">
   <a class="ui fluid image" href="/resources/What-you-need-to-know-about-UGC-rights-approval/">
   <img src="/img/What-you-need-to-know-about-UGC-rights-approval.jpg" alt="What you need to know about UGC rights approval">
 </a>
 </div>
-  <div class="eight wide white column">
+  <div class="eight wide orange column">
   <a class="ui fluid image">
   <img src="/img/flockrush-ad-170x125.jpg" alt="Flockrush ad 350x150">
 </a>

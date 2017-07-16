@@ -22,42 +22,42 @@ layout: product.html
 </a>
       <a class="ui card" href="/product/#content-curation">
   <div class="center aligned content">
-  <i class="write huge inverted circular orange networks icon">
+  <i class="write huge inverted circular purple networks icon">
 </i>
   <p class="ui h-semibold">Content Curation</p>
 </div>
 </a>
       <a class="ui card" href="/product/#content-publishing">
   <div class="center aligned content">
-  <i class="send huge inverted circular green networks icon">
+  <i class="send huge inverted circular red networks icon">
 </i>
   <p class="ui h-semibold">Content Publishing</p>
 </div>
 </a></div>
   <div class="ui four stackable link cards feature-cards"><a class="ui card" href="/product/#ugc-rights-management">
   <div class="center aligned content">
-  <i class="copyright huge inverted circular yellow networks icon">
+  <i class="copyright huge inverted circular orange networks icon">
 </i>
   <p class="ui h-semibold">UGC Rights Management</p>
 </div>
 </a>
       <a class="ui card" href="/product/#audience-engagement">
   <div class="center aligned content">
-  <i class="users huge inverted circular purple networks icon">
+  <i class="users huge inverted circular blue networks icon">
 </i>
   <p class="ui h-semibold">Audience Engagement</p>
 </div>
 </a>
       <a class="ui card" href="/product/#analytics-dashboards">
   <div class="center aligned content">
-  <i class="line chart huge inverted circular red networks icon">
+  <i class="line chart huge inverted circular teal networks icon">
 </i>
   <p class="ui h-semibold">Analytics Dashboards</p>
 </div>
 </a>
       <a class="ui card" href="/product/#blog-management">
   <div class="center aligned content">
-  <i class="newspaper huge inverted circular teal networks icon">
+  <i class="newspaper huge inverted circular green networks icon">
 </i>
   <p class="ui h-semibold">Blog Management</p>
 </div>
