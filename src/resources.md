@@ -154,7 +154,7 @@ layout: resources.html
 </div>
   <div class="black row">
   <div class="right aligned column">
-  <h2 class="ui inverted header">Use Flockrush</h2>
+  <h2 class="ui inverted header">Be Flockrush</h2>
   <p>The No.1 app to build Targeted Social Audiences</p>
 </div>
 </div>
