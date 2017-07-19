@@ -10,7 +10,7 @@ layout: resources.html
   <div class="black row">
   <div class="column">
   <h2 class="ui inverted header">Embrace Change</h2>
-  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+  <p>Content marketing is transitioning from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing..</p>
 </div>
 </div>
   <div class="grey row">
@@ -27,7 +27,7 @@ layout: resources.html
   <div class="grey row">
   <div class="right aligned column">
   <h2 class="ui inverted header">Personalize Experiences</h2>
-  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+  <p>Learn the strategy of building audiences around topics and stories by personalizing your content strategy to entertain your target market.</p>
 </div>
 </div>
   <div class="yellow row">
@@ -44,7 +44,7 @@ layout: resources.html
   <div class="yellow row">
   <div class="column">
   <h2 class="ui inverted header">Unleash Creativity</h2>
-  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+  <p>Stories are built around content – find out how to discover the content that projects your stories.</p>
 </div>
 </div>
   <div class="purple row">
@@ -61,7 +61,8 @@ layout: resources.html
   <div class="purple row">
   <div class="right aligned column">
   <h2 class="ui inverted header">Gain Speed and Scale</h2>
-  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+  <p>Curate your way to telling engaging stories to audiences of millions hour after hour, day after day.
+  </p>
 </div>
 </div>
   <div class="red row">
@@ -78,7 +79,7 @@ layout: resources.html
   <div class="red row">
   <div class="column">
   <h2 class="ui inverted header">Drive Success</h2>
-  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+  <p>Discover how your success is leveraged by publishing stories in a way that delivers your success.</p>
 </div>
 </div>
   <div class="teal row">
@@ -95,7 +96,7 @@ layout: resources.html
   <div class="teal row">
   <div class="right aligned column">
   <h2 class="ui inverted header">Engage and Monetize</h2>
-  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+  <p>Learn how Flockrush blogs are the key to realizing the commercial success of your fan page – using reach to activate your marketing</p>
 </div>
 </div>
   <div class="orange row">
@@ -112,7 +113,7 @@ layout: resources.html
   <div class="orange row">
   <div class="column">
   <h2 class="ui inverted header">Protect Yourself</h2>
-  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+  <p>Your stories deserve the best UGC content – find out how to get this and keep your pages safe by working with content owners.</p>
 </div>
 </div>
   <div class="blue row">
@@ -132,7 +133,7 @@ layout: resources.html
   <div class="blue row">
   <div class="right aligned column">
   <h2 class="ui inverted header">Get Noticed</h2>
-  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+  <p>To maximize the reach of your marketing you need to maximize the reach of your stories – learn how to engage your audiences to get noticed.</p>
 </div>
 </div>
   <div class="teal row">
@@ -149,7 +150,7 @@ layout: resources.html
   <div class="teal row">
   <div class="column">
   <h2 class="ui inverted header">Be Strategic</h2>
-  <p>As content marketing transitions from using the reach of marketing to deliver a story, to using the reach of a story to deliver marketing.</p>
+  <p>Let insights be your guide to perfecting the best content strategy for your fan pages – working smarter to deliver more.</p>
 </div>
 </div>
   <div class="black row">
