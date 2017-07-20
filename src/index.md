@@ -7,7 +7,7 @@ layout: index.html
  <div class="ui vertical stripe segment">
   <div class="ui stackable grid">
   <div class="eight wide left aligned column">
-  <div class="ui massive image">
+  <div class="ui fluid image">
   <img src="/img/Earth-discover-great-content-flockrush.jpg" alt="Earth Flockrush Discover Great Content">
   <div class="ui h-bold">
           Discover great content
@@ -22,7 +22,7 @@ layout: index.html
   <div class="eight wide left aligned column">
   <div class="two column row">
   <div class="column">
-  <div class="ui massive image">
+  <div class="ui fluid image">
   <img src="/img/Starlings-build-a-great-audience-flockrush.jpg" alt="Starling Flockrush Build a Great Audience">
   <div class="ui h-bold">
               Tell great stories</div>
@@ -32,7 +32,7 @@ layout: index.html
 </div>
 </div>
   <div class="column">
-  <div class="ui massive image">
+  <div class="ui fluid image">
   <img src="/img/DogCat-tell-a-story-flockrush.jpg" alt="Dog Cats Flockrush Tell a Great Story">
   <div class="ui h-bold">
               Build a great audience</div>
