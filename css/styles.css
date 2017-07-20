@@ -7,7 +7,7 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
 }
 
 .blue {
-  background-color: #0C6897!important;
+  background-color: #2185D0!important;
 }
 
 .green {
@@ -19,7 +19,7 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
 }
 
 .iconblue {
-  color: #0C6897!important;
+  color: #2185D0!important;
 }
 
 .icongreen {
@@ -30,7 +30,7 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
   color: #bababa!important;
 }
 .menu-color{
-    background-color:#0C6897!important;
+    background-color:#2185D0!important;
     font-size:18px !important;
     font-weight:300 !important;
 }
@@ -261,10 +261,10 @@ h5 {
     border-radius: 0px;
 }
 .ui.inverted.segment, .ui.primary.inverted.segment {
-    background-color: #0C6897!important;
+    background-color: #2185D0!important;
 }
 .ui.inverted.segment, .ui.primary.inverted.segment {
-    background-color: #0C6897!important;
+    background-color: #2185D0!important;
 }
 
 @media only screen and (max-width: 700px) {
