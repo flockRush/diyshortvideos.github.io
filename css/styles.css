@@ -292,6 +292,12 @@ h5 {
       background-size:cover!important;
 }
 
+.masthead-home {
+
+      background-image:url("/img/Starling-flocks-Flockrush-home-page-masthead.jpg")!important;
+      background-size:cover!important;
+}
+
 img {
   max-width:100%
 }
