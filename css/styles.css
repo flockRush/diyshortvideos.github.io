@@ -269,6 +269,15 @@ border-color: none!important;
   border:none;
 }
 
+
+.nopadding-left-right {
+
+padding-left: 0rem!important;
+padding-right: 0rem!important;
+
+}
+
+
 .networks{
   margin-top:10px !important;
 }
