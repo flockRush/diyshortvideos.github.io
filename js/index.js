@@ -18,6 +18,8 @@ $(document).ready(function(){
     });
   });
 
+$('.url.example .ui.embed').embed();
+
   // Set custom step
 
  pricings= [
@@ -50,7 +52,7 @@ $(document).ready(function(){
     $('#display-audience').html(audiences[value]);
   }
   });
-  
+
   $('.overlay').visibility({
   type: 'fixed',
   offset: 80
