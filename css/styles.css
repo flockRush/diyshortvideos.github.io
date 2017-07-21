@@ -172,6 +172,15 @@ h5 {
 
 }
 
+.h-bold-blue-border {
+  font-size:2.5em!important;
+  font-weight:500!important;
+  margin-bottom: 1.33em!important;
+  margin-top: 1.33em!important;
+  line-height: 100%!important;
+
+}
+
 .h-semibold {
   font-size:1.45em!important;
   font-weight:500!important;
@@ -247,6 +256,14 @@ color: #FFF!important;
 
 }
 
+.transparent-ribbon .ui.label {
+
+
+background-color: none!important;
+border-color: none!important;
+color: #FFF!important;
+
+}
 
 .ui.fixed.inverted.menu{
   background-color: rgba(33,133,208,.7);
