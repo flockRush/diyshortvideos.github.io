@@ -9,7 +9,7 @@ layout: index.html
   <div class="eight wide left aligned column nopadding-left-right">
   <div class="ui fluid image">
   <div class="ui ribbon label transparent-ribbon">
-  <div class="ui container .small-container ">
+  <div class="ui container ">
   <div class="ui h-bold">
            Discover great content
          </div>
@@ -31,7 +31,7 @@ layout: index.html
   <div class="column">
   <div class="ui fluid image">
   <div class="ui transparent-ribbon ribbon label">
-  <div class="ui container small-container-smaller ">
+  <div class="ui container">
   <div class="ui h-bold">
                Tell great stories</div>
   <p class="p-em-166">
@@ -49,7 +49,7 @@ layout: index.html
   <div class="column">
   <div class="ui fluid image">
   <div class="ui transparent-ribbon  ribbon label">
-  <div class="ui container small-container-smaller ">
+  <div class="ui container">
   <div class="ui h-bold">
                Build a great audience</div>
   <p class="p-em-166">
