@@ -4,7 +4,7 @@ layout: index.html
 
 <!-- Discover - Tell a story - Build great Audiences -Promote Home Page -->
 
- <div class="ui vertical stripe segment">
+ <div class="ui vertical">
   <div class="ui stackable grid">
   <div class="eight wide left aligned column nopadding-left-right">
   <div class="ui fluid image">
