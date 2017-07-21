@@ -8,8 +8,7 @@ layout: index.html
   <div class="ui stackable grid">
   <div class="eight wide left aligned column">
   <div class="ui fluid image">
-  <img src="/img/Earth-discover-great-content-flockrush.jpg" alt="Earth Flockrush Discover Great Content">
-  <div class="ui h-bold">
+  <div class="ui black ribbon label" <div="">
           Discover great content
         </div>
   <p class="p-em-166">
@@ -18,22 +17,25 @@ layout: index.html
   <p>Get unlimited access to eye-capturing royalty paid images and enjoy high performance user-generated content with single-click usage authorization for UGC rights management.
         </p>
 </div>
+  <img src="/img/Earth-discover-great-content-flockrush.jpg" alt="Earth Flockrush Discover Great Content">
+</div>
 </div>
   <div class="eight wide left aligned column">
   <div class="two column row">
   <div class="column">
   <div class="ui fluid image">
-  <img src="/img/Starlings-build-a-great-audience-flockrush.jpg" alt="Starling Flockrush Build a Great Audience">
-  <div class="ui h-bold">
+  <div class="ui black ribbon label" <div="">
               Tell great stories</div>
   <p class="p-em-166">
               Live your brand through curating great content.</p>
   <p>Free your team to compose and curate across <span class="p-notchup">social</span>  and <span class="p-notchup">blogs</span>, at scale with ease, telling your story through your best performing content.</p>
 </div>
+  <img src="/img/Starlings-build-a-great-audience-flockrush.jpg" alt="Starling Flockrush Build a Great Audience">
+</div>
 </div>
   <div class="column">
   <div class="ui fluid image">
-  <img src="/img/DogCat-tell-a-story-flockrush.jpg" alt="Dog Cats Flockrush Tell a Great Story">
+  <div class="ui black ribbon label" <div="">
   <div class="ui h-bold">
               Build a great audience</div>
   <p class="p-em-166">
@@ -41,7 +43,7 @@ layout: index.html
             </p>
   <p>Use Flockrush to manage all your <span class="p-notchup">social</span>  and <span class="p-notchup">blogs</span>, rising above the noise of others.</p>
 </div>
-</div>
+  <img src="/img/DogCat-tell-a-story-flockrush.jpg" alt="Dog Cats Flockrush Tell a Great Story">
 </div>
 </div>
 </div>
