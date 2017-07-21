@@ -250,17 +250,8 @@ h5 {
 .transparent-ribbon {
 
 
-background-color: none!important;
-border-color: none!important;
+background-color: transparent!important;
 color: #FFF!important;
-
-}
-
-.ui.label {
-
-
-background-color: none!important;
-border-color: none!important;
 
 }
 
