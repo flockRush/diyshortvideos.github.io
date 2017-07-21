@@ -256,12 +256,11 @@ color: #FFF!important;
 
 }
 
-.transparent-ribbon .ui.label {
+.ui.label {
 
 
 background-color: none!important;
 border-color: none!important;
-color: #FFF!important;
 
 }
 
