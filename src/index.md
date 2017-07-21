@@ -37,7 +37,7 @@ layout: index.html
 </div>
   <div class="column">
   <div class="ui fluid image">
-  <div class="ui black ribbon label" <div="">
+  <div class="ui transparent-ribbon  ribbon label" <div="">
   <div class="ui h-bold">
                Build a great audience</div>
   <p class="p-em-166">
