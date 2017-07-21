@@ -30,7 +30,7 @@ layout: index.html
               Live your brand through curating great content.</p>
   <p>Free your team to compose and curate across <span class="p-notchup">social</span>  and <span class="p-notchup">blogs</span>, at scale with ease, telling your story through your best performing content.</p>
 </div>
-  <img src="/img/Starlings-build-a-great-audience-flockrush.jpg" alt="Starling Flockrush Build a Great Audience">
+  <img src="/img/DogCat-tell-a-story-flockrush.jpg" alt="Dog Cats Flockrush Tell a Great Story">
 </div>
 </div>
   <div class="column">
@@ -43,7 +43,7 @@ layout: index.html
             </p>
   <p>Use Flockrush to manage all your <span class="p-notchup">social</span>  and <span class="p-notchup">blogs</span>, rising above the noise of others.</p>
 </div>
-  <img src="/img/DogCat-tell-a-story-flockrush.jpg" alt="Dog Cats Flockrush Tell a Great Story">
+  <img src="/img/Starlings-build-a-great-audience-flockrush.jpg" alt="Starling Flockrush Build a Great Audience">
 </div>
 </div>
 </div>
