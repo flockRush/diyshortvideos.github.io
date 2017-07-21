@@ -10,6 +10,7 @@ layout: index.html
   <div class="ui fluid image">
   <div class="ui ribbon label transparent-ribbon">
   <div class="ui container">
+  <div class="row">
   <div class="ui h-bold">
            Discover great content
          </div>
@@ -18,6 +19,10 @@ layout: index.html
          </p>
   <h3>Get unlimited access to eye-capturing royalty paid images and enjoy high performance user-generated content with single-click usage authorization for UGC rights management.
          </h3>
+</div>
+  <div class="bottom aligned row">
+  <a class="ui blue button button-font-format" href="/resources/?utm_source=tellmorecontent">Tell me more about Flockrush content</a>
+</div>
 </div>
 </div>
   <img src="/img/Earth-discover-great-content-flockrush.jpg" alt="Earth Flockrush Discover Great Content">
@@ -49,6 +54,9 @@ layout: index.html
                When you tell great stories using engaging content, you gain your audience's attention, and grow your fans much faster.
              </p>
   <h3>Use Flockrush to manage all your <span class="p-notchup">social</span>  and <span class="p-notchup">blogs</span>, rising above the noise of others.</h3>
+  <div class="item space-3em">
+  <a class="ui blue button button-font-format" href="/resources/?utm_source=tellmoreaudience">Find out how to build a great audience</a>
+</div>
 </div>
 </div>
   <img src="/img/Starlings-build-a-great-audience-flockrush.jpg" alt="Starling Flockrush Build a Great Audience">
