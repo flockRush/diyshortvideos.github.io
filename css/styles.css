@@ -198,6 +198,14 @@ h5 {
 
 }
 
+.small-container {
+  max-width: 33%!important;
+}
+
+.small-container-smaller {
+  max-width: 33%!important;
+}
+
 .p-light {
   font-size:1em!important;
   font-weight:400!important;
