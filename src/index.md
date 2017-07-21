@@ -5,7 +5,7 @@ layout: index.html
 <!-- Discover - Tell a story - Build great Audiences -Promote Home Page -->
 
  <div class="ui vertical stripe segment">
-  <div class="ui stackable grid smallpadding-left-right">
+  <div class="ui stackable grid">
   <div class="eight wide left aligned column nopadding-left-right">
   <div class="ui fluid image">
   <div class="ui ribbon label transparent-ribbon">
@@ -21,7 +21,7 @@ layout: index.html
   <img src="/img/Earth-discover-great-content-flockrush.jpg" alt="Earth Flockrush Discover Great Content">
 </div>
 </div>
-  <div class="eight wide left aligned column smallpadding-left-right">
+  <div class="eight wide left aligned column nopadding-left-right">
   <div class="two column row">
   <div class="column">
   <div class="ui fluid image">
