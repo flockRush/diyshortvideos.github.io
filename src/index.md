@@ -8,7 +8,7 @@ layout: index.html
   <div class="ui stackable grid smallpadding-left-right">
   <div class="eight wide left aligned column nopadding-left-right">
   <div class="ui fluid image">
-  <div class="ui black ribbon label">
+  <div class="ui ribbon label transparent-ribbon">
   <div class="ui h-bold">
            Discover great content
          </div>
@@ -25,7 +25,7 @@ layout: index.html
   <div class="two column row">
   <div class="column">
   <div class="ui fluid image">
-  <div class="ui black ribbon label">
+  <div class="ui transparent-ribbon ribbon label">
   <div class="ui h-bold">
                Tell great stories</div>
   <p class="p-em-166">
