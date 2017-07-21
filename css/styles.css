@@ -30,7 +30,7 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
   color: #bababa!important;
 }
 .menu-color{
-    background-color:#2185D0!important;
+    background-color:rgba(33,133,208)!important;
     font-size:18px !important;
     font-weight:300 !important;
 }
