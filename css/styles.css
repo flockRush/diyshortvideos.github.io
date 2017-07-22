@@ -264,7 +264,7 @@ background-color: transparent!important;
 color: #FFF!important;
 top: 2rem!important;
 margin-left: 3rem!important;
-min-width: 600px!important;
+max-width: 600px!important;
 
 
 }
