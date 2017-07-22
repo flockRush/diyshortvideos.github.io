@@ -19,7 +19,7 @@ layout: index.html
             </p>
   <p class="margin-left-3rem">Get unlimited access to eye-capturing royalty paid images and enjoy high performance user-generated content with single-click usage authorization for UGC rights management.
             </p>
-  <div class="item space-3em margin-left-3rem">
+  <div class="item space-2em margin-left-3rem">
   <a class="ui blue button button-font-format" href="/resources/?utm_source=tellmorecontent">Tell me more about Flockrush content</a>
 </div>
 </div>
@@ -39,7 +39,7 @@ layout: index.html
   <p class="margin-left-3rem">Free your team to compose and curate across <span class="p-notchup">social</span>  and
                 <span class="p-notchup">blogs</span>, at scale with ease, telling your story through your best performing content.
               </p>
-  <div class="item space-3em margin-left-3rem">
+  <div class="item space-2em margin-left-3rem">
   <a class="ui blue button button-font-format" href="/resources/?utm_source=tellmorestorytelling">Learn about storytelling through content
                 </a>
 </div>
@@ -60,7 +60,7 @@ layout: index.html
   <p class="margin-left-3rem">Use Flockrush to manage all your <span class="p-notchup">social</span>  and
                 <span class="p-notchup">blogs</span>, rising above the noise of others.
               </p>
-  <div class="item space-3em margin-left-3rem">
+  <div class="item space-2em margin-left-3rem">
   <a class="ui blue button button-font-format" href="/resources/?utm_source=tellmoreaudience">Find out how to build a great audience</a>
 </div>
 </div>
