@@ -52,7 +52,7 @@ layout: index.html
   <div class="ui container textimage">
   <div class="ui h-bold margin-left-3rem">
                 Build a great audience</div>
-  <p class="p-em-166">
+  <p class="p-em-166 margin-left-3rem">
                 When you tell great stories using engaging content, you gain your audience's attention, and grow your fans much faster.
               </p>
   <h3 class="margin-left-3rem">Use Flockrush to manage all your <span class="p-notchup">social</span>  and
