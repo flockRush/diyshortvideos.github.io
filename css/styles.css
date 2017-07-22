@@ -257,18 +257,6 @@ h5 {
 
 /* Custom */
 
-.transparent-ribbon {
-
-
-background-color: transparent!important;
-color: #FFF!important;
-top: 2rem!important;
-margin-left: 3rem!important;
-max-width: 600px!important;
-
-
-}
-
 .image {
    position: relative;
    width: 100%; /* for IE 6 */
@@ -279,6 +267,9 @@ max-width: 600px!important;
    top: 200px;
    left: 0;
    width: 100%;
+   color: #FFF!important;
+   top: 2rem!important;
+   margin-left: 3rem!important;
 }
 
 
