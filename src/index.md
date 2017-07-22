@@ -11,15 +11,15 @@ layout: index.html
   <div class="image">
   <img class="ui fluid image" src="/img/Earth-discover-great-content-flockrush.jpg" alt="Earth Flockrush Discover Great Content">
   <div class="ui container textimage">
-  <div class="ui h-bold margin-left-7rem">
+  <div class="ui h-bold margin-left-3rem">
               Discover great content
             </div>
-  <p class="p-em-133 margin-left-7rem">
+  <p class="p-em-133 margin-left-3rem">
               Give your social strategy the edge with content that gets noticed.
             </p>
-  <p class="margin-left-7rem">Get unlimited access to eye-capturing royalty paid images and enjoy high performance user-generated content with single-click usage authorization for UGC rights management.
+  <p class="margin-left-3rem">Get unlimited access to eye-capturing royalty paid images and enjoy high performance user-generated content with single-click usage authorization for UGC rights management.
             </p>
-  <div class="item space-3em margin-left-7rem">
+  <div class="item space-3em margin-left-3rem">
   <a class="ui blue button button-font-format" href="/resources/?utm_source=tellmorecontent">Tell me more about Flockrush content</a>
 </div>
 </div>
