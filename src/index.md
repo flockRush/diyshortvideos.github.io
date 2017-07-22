@@ -4,7 +4,7 @@ layout: index.html
 
 <!-- Discover - Tell a story - Build great Audiences -Promote Home Page -->
 
- <div class="ui vertical">
+<div class="ui vertical">
   <div class="ui stackable grid">
   <div class="eight wide left aligned column nopadding-left-right">
   <div class="image">
@@ -25,7 +25,7 @@ layout: index.html
 </div>
 </div>
   <div class="eight wide left aligned column nopadding-left-right">
-  <div class="two column row">
+  <div class="row">
   <div class="column">
   <div class="image">
 </div>
@@ -44,21 +44,23 @@ layout: index.html
 </div>
 </div>
 </div>
+  <div class="row">
   <div class="column">
   <div class="image">
 </div>
   <img class="ui fluid image" src="/img/Starlings-build-a-great-audience-flockrush.jpg" alt="Starling Flockrush Build a Great Audience">
   <div class="ui container textimage">
   <div class="ui h-bold">
-              Build a great audience</div>
+                Build a great audience</div>
   <p class="p-em-166">
-              When you tell great stories using engaging content, you gain your audience's attention, and grow your fans much faster.
-            </p>
+                When you tell great stories using engaging content, you gain your audience's attention, and grow your fans much faster.
+              </p>
   <h3>Use Flockrush to manage all your <span class="p-notchup">social</span>  and
-              <span class="p-notchup">blogs</span>, rising above the noise of others.
-            </h3>
+                <span class="p-notchup">blogs</span>, rising above the noise of others.
+              </h3>
   <div class="item space-3em">
   <a class="ui blue button button-font-format" href="/resources/?utm_source=tellmoreaudience">Find out how to build a great audience</a>
+</div>
 </div>
 </div>
 </div>
