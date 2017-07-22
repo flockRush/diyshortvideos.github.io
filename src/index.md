@@ -68,3 +68,26 @@ layout: index.html
 </div>
 </div>
 </div>
+
+<div class="ui vertical">
+  <div class="ui stackable grid">
+  <div class="eight wide left aligned column nopadding-left-right">
+  <div class="image">
+  <div id="textimage" class="ui container ">
+  <img src="/img/Earth-discover-great-content-flockrush.jpg" alt="Earth Flockrush Discover Great Content">
+  <div class="ui h-bold">
+        Discover great content
+      </div>
+  <p class="p-em-166">
+        Give your social strategy the edge with content that gets noticed.
+      </p>
+  <h3>Get unlimited access to eye-capturing royalty paid images and enjoy high performance user-generated content with single-click usage authorization for UGC rights management.
+      </h3>
+  <div class="item space-3em">
+  <a class="ui blue button button-font-format" href="/resources/?utm_source=tellmorecontent">Tell me more about Flockrush content</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

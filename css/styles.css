@@ -269,6 +269,19 @@ max-width: 600px!important;
 
 }
 
+.image {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+
+.textimage {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+}
+
+
 .ui.fixed.inverted.menu{
   background-color: rgba(33,133,208,.7);
 
