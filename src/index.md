@@ -29,7 +29,7 @@ layout: index.html
   <div class="column">
   <div class="image">
 </div>
-  <img src="/img/DogCat-tell-a-story-flockrush.jpg" alt="Dog Cats Flockrush Tell a Great Story">
+  <img class="ui fluid image" src="/img/DogCat-tell-a-story-flockrush.jpg" alt="Dog Cats Flockrush Tell a Great Story">
   <div class="ui container textimage">
   <div class="ui h-bold">
               Tell great stories</div>
@@ -47,7 +47,7 @@ layout: index.html
   <div class="column">
   <div class="image">
 </div>
-  <img src="/img/Starlings-build-a-great-audience-flockrush.jpg" alt="Starling Flockrush Build a Great Audience">
+  <img class="ui fluid image" src="/img/Starlings-build-a-great-audience-flockrush.jpg" alt="Starling Flockrush Build a Great Audience">
   <div class="ui container textimage">
   <div class="ui h-bold">
               Build a great audience</div>
