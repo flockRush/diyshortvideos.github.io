@@ -270,6 +270,7 @@ h5 {
    color: #FFF!important;
    top: 2rem!important;
    margin-left: 3rem!important;
+   font-size: calc(100vw / 100)
 }
 
 .margin-left-3rem {
