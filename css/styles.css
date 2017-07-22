@@ -272,6 +272,13 @@ h5 {
    margin-left: 3rem!important;
 }
 
+.margin-left-3rem {
+  margin-left: 3rem!important;
+}
+
+.margin-left-7rem {
+  margin-left: 7rem!important;
+}
 
 .ui.fixed.inverted.menu{
   background-color: rgba(33,133,208,.7);
