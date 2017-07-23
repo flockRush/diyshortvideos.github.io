@@ -380,7 +380,7 @@ header-links {
     }
 
 .about-secondary-links {
-        margin-left: none!important;
+        margin-left: -3rem!important;
         margin-top: 2rem!important;
 }
 
