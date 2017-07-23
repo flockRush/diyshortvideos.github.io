@@ -18,43 +18,7 @@ $(document).ready(function(){
     });
   });
 
-
-
-$('.url.example .ui.embed').embed() {
-
-  selector : {
-    embed       : '.embed',
-    placeholder : '.placeholder',
-    play        : '.play'
-  }
-
-  metadata    : {
-  id          : 'id',
-  icon        : 'icon',
-  placeholder : 'placeholder',
-  source      : 'source',
-  url         : 'url'
-}
-
-className : {
-  active : 'active',
-  embed  : 'embed'
-}
-
-metadata    : {
-  id          : 'id',
-  icon        : 'icon',
-  placeholder : 'placeholder',
-  source      : 'source',
-  url         : 'url'
-}
-error : {
-  noURL  : 'No URL specified',
-  method : 'The method you called is not defined'
-}
-
-
-};
+$('.url.example .ui.embed').embed();
 
   // Set custom step
 
