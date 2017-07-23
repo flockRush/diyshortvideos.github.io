@@ -373,14 +373,14 @@ header-links {
   }
 
 .about-secondary-links .channel-links-item {
-      margin-left: 1rem;
-      display: inline;
-      margin-top: 2rem;
+      margin-left: none!important;
+      display: inline!important;
+      margin-top: 2rem!important;
     }
 
 .about-secondary-links {
-        margin-left: 4rem;
-        margin-top: 2rem;
+        margin-left: none!important;
+        margin-top: 2rem!important;
 }
 
 
