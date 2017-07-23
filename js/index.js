@@ -18,8 +18,6 @@ $(document).ready(function(){
     });
   });
 
-$('.url.example .ui.embed').embed();
-
   // Set custom step
 
  pricings= [
