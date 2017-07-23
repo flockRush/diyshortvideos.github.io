@@ -363,6 +363,26 @@ padding-right: 0rem!important;
       background-size:cover!important;
 }
 
+header-links {
+    position: absolute;
+    right: 15px;
+    bottom: 0;
+    padding: 0;
+    font-size: 0;
+    cursor: auto;
+  }
+
+.about-secondary-links .channel-links-item {
+      margin-left: 5px;
+      display: inline;
+    }
+
+.about-secondary-links {
+        margin-left: 2px;
+}
+
+
+
 img {
   max-width:100%
 }
