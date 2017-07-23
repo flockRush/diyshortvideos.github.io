@@ -306,12 +306,13 @@ h5 {
 }
 
 
-.nopadding-left-right {
+.nopadding-right {
 
-padding-left: 0rem!important;
 padding-right: 0rem!important;
 
 }
+
+nopadding-left-right
 
 
 .networks{
