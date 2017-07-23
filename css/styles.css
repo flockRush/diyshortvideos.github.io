@@ -308,12 +308,16 @@ h5 {
 
 .nopadding-right {
 
-padding-right: 0rem!important;
+padding-right: 0em!important;
 
 }
 
-nopadding-left-right
+.nopadding-left-right {
 
+padding-left: 0rem!important;
+padding-right: 0rem!important;
+
+}
 
 .networks{
   margin-top:10px !important;
