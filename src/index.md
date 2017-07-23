@@ -4,9 +4,8 @@ layout: index.html
 
 <!-- Discover - Tell a story - Build great Audiences -Promote Home Page -->
 
-
-
-<div class="ui vertical"><div class="ui stackable grid">
+ <div class="ui vertical">
+  <div class="ui stackable grid">
   <div class="eight wide left aligned column nopadding-left-right">
   <a href="/resources/?utm_source=tellmorecontent">
   <img class="ui fluid image" src="/img/Earth-discover-great-content-flockrush.jpg" alt="Earth Flockrush Discover Great Content">
@@ -21,5 +20,4 @@ layout: index.html
 </div>
 </div>
 </div>
-  &lt;/div<p>
-</p></div>
+</div>
