@@ -373,8 +373,9 @@ header-links {
   }
 
 .about-secondary-links .channel-links-item {
-      margin-left: 5px;
+      margin-left: -3.6rem;
       display: inline;
+      margin-top: 2rem;
     }
 
 .about-secondary-links {
@@ -405,6 +406,13 @@ img {
   height:250px;
   overflow:hidden;
 }
+
+.cropsegmentfooter{
+  height:300px;
+  overflow:hidden;
+}
+
+
 .cropsegment250 segment{
   margin-top;-100px;
 }
