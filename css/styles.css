@@ -319,12 +319,6 @@ padding-right: 0rem!important;
 
 }
 
-
-.ui[class*="left icon"].input>input {
-  padding-left: 2em!important;
-  padding-right: 3em!important;
-}
-
 .networks{
   margin-top:10px !important;
 }
@@ -381,6 +375,12 @@ header-links {
     padding: 0;
     font-size: 0;
     cursor: auto;
+  }
+
+
+ui.floating.green.compact.icon.button {
+    padding-left: 2em!important;
+    padding-right: 3em!important;
   }
 
 .about-secondary-links .channel-links-item {
