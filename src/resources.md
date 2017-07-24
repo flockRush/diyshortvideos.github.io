@@ -108,7 +108,7 @@ layout: resources.html
   <a class="ui fluid image" href="/resources/What-you-need-to-know-about-UGC-rights-approval/"><img src="/img/What-you-need-to-know-about-UGC-rights-approval.jpg" alt="What you need to know about UGC rights approval"></a>
 </div>
   <div class="eight wide orange column">
-  <a class="ui fluid image"><img src="/img/flockrush-ad-170x125.jpg" alt="Flockrush ad 350x150"></a>
+  <a class="ui fluid image" href="/resources/How-B2Bs-can-use-user-generated-content-to-unlock-a-Facebook-marketing-strategy/"><img src="/img/How-B2Bs-can-use-user-generated-content-to-unlock-a-Facebook-marketing-strategy.jpg" alt="How B2Bs can use UGC for Facebook marketing strategy"></a>
 </div>
   <div class="orange row">
   <div class="column">

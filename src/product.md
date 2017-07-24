@@ -264,8 +264,8 @@ layout: product.html
 </a>
 </div>
   <div class="eight wide column">
-  <a href="/resources/UGC-Content-Marketing-Infographic/" class="ui fluid image">
-  <img src="/img/UGC-Content-Marketing-Infographic.jpg" alt="UGC Content Marketing Infographic">
+  <a href="/resources/How-B2Bs-can-use-user-generated-content-to-unlock-a-Facebook-marketing-strategy/" class="ui fluid image">
+  <img src="/img/How-B2Bs-can-use-user-generated-content-to-unlock-a-Facebook-marketing-strategy.jpg" alt="How B2Bs can use user generated content to unlock a Facebook marketing strategy">
 </a>
 </div>
   <div class="sixteen wide right aligned column">
