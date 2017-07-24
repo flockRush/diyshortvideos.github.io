@@ -72,7 +72,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources//flockrush-STRATEGY-GUIDANCE-350x150.jpg" alt="Flockrush ad 350x150">
+  <img class="ui fluid image" <img="" src="/img/resources/flockrush-STRATEGY-GUIDANCE-350x150.jpg" alt="Flockrush ad 350x150">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest strategy resources:
@@ -117,7 +117,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources//flockrush-Content-Discovery-Main-350x150.jpg" alt="Flockrush Content Discovery 350x150">
+  <img class="ui fluid image" <img="" src="/img/resources/flockrush-Content-Discovery-Main-350x150.jpg" alt="Flockrush Content Discovery 350x150">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest content discovery resources:
@@ -162,7 +162,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources//flockrush-content-curation-350x150.jpg" alt="Flockrush Content Curation">
+  <img class="ui fluid image" <img="" src="/img/resources/flockrush-content-curation-350x150.jpg" alt="Flockrush Content Curation">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest content curation resources:
@@ -207,7 +207,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources//flocrush-content-publishing-350x150.jpg" alt="Flockrush Content Publishing">
+  <img class="ui fluid image" <img="" src="/img/resources/flocrush-content-publishing-350x150.jpg" alt="Flockrush Content Publishing">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest content publishing resources:
@@ -252,7 +252,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources//flockrush-ugc-management-350x150.jpg" alt="Flockrush UGC Rights Management">
+  <img class="ui fluid image" <img="" src="/img/resources/flockrush-ugc-management-350x150.jpg" alt="Flockrush UGC Rights Management">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest UGC Rights Management resources:
@@ -297,7 +297,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources//flockrush-BLOG-MANAGEMENT-350x150.jpg" alt="Flockrush Blog Management">
+  <img class="ui fluid image" <img="" src="/img/resources/flockrush-BLOG-MANAGEMENT-350x150.jpg" alt="Flockrush Blog Management">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest blogging resources:
@@ -349,7 +349,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources//flockrush-AUDIENCE-ENGAGEMENT-350x150.jpg" alt="Flockrush Audience Engagement">
+  <img class="ui fluid image" <img="" src="/img/resources/flockrush-AUDIENCE-ENGAGEMENT-350x150.jpg" alt="Flockrush Audience Engagement">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest audience engagement resources:
@@ -389,7 +389,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources//flockrush-ANALYTICS-DASHBOARDS-350x150.jpg" alt="Flockrush Analytics Dashboards">
+  <img class="ui fluid image" <img="" src="/img/resources/flockrush-ANALYTICS-DASHBOARDS-350x150.jpg" alt="Flockrush Analytics Dashboards">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest analytics resources:
