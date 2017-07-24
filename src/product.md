@@ -29,14 +29,14 @@ layout: product.html
 </a>
       <a class="ui card" href="/product/#content-publishing">
   <div class="center aligned content">
-  <i class="send huge inverted circular red networks icon">
+  <i class="send huge inverted circular flockredicon networks icon">
 </i>
   <p class="ui h-semibold">Content Publishing</p>
 </div>
 </a></div>
   <div class="ui four stackable link cards feature-cards"><a class="ui card" href="/product/#ugc-rights-management">
   <div class="center aligned content">
-  <i class="copyright huge inverted circular orange networks icon">
+  <i class="copyright huge inverted circular flockorangeicon networks icon">
 </i>
   <p class="ui h-semibold">UGC Rights Management</p>
 </div>

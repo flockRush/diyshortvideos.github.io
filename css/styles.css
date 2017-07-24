@@ -14,7 +14,7 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
   background-color: aquamarine!important;
 }
 
-.redpink {
+.flockred {
   background-color: #EB008B!important;
 }
 
@@ -22,7 +22,44 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
   background-color: #F05C2A!important;
 }
 
-.iconred {
+.flockgreen {
+  background-color: #62BA46!important;
+}
+
+.flockaqua {
+  background-color: #00BCDF!important;
+}
+
+.flockblue {
+  background-color: #2185D0!important;
+}
+
+.flockaquamarineicon {
+  background-color: #aquamarine!important;
+}
+
+
+.flockorangeicon {
+  color: #F05C2A!important;
+}
+
+.flockgreenicon {
+  color: #62BA46!important;
+}
+
+.flockaquaicon {
+  color: #00BCDF!important;
+}
+
+.flockblueicon {
+  color: #2185D0!important;
+}
+
+.flockaquamarineicon {
+  color: #aquamarine!important;
+}
+
+.iconredicon {
   color: #EB2328!important;
 }
 
