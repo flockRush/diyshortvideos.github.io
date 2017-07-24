@@ -21,14 +21,14 @@ layout: How-to-choose-a-topic-to-build-a-fan-page.html
       always look at how much that restricts the pool of people you are left. </p>
   <p></p>
   <p></p>
-  <p><img alt="Filter Facebook Audiences" src="/img/resources/Postsfilter-facebook-audiences.png"></p>
+  <p><img alt="Filter Facebook Audiences" src="/img/resources/Posts/filter-facebook-audiences.png"></p>
   <h3 class="ui header">
       Look at the categories and pages that are most aligned to that group profile &nbsp;
     </h3>
   <p></p>
   <p>From the ‘Page Likes’ tab you can see the pages most liked by this group, how many of the group like the pages and the total number of fans those pages have. You want to exclude organisations and celebrities from your consideration –
       you are looking for a topic you can curate a lot of content on that isn’t owned by someone else. </p>
-  <p><img alt="Facebook categories and pages" src="/img/resources/Postsfacebook-categories-and-pages.png"></p>
+  <p><img alt="Facebook categories and pages" src="/img/resources/Posts/facebook-categories-and-pages.png"></p>
   <p></p>
   <p>You are also looking for fan pages relevant to this group that have a high number of fans. If you want to target building a fan page with over a million followers targeting this group, then there needs to be an existing interest area that has the
       scope for a large audience. </p>
