@@ -50,7 +50,7 @@ layout: >-
   <p>UGC is the a fantastic source of rich content on almost any topic you can think of, and you can see already how it is performing – something you never know from original content until it goes live. This allows you to pick content you already know
       is performing well increasing the chances it will perform well for you too.
   </p>
-  <p><img alt="Flockrush User Generated content discovery page" src="img/Flockrush-User-Generated-content-discovery-page.png"></p>
+  <p><img alt="Flockrush User Generated content discovery page" src="/img/resources/PostsFlockrush-User-Generated-content-discovery-page.png"></p>
   <p></p>
   <p>Built into Flockrush is an single-click approval process to get usage rights from content owners which you can read more about here POST LINK TO UGC APPROVAL RESOURCE
   </p>
