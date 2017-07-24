@@ -67,7 +67,7 @@ layout: resources.html
 </div>
   <div class="flockred row">
   <div class="column">
-  <h2>Content Publishing and Management</h2>
+  <h2 class="ui inverted header">Content Publishing and Management</h2>
 </div>
 </div>
   <div class="eight wide flockred column">
