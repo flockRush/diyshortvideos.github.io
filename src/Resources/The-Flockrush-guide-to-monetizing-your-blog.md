@@ -10,7 +10,7 @@ layout: The-Flockrush-guide-to-monetizing-your-blog.html
       The Flockrush strategy helps you to use content to build large, targeted fan pages based around a topic that resonates with the audience you want. As soon as you are creating traffic you have an asset that you can monetize. But how do you do that? </p>
   <p>
       With Flockrush we help you do this with a blog from our own blogging platform that is linked to your fan page as part of your Flockrush plan. This is the simplest way to direct traffic from your social fan pages to land where you can control monetization.</p>
-  <h3>
+  <h3 class="ui header">
       Why your blog is important</h3>
   <p>
       Using topic based content to build a large audience is a key part of our strategy, but having fans only engaging with a fan page doesn’t enable you to monetize them – your content posting has to consistently supply content based that fits your page. To
@@ -22,7 +22,7 @@ layout: The-Flockrush-guide-to-monetizing-your-blog.html
   <p>
       So you now have a blog page where you can fully manage your own content, and an email list that you can build and contact. You are now primed to start monetizing!
     </p>
-  <h3>Why Flockrush created their own blog platform</h3>
+  <h3 class="ui header">Why Flockrush created their own blog platform</h3>
   <p>
       It would be have been easy to just integrate with some third party blogging platforms – and indeed we do integrate with Wordpress via the Jetpack pluging. We built out own platform for four main reasons:
       </p>
@@ -68,7 +68,7 @@ layout: The-Flockrush-guide-to-monetizing-your-blog.html
     When you create your content for publishing to your fan pages we also make it very easy to add that to your blog – it’s no different than adding another publishing channel – so you simply add Blog to Facebook, Twitter, Instagram or any other social channel
     you post to. It really couldn’t be any easier.
   </p>
-  <h3>Selling advertising space via Adsense</h3>
+  <h3 class="ui header">Selling advertising space via Adsense</h3>
   <p>
     If you want to sell space on your Flockrush blog to advertisers via Google Adsense then this is very simple to do. You can integrate your Adsense account with your Flockrush blog using pre-built templates designed to optimise the mix of space between
     your content and advertiser content.</p>
@@ -80,7 +80,7 @@ layout: The-Flockrush-guide-to-monetizing-your-blog.html
   <p>
     This is possible the simplest way to monetize your audience 24/7 leaving you to decide how much time you want to spend optimizing your Adsense revenue.
   </p>
-  <h3>Building fan pages for brand audiences</h3>
+  <h3 class="ui header">Building fan pages for brand audiences</h3>
   <p>
     The full power of Flockrush lies in building audiences around target profiles. This means that audiences can be built around brand profiles in order to be used as a traffic engine. Whether that traffic is exposed exclusively to brand marketing campaigns,
     or more directly delivered to a website, for example, it has a value.</p>
@@ -89,7 +89,7 @@ layout: The-Flockrush-guide-to-monetizing-your-blog.html
   <p>
     With the flexibility of Flockrush you can combine brand activity with Adsense to ensure that there’s never a moment when your blog isn’t delivering you revenue from traffic.
   </p>
-  <h3>Collecting email subscriptions</h3>
+  <h3 class="ui header">Collecting email subscriptions</h3>
   <p>
     Built in to all our Flockrush blogs is the ability for visitors to subscribe via email. Having a database of email addresses is a great marketing tool. Whilst visitors have subscribed because of the content in your blog, you are able to add advertising/marketing
     messages to your emails to further monetize your audience.</p>

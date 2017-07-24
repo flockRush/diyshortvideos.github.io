@@ -14,7 +14,7 @@ layout: The-Flockrush-guide-to-beginners-social-analytics.html
       recycle and what to remove.</p>
   <p>
       As a key part of the product suite, Flockrush lets users build highly customized dashboards giving you the opportunity to manage your page using the metrics most important to you, presented in the way you want to see them.</p>
-  <h3>
+  <h3 class="ui header">
       Basic Analytics Definitions</h3>
   <p>
       Before you start you should understand what the common measures in analytics refer to. The most basic ones for managing your fan page analytics are:</p>
@@ -70,7 +70,7 @@ layout: The-Flockrush-guide-to-beginners-social-analytics.html
 </div>
 </div>
 </div>
-  <h3>
+  <h3 class="ui header">
         Understanding what’s important</h3>
   <p>
         There are a common set of measures for social fan page analytics – the choice to make is how much you want to measure and how deeply. Before you start diving head first into data, reports and insights, it’s important to understand what the priority is
@@ -82,7 +82,7 @@ layout: The-Flockrush-guide-to-beginners-social-analytics.html
         For Flockrush users, audience growth and engagement will be critical – if your audience isn’t growing and your content isn’t engaging then this will need urgent attention. Other social metrics will help you to understand why this may be the case as you
         dive into the data.
       </p>
-  <h3>
+  <h3 class="ui header">
         How much time do I need to spend on analytics?</h3>
   <p>
         There is no right answer to how much time you need to spend on data, but the better you understand your content and audience engagement the more chance you have of making your pages succeed quickly.</p>
@@ -98,7 +98,7 @@ layout: The-Flockrush-guide-to-beginners-social-analytics.html
   <p>
         For more strategic analysis you should be taking a look at least weekly at your overall numbers to see if you are achieving the levels of growth and engagement you expect from your content strategy.
       </p>
-  <h3>
+  <h3 class="ui header">
         Building your reports</h3>
   <p>
         Flockrush has highly versatile analytics dashboards built in. Dashboards can be configured to show you the data almost any way you need it - allowing you to select a dashboard template layout and then populate it with the data ‘widgets’ you want.</p>
@@ -155,7 +155,7 @@ layout: The-Flockrush-guide-to-beginners-social-analytics.html
   <p>
         When you have set up your reports you can schedule these to be emailed to you and your team as frequently as you like to help ensure that including analysis of your pages becomes habitual and leads to improvements in your content strategy.
       </p>
-  <h3>
+  <h3 class="ui header">
         Getting into the detail</h3>
   <p>
         Once you have a good set of dashboards set up you will start to become familiar with performance patterns and will start to learn to spot areas that need investigation. Use your daily and weekly performance reviews to spot the peaks, troughs and trends.
@@ -164,7 +164,7 @@ layout: The-Flockrush-guide-to-beginners-social-analytics.html
         Beware of averages though. Averages will always hide insights – if you have a very high performing post and a very low performing post knowing that your performance across the two is average isn’t helpful. You need to understand where good performance
         is masking poor performance to maximise your page performance.
       </p>
-  <h3>
+  <h3 class="ui header">
         Summary to getting started with your fan page analytics</h3>
   <p></p>
   <div class="ui ordered list p-light-up">
