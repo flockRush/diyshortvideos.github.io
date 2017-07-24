@@ -80,12 +80,12 @@ layout: product.html
 </div>
   <div class="eight wide column">
   <a href="/resources/How-to-build-an-audience-of-one-million-fans-in-ten-steps/" class="ui fluid image">
-  <img src="img/flockrush-build-an-audience-of-million-in-10-steps.jpg" alt="Build an audience of million in 10 steps">
+  src="/img/resources/flockrush-build-an-audience-of-million-in-10-steps.jpg" alt="Build an audience of million in 10 steps"&gt;
 </a>
 </div>
   <div class="eight wide column">
   <a href="/resources/How-to-choose-a-topic-to-build-a-fan-page/" class="ui fluid image">
-  <img src="img/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt="How to choose a topic to build an audience">
+  src="/img/resources/flockrush-How-to-choose-a-topic-to-build-an-audience.jpg" alt="How to choose a topic to build an audience"&gt;
 </a>
 </div>
   <div class="sixteen wide right aligned column">
@@ -125,12 +125,12 @@ layout: product.html
 </div>
   <div class="eight wide column">
   <a href="/resources/Discovering-content-at-scale-how-to-find-high-performing-content-for-free-using-Flockrush/" class="ui fluid image">
-  <img src="/img/discovering-content-at-scale–how-to-find-free-content-using-Flockrush.jpg" alt="Discovering Content at scale how to find free content using Flockrush">
+  src="/img/resources/discovering-content-at-scale–how-to-find-free-content-using-Flockrush.jpg" alt="Discovering Content at scale how to find free content using Flockrush"&gt;
 </a>
 </div>
   <div class="eight wide column">
   <a href="/resources/How-to-choose-images-primed-for-social-engagement/" class="ui fluid image">
-  <img src="/img/How-to-choose-images-primed-for-social-engagement.jpg" alt="How to choose images primed for social engagement">
+  src="/img/resources/How-to-choose-images-primed-for-social-engagement.jpg" alt="How to choose images primed for social engagement"&gt;
 </a>
 </div>
   <div class="sixteen wide right aligned column">
@@ -169,12 +169,12 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column"><a href="/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building/" class="ui fluid image">
-  <img src="/img/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush">
+  src="/img/resources/Why-Content-Curation-Beats-Content-Creation-for-audience-building-flockrush.jpg" alt="Why Content Curation Beats Content Creation for audience building flockrush"&gt;
 </a>
   <br></div>
   <div class="eight wide column">
   <a href="/resources/Ten-top-tips-for-smart-curation/" class="ui fluid image">
-  <img src="/img/Ten-top-tips-for-smart-curation-flockrush.jpg" alt="Ten top tips for smart curation flockrush">
+  src="/img/resources/Ten-top-tips-for-smart-curation-flockrush.jpg" alt="Ten top tips for smart curation flockrush"&gt;
 </a>
 </div>
   <div class="sixteen wide right aligned column">
@@ -215,12 +215,12 @@ layout: product.html
 </div>
   <div class="eight wide column">
   <a href="/resources/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed/" class="ui fluid image">
-  <img src="/img/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed.jpg" alt="How Flockrush uses content queues to get your fan pages noticed">
+  src="/img/resources/How-Flockrush-uses-content-queues-to-get-your-fan-pages-noticed.jpg" alt="How Flockrush uses content queues to get your fan pages noticed"&gt;
 </a>
 </div>
   <div class="eight wide column">
   <a href="/resources/Ten-habits-of-high-performance-content-managers/" class="ui fluid image">
-  <img src="/img/Ten-habits-of-high-performance-content-managers.jpg" alt="Ten habits of high performance content managers">
+  src="/img/resources/Ten-habits-of-high-performance-content-managers.jpg" alt="Ten habits of high performance content managers"&gt;
 </a>
 </div>
   <div class="sixteen wide right aligned column">
@@ -260,12 +260,12 @@ layout: product.html
 </div>
   <div class="eight wide column">
   <a href="/resources/What-you-need-to-know-about-UGC-rights-approval/" class="ui fluid image">
-  <img src="/img/What-you-need-to-know-about-UGC-rights-approval.jpg" alt="What you need to know about UGC rights approval">
+  src="/img/resources/What-you-need-to-know-about-UGC-rights-approval.jpg" alt="What you need to know about UGC rights approval"&gt;
 </a>
 </div>
   <div class="eight wide column">
   <a href="/resources/How-B2Bs-can-use-user-generated-content-to-unlock-a-Facebook-marketing-strategy/" class="ui fluid image">
-  <img src="/img/How-B2Bs-can-use-user-generated-content-to-unlock-a-Facebook-marketing-strategy.jpg" alt="How B2Bs can use user generated content to unlock a Facebook marketing strategy">
+  src="/img/resources/How-B2Bs-can-use-user-generated-content-to-unlock-a-Facebook-marketing-strategy.jpg" alt="How B2Bs can use user generated content to unlock a Facebook marketing strategy"&gt;
 </a>
 </div>
   <div class="sixteen wide right aligned column">
@@ -305,12 +305,12 @@ layout: product.html
 </div>
   <div class="eight wide column">
   <a href="/resources/Why-your-fan-page-audience-needs-a-Flockrush-blog/" class="ui fluid image">
-  <img src="/img/Why-your-fanpage-audience-needs-a-Flockrush-blog.jpg" alt="Why your fan page audience needs a Flockrush blog">
+  src="/img/resources/Why-your-fanpage-audience-needs-a-Flockrush-blog.jpg" alt="Why your fan page audience needs a Flockrush blog"&gt;
 </a>
 </div>
   <div class="eight wide column">
   <a href="/resources/The-Flockrush-guide-to-monetizing-your-blog/" class="ui fluid image">
-  <img src="/img/The-Flockrush-guide-to-monetizing-your-blog.jpg" alt="The Flockrush guide to monetizing your blog">
+  src="/img/resources/The-Flockrush-guide-to-monetizing-your-blog.jpg" alt="The Flockrush guide to monetizing your blog"&gt;
 </a>
 </div>
   <div class="sixteen wide right aligned column">
@@ -356,10 +356,10 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <a href="/resources/Using-Audience-Engagement-To-Grow-Fans/" class="ui fluid image"><img src="/img/Using-Audience-Engagement-To-Grow-Fans-with-flockrush.jpg" alt="Using Audience Engagement To Grow Fans with flockrush"></a>
+  <a href="/resources/Using-Audience-Engagement-To-Grow-Fans/" class="ui fluid image">src="/img/resources/Using-Audience-Engagement-To-Grow-Fans-with-flockrush.jpg" alt="Using Audience Engagement To Grow Fans with flockrush"&gt;</a>
 </div>
   <div class="eight wide column">
-  <a href="/resources/Driving-engagement-through-your-fan-page-audience/" class="ui fluid image"><img src="/img/Driving-engagement-through-your-fan-page-audience.jpg" alt="Driving engagement through your fan page"></a>
+  <a href="/resources/Driving-engagement-through-your-fan-page-audience/" class="ui fluid image">src="/img/resources/Driving-engagement-through-your-fan-page-audience.jpg" alt="Driving engagement through your fan page"&gt;</a>
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
@@ -396,10 +396,10 @@ layout: product.html
           </p>
 </div>
   <div class="eight wide column">
-  <a href="/resources/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages/" class="ui fluid image"><img src="/img/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages.jpg" alt="Audience Building By Numbers using analytics to grow your fan pages"></a>
+  <a href="/resources/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages/" class="ui fluid image">src="/img/resources/Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages.jpg" alt="Audience Building By Numbers using analytics to grow your fan pages"&gt;</a>
 </div>
   <div class="eight wide column">
-  <a href="/resources/The-Flockrush-guide-to-beginners-social-analytics/" class="ui fluid image"><img src="/img/The-Flockrush-guide-to-beginners-social-analytics.jpg" alt="A Flockrush guide to getting started with social analytics"></a>
+  <a href="/resources/The-Flockrush-guide-to-beginners-social-analytics/" class="ui fluid image">src="/img/resources/The-Flockrush-guide-to-beginners-social-analytics.jpg" alt="A Flockrush guide to getting started with social analytics"&gt;</a>
 </div>
   <div class="sixteen wide right aligned column">
   <p>See all
