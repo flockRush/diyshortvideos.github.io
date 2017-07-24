@@ -3,7 +3,11 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
 }
 
 .red {
-  background-color: #EB2328!important;
+  background-color: #FF0000!important;
+}
+
+.pink {
+    background-color: #EB008B!important;
 }
 
 .blue {
@@ -14,53 +18,12 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
   background-color: aquamarine!important;
 }
 
-.flockred {
-  background-color: #EB008B!important;
+.orange {
+  background-color:#F05C2A!important;
 }
 
-.flockorange {
-  background-color: #F05C2A!important;
-}
-
-.flockgreen {
-  background-color: #62BA46!important;
-}
-
-.flockaqua {
-  background-color: #00BCDF!important;
-}
-
-.flockblue {
-  background-color: #2185D0!important;
-}
-
-.flockaquamarineicon {
-  background-color: #aquamarine!important;
-}
-
-
-.flockorangeicon {
-  color: #F05C2A!important;
-}
-
-.flockgreenicon {
-  color: #62BA46!important;
-}
-
-.flockaquaicon {
-  color: #00BCDF!important;
-}
-
-.flockblueicon {
-  color: #2185D0!important;
-}
-
-.flockaquamarineicon {
-  color: #aquamarine!important;
-}
-
-.iconredicon {
-  color: #EB2328!important;
+.iconred {
+  color: #FF0000!important;
 }
 
 .iconblue {
@@ -72,7 +35,7 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
 }
 
 .icongrey {
-  color: #bababa!important;
+  color:#bababa!important;
 }
 .menu-color{
     background-color:rgba(33,133,208)!important;
