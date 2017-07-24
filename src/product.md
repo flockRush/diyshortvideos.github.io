@@ -43,7 +43,7 @@ layout: product.html
 </a>
       <a class="ui card" href="/product/#audience-engagement">
   <div class="center aligned content">
-  <i class="users huge inverted circular blue networks icon">
+  <i class="users huge inverted circular flockblueicon networks icon">
 </i>
   <p class="ui h-semibold">Audience Engagement</p>
 </div>
@@ -57,7 +57,7 @@ layout: product.html
 </a>
       <a class="ui card" href="/product/#blog-management">
   <div class="center aligned content">
-  <i class="newspaper huge inverted circular green networks icon">
+  <i class="newspaper huge inverted circular flockgreenicon networks icon">
 </i>
   <p class="ui h-semibold">Blog Management</p>
 </div>
