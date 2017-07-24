@@ -207,7 +207,7 @@ layout: product.html
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources/flocrush-content-publishing-350x150.jpg" alt="Flockrush Content Publishing">
+  <img class="ui fluid image" <img="" src="/img/resources/flockrush-content-publishing-350x150.jpg" alt="Flockrush Content Publishing">
 </div>
   <div class="sixteen wide left bottom aligned column">
   <p class="p-em-166">Our latest content publishing resources:
