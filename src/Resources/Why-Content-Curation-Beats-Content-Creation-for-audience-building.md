@@ -16,7 +16,7 @@ layout: Why-Content-Curation-Beats-Content-Creation-for-audience-building.html
   <p>But for those who invest in large scale original content creation there's a real sting in the tail. As social networks mature, feed algorithms make it perennially harder for brands to reach their own audience. Research by Social at Ogilvy showed this has
       declined steadily year after year - now sitting below 2%, and still falling.
   </p>
-  <p><img class="ui fluid image" src="/img/Organic-Reach-Chart.png" alt="Ogilvy  Facebook Organic Reach Report"></p>
+  <p><img class="ui fluid image" src="/img/resources/Posts/Organic-Reach-Chart.png" alt="Ogilvy  Facebook Organic Reach Report"></p>
   <p>So how do you create a content strategy that allows you to create and sustain an engaged audience and get your marketing messages across? One option is to spend money to promote your content - buying visibility - but another approach that uses user-generated
       content can deliver more effective results.
   </p>

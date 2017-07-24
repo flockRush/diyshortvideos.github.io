@@ -46,7 +46,7 @@ layout: >-
   </p>
   <p>Simply enter your search query, select your source (Images, Video, News, Twitter or Instagram) and select content you want to use from the results.
   </p>
-  <p><img alt="Flockrush content discovery page" src="img/flockrush-content-discovery.png"></p>
+  <p><img alt="Flockrush content discovery page" src="/img/resources/Posts/flockrush-content-discovery.png"></p>
   <p>UGC is the a fantastic source of rich content on almost any topic you can think of, and you can see already how it is performing – something you never know from original content until it goes live. This allows you to pick content you already know
       is performing well increasing the chances it will perform well for you too.
   </p>
@@ -58,7 +58,7 @@ layout: >-
   </p>
   <p>Any of the content search results can be selected for curation and publishing – even select multiple pieces of content to curate simultaneously, rapidly improving your ability to generate high quality posts in high numbers.
   </p>
-  <p><img alt="Curate at scale using Flockrush" src="img/curate-at-scale-flockrush.png"></p>
+  <p><img alt="Curate at scale using Flockrush" src="/img/resources/Posts/curate-at-scale-flockrush.png"></p>
   <p></p>
   <p>One of the greatest strengths of Flockrush is that content discover happens in the same platform as your publishing – reducing the time and hassle of having to copy information across platforms and allowing you to put all your energy into getting
       the best content on your fan pages.
@@ -69,7 +69,7 @@ layout: >-
   <p>If you have content you want to add to Flockrush that’s easy too – our publishing tool allows you to create posts with any of your own content and add them to your content queues to be used like any content you find in Flockrush. You simply
       upload your media and then curate the post.
   </p>
-  <p><img alt="Use content from all sources" src="img/use-content-from-all-sources.png"></p>
+  <p><img alt="Use content from all sources" src="/img/resources/Posts/use-content-from-all-sources.png"></p>
   <p></p>
   <h3 class="ui header">
     How do I get the most out of the free content in Flockrush?

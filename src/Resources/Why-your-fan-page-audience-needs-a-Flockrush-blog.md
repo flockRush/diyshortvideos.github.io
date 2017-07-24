@@ -45,7 +45,7 @@ Having an effective blog is therefore the centerpiece of realising the value of 
   <p>Publsihing to your blog couldn’t be easier – when you create a post for social you can select any or all social channels to publish from. There’s no content to transfer – it really is that easy.</p>
   <p><img class="ui fluid image" src="/img/flockrush-BLOG-SOCIAL.jpg" alt="Flockrush Blog and Social imagary"></p>
   <p>All your efforts can go on ensuring you are posting great content that delivers you trafic.</p>
-  <p><img class="ui fluid image" src="/img/flockrush-blog-mobile-friendliness-and-speed-test.jpg" alt="Flockrush Blog and Mobile Friendliness and Speed Test Results"></p>
+  <p><img class="ui fluid image" src="/img/resources/Posts/flockrush-blog-mobile-friendliness-and-speed-test.jpg" alt="Flockrush Blog and Mobile Friendliness and Speed Test Results"></p>
   <h3 class="ui header">Can I customize my blog?</h3>
   <p>The design of our blog is optimized for speed and surfacing personalized best performing content – it’s simple, elegant design offers template based design to give you the best look for your blog.</p>
   <p>Our blog platform can be tailored, if required to suite your own design requirements with the scope for you to add your own style-sheet. </p>
