@@ -5,6 +5,7 @@ layout: How-to-build-an-audience-of-one-million-fans-in-ten-steps.html
 <div class="ui left vertical stripe segment">
   <div class="ui left text container">
   <h2>How Anyone Can Use Flockrush to Build an Audience of One Million Fans in Ten Steps</h2>
+  <img class="ui small left floated image" src="/img/resources/flockrush-build-an-audience-of-million-in-10-steps.jpg" alt="Build an audience of million in 10 steps">
   <p>
       Imagine if you could launch a product having already built a potential audience of one million people and hundreds of thousands of email subscribers to market it to - from apps to events to new products having such opportunity can drastically impact the
       success of that product, and every product you want to market..</p>
