@@ -3,7 +3,6 @@
 <title>Sales Presentation: Flockrush</title>
 
 <meta name="description" content="Sales Presentation Deck."> {{> header-part2-slider }} {{>top-nav-toolbar-content}}
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
 <div class="ui text center aligned container">
     <div class="ui huge inverted space-10em">
@@ -16,46 +15,23 @@
 
 {{> header-2 }}
 
-<!-- Swiper -->
-<div class="swiper-container gallery-top">
-    <div class="swiper-wrapper">
-        <div class="swiper-slide" style="background-image:url(/img/resources/Slides/flockrush_slide-opening.jpg)"></div>
-        <div class="swiper-slide" style="background-image:url(/img/resources/Slides/flockrush_slide-powering-bold-marketing.jpg"></div>
-        <div class="swiper-slide" style="background-image:url(/img/resources/Slides/flockrush_slide-welcome.jpg)"></div>
-    </div>
-    <!-- Add Arrows -->
-    <div class="swiper-button-next swiper-button-white"></div>
-    <div class="swiper-button-prev swiper-button-white"></div>
-</div>
-<div class="swiper-container gallery-thumbs">
-    <div class="swiper-wrapper">
-        <div class="swiper-slide" style="background-image:url(/img/resources/Slides/flockrush_slide-opening.jpg)"></div>
-        <div class="swiper-slide" style="background-image:url(/img/resources/Slides/flockrush_slide-powering-bold-marketing.jpg"></div>
-        <div class="swiper-slide" style="background-image:url(/img/resources/Slides/flockrush_slide-welcome.jpg)"></div>
+<div class="slider slider1">
+    <div class="slides">
+        <div class="slide-item flockrush-slide-opening">
+        </div>
+        <div class="slide-item flockrush-slide-powering-bold-marketing">
+        </div>
+        <div class="slide-item flockrush-slide-welcome">
+        </div>
     </div>
 </div>
 
-<!-- Swiper JS -->
-<script src="/js/swiper.min.js"></script>
-
-<!-- Initialize Swiper -->
-<script>
-    var galleryTop = new Swiper('.gallery-top', {
-        nextButton: '.swiper-button-next',
-        prevButton: '.swiper-button-prev',
-        spaceBetween: 10,
-    });
-    var galleryThumbs = new Swiper('.gallery-thumbs', {
-        spaceBetween: 10,
-        centeredSlides: true,
-        slidesPerView: 'auto',
-        touchRatio: 0.2,
-        slideToClickedSlide: true
-    });
-    galleryTop.params.control = galleryThumbs;
-    galleryThumbs.params.control = galleryTop;
-</script>
-
+<div class="ui vertical stripe segment">
+    <div class="ui left aligned text container">
+        <p class="h1size">See How Flockrush Works</p>
+        {{>information-form}}
+    </div>
+</div>
 
 {{> footer }}
 
