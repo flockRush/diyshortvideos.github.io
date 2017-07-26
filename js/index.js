@@ -25,6 +25,12 @@ $(document).ready(function(){
         arrowRightText: '',
         arrowLeftText: ''
     });
+    //initialize swiper when document ready
+    var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        paginationClickable: true
+    });
+
 
   // set custom step
   pricings = [

@@ -2,6 +2,11 @@ body, textarea, h1, h2, h3, h4, h5, .ui.button, .ui.text.container, .ui.header {
   font-family: "Roboto"!important;
 }
 
+.swiper-container {
+    width: 600px;
+    height: 300px;
+}      
+
 .red {
   background-color: #FF0000!important;
 }
