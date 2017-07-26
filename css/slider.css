@@ -67,7 +67,7 @@
   border-radius:50%;
 }
 .slider-arrow--right, .slider-arrow--left {
-  background-image: url('/old-jeffry-in/assets/glide-arrows.png');
+  background-image: url('/img/glide-arrows.png');
   background-repeat:no-repeat;
   width: 17px;
 height: 28px;
@@ -88,18 +88,16 @@ background-position: -17px 0;
   background-position: center;
   background-size: cover;
 }
-.slider1 .item1 {
-  background:url("/old-jeffry-in/assets/dream1.jpg") no-repeat center;
+.slider1 .slide-opening {
+  background:url("/img/resources/Slides/flockrush_slide-opening.jpg") no-repeat center;
 }
-.slider1 .item2 {
-  background:url("/old-jeffry-in/assets/dream2.jpg") no-repeat center;
+.slider1 .slide-powering-bold-marketing {
+  background:url("/img/resources/Slides/flockrush_slide-powering-bold-marketing.jpg") no-repeat center;
 }
-.slider1 .item3 {
-  background:url("/old-jeffry-in/assets/dream3.jpg") no-repeat center;
+.slider1 .slide-welcome {
+  background:url("/img/resources/Slides/flockrush_slide-welcome.jpg") no-repeat center;
 }
-.slider1 .item4 {
-  background:url("/old-jeffry-in/assets/dream4.jpg") no-repeat center;
-}
+
 .slider1 {
   color:#fff;
 }
