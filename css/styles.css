@@ -277,6 +277,12 @@ h5 {
 
 /* Custom */
 
+
+.noborder-shadow {
+  border: 0px!important;
+  box-shadow: 0 0px 0px 0!important;
+}
+
 .image {
    position: relative;
    width: 100%; /* for IE 6 */
