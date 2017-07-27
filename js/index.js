@@ -19,13 +19,6 @@ $(document).ready(function(){
         lastResort: "bottom left"
       });
     });
-    $('.slider').glide({
-        autoplay: false,
-        arrowsWrapperClass: 'slider-arrows',
-        arrowRightText: '',
-        arrowLeftText: ''
-    });
-
 
   // set custom step
   pricings = [
