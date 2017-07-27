@@ -1,3 +1,3 @@
 ---
-layout: xdevpage-main.html
+layout: xdevpage-slide.html
 ---
