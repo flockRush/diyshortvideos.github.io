@@ -17,16 +17,16 @@
     <div class="two fields">
         <div class="field">
             <label>Email</label>
-            <input type="email" id="drip-email" name="fields[email]" value="" placeholder="email@you.com" />
+            <input type="email" id="drip-email" name="fields[email]" value="" placeholder="email@you.com" required/>
         </div>
         <div class="field">
             <label>Phone</label>
-            <input type="text" id="drip-phone" name="fields[phone]" value="" placeholder="Phone Number" />
+            <input type="text" id="drip-phone" name="fields[phone]" value="" placeholder="Phone Number" required/>
         </div>
     </div>
     <div class="two fields">
         <div class="field">
-            <input type="text" id="drip-first-name" name="fields[first_name]" placeholder="First Name" value="" />
+            <input type="text" id="drip-first-name" name="fields[first_name]" placeholder="First Name" value="" required/>
         </div>
         <div class="field">
             <input type="text" id="drip-last-name" name="fields[last_name]" placeholder="Last Name" value="" />
@@ -37,7 +37,7 @@
             <input type="text" id="drip-my-company-name" name="fields[my_company_name]" placeholder="My Company Name" value="" />
         </div>
         <div class="field">
-            <select class="ui dropdown" name="fields[industry]" id="drip-industry" value="">
+            <select class="ui dropdown" name="fields[industry]" id="drip-industry" value="" required>
                 <option value="">Industry</option>
                 <option value="Advertising">Advertising & Marketing/option</option>
                 <option value="Automotive">Automotive</option>
@@ -68,7 +68,7 @@
             </select>
         </div>
         <div class="field">
-            <input type="text" id="drip-country" name="fields[country]" placeholder="Country" value="" />
+            <input type="text" id="drip-country" name="fields[country]" placeholder="Country" value="" required/>
         </div>
     </div>
 
