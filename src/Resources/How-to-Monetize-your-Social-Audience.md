@@ -1,6 +1,10 @@
+
+
 ---
-layout: How-to-Monetize-your-Social-Audience.html
----
+
+
+
+## layout: How-to-Monetize-your-Social-Audience.html
 
 <div class="ui left vertical stripe segment">
   <div class="ui left text container">
@@ -46,7 +50,7 @@ layout: How-to-Monetize-your-Social-Audience.html
   <h3 class="ui header">Who is Flockrush for? </h3>
   <p>
       Whether you are a brand, an agency or simply an individual fan page builder, anyone who wants to grow targeted social audiences can benefit from Flockrush – perhaps you are: </p>
-  <ol><li>Wanting to build high traffic sites to earn revenue from advertising space working just a few hours a day</li><li>
+  <ol class="p-light-up"><li>Wanting to build high traffic sites to earn revenue from advertising space working just a few hours a day</li><li>
         A brand wanting to manage brand pages utilizing the effectiveness of a complete editorial publishing workflow with full control of UGC content rights management and analytics</li><li>
         An agency developing marketing solutions for clients to deliver high traffic volumes for their target market at lower cost than PPC</li><li>
         An influencer with an existing audience you want to publish to more effectively and monetize </li></ol>
