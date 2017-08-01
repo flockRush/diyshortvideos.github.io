@@ -1,5 +1,5 @@
 ---
-layout: Audience-Building-By-Numbers-using-analytics-to-grow-your-fan-pages.html
+layout: How-to-Monetize-your-Social-Audience.html
 ---
 
 <div class="ui left vertical stripe segment">
