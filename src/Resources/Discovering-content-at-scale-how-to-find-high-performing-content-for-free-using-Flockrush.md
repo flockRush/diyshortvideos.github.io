@@ -3,11 +3,14 @@ layout: >-
   Discovering-content-at-scale-how-to-find-high-performing-content-for-free-using-Flockrush.html
 ---
 
+flockrush-content-is-king
+
 <div class="ui left vertical stripe segment">
   <div class="ui left text container">
   <h2>
     Discoving content at scale - how to find high performing content for free using Flockrush
   </h2>
+  <img class="ui small left floated image" src="/img/resources/flockrush-content-is-king.jpg" alt="Content is king">
   <h3 class="ui header">
     Why discovering content at scale is key to growing fan page communities
   </h3>
