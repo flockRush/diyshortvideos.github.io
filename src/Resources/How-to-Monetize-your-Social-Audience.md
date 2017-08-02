@@ -1,10 +1,6 @@
-
-
 ---
-
-
-
-## layout: How-to-Monetize-your-Social-Audience.html
+layout: How-to-Monetize-your-Social-Audience.html
+---
 
 <div class="ui left vertical stripe segment">
   <div class="ui left text container">
