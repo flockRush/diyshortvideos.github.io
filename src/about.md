@@ -6,7 +6,7 @@ layout: about.html
   <div class="ui left text container">
   <div class="ui h-bold">About</div>
   <p></p>
-  <p>Flockrush is a MarkTech (Marketing Technology) company.
+  <p>Flockrush is a Marketing Technology Company.
 
   </p>
   <p>Built around a key insight to leverage social media and drive enviable traffic, build big audiences and email lists. Here is a brief <a href="/An-Introduction-to-Flockrush/">introduction to Flockrush.</a></p>
