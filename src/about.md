@@ -6,9 +6,7 @@ layout: about.html
   <div class="ui left text container">
   <div class="ui h-bold">About</div>
   <p></p>
-  <p>Flockrush is a Marketing Technology Company.
-
-  </p>
+  <p>Flockrush is a Marketing Technology Company.</p>
   <p>Built around a key insight to leverage social media and drive enviable traffic, build big audiences and email lists. Here is a brief <a href="/An-Introduction-to-Flockrush/">introduction to Flockrush.</a></p>
   <p>It’s tough getting your message out there and be noticed, against a wall of marketing noise. Like many start-ups, we needed to make a limited marketing budget punch well above its weight, and that’s how Flockrush was born. We discovered that we could build audiences to market to audiences that wouldn’t vanish overnight, and audiences that could be highly targeted. Using content to tell stories and build audiences works, but the tools available made this harder work than made sense to us.
         </p>
