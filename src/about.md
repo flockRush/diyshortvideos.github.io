@@ -26,6 +26,7 @@ layout: about.html
   <div class="ui left vertical stripe segment grey-color">
   <div class="ui left text container">
   <div class="ui h-bold">What is Flockrush Software?</div>
+  <p>Built around a key insight to leverage social media and drive enviable traffic, build big audiences and email lists.</p>
   <p>The Flockrush platform enables content marketing on social and blogs at scale, and with speed. When it comes to effectiveness and efficiency, Flockrush is the number one solution.</p>
   <p>
 
