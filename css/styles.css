@@ -734,13 +734,14 @@ html.ios body {
  }
 
 /*Vertical Flip*/
+/*Vertical Flip*/
 .verticalFlip{
 	display: inline;
 	text-indent: 8px;
 }
 .verticalFlip span{
 	animation: vertical 7.5s linear infinite 0s;
-	-ms-animation: vertical 5s linear infinite 0s;
+	-ms-animation: vertical 7.5s linear infinite 0s;
 	-webkit-animation: vertical 7.5s linear infinite 0s;
 	opacity: 0;
 	overflow: hidden;
@@ -756,16 +757,7 @@ html.ios body {
 	-ms-animation-delay: 5s;
 	-webkit-animation-delay: 5s;
 }
-.verticalFlip span:nth-child(4){
-	animation-delay: 7.5s;
-	-ms-animation-delay: 7.5s;
-	-webkit-animation-delay: 7.5s;
-}
-.verticalFlip span:nth-child(5){
-	animation-delay: 10s;
-	-ms-animation-delay: 10s;
-	-webkit-animation-delay: 10s;
-}
+
 
 /*Vertical Flip Animation*/
 @-moz-keyframes vertical{
