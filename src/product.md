@@ -234,9 +234,9 @@ layout: product.html
 </div>
   <div class="five wide column">
   <div class="ui h-bold"> Content Publishing</div>
-  <p class="p-em-166">Feature rich queues, approval workflows, automated scheduling and blog posting</p>
+  <p class="p-em-166">Feature rich queues, approval workflows, automated scheduling, blog posting and social amplification.</p>
   <p>
-        With Flockrush you can publish large volumes of content across multiple platforms simultaneously.</p>
+        With Flockrush you can publish large volumes of content across multiple platforms simultaneously, and leverage the full scope of social media through our a social amplification technology.</p>
   <p>
         Unlimited content queues enable you to set up and easily manage large pools of content and achieve huge scale with your content publishing.</p>
   <p>
