@@ -736,7 +736,6 @@ html.ios body {
 /*Vertical Flip*/
 .rw-words{
 	display: inline;
-	text-indent: 10px;
 }
 .rw-words-1 span{
 	position: absolute;
@@ -747,16 +746,16 @@ html.ios body {
 	-ms-animation: rotateWord 9s linear infinite 0s;
 	animation: rotateWord 9s linear infinite 0s;
 }
-.rw-words-1 span:nth-child(2) { 
-    -webkit-animation-delay: 3s; 
-	-ms-animation-delay: 3s; 
-	animation-delay: 3s; 
+.rw-words-1 span:nth-child(2) {
+    -webkit-animation-delay: 3s;
+	-ms-animation-delay: 3s;
+	animation-delay: 3s;
 
 }
-.rw-words-1 span:nth-child(3) { 
-    -webkit-animation-delay: 6s; 
-	-ms-animation-delay: 6s; 
-	animation-delay: 6s; 
+.rw-words-1 span:nth-child(3) {
+    -webkit-animation-delay: 6s;
+	-ms-animation-delay: 6s;
+	animation-delay: 6s;
 
 }
 @-webkit-keyframes rotateWord {
