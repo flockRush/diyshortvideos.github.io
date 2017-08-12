@@ -736,9 +736,10 @@ html.ios body {
 /*Vertical Flip*/
 .rw-words{
 	display: inline;
+	text-indent: 10px;
 }
 .rw-words-1 span{
-	position: absolute;
+	position: inherit;
 	opacity: 0;
 	overflow: hidden;
 
