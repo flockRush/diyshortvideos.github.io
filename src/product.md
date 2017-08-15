@@ -340,6 +340,10 @@ layout: product.html
         Test your current blog performance at
         <a href="https://developers.google.com/speed/pagespeed/insights/">Google speed test. </a>  A key to optimum page ranking.
       </p>
+  <p>You can test a live Flockrush powered blog
+            <a href="http://www.travelmediaco.com/">(www.travelmediaco.com) </a>  here.</p>
+  <p>
+</p>
 </div>
 </div>
   <div id="audience-engagement" class="ui vertical stripe segment grey-color">
