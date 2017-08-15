@@ -8,7 +8,7 @@ layout: about.html
   <p></p>
   <p>Flockrush is a Marketing Technology Company.</p>
   <p>Built around a key insight to leverage the full scope of social media and drive enviable traffic, build big audiences and email lists. Here is a brief <a href="/An-Introduction-to-Flockrush/">introduction to Flockrush.</a></p>
-  <p>It’s tough getting your message out there and be noticed, against a wall of marketing noise. Like many start-ups, we needed to make a limited marketing budget punch well above its weight, and that’s how Flockrush was born. We discovered that we could drive insane traffic and build audiences to market to audiences that wouldn’t vanish overnight, and traffic and audiences that could be highly targeted. Using content to tell stories and distribute content effectively works, but the tools available made this harder work than made sense to us.
+  <p>It’s tough getting your message out there and be noticed, against a wall of marketing noise. Like many start-ups, we needed to make a limited marketing budget punch well above its weight, and that’s how Flockrush was born. We discovered that we could drive insane traffic and build audiences to market to that wouldn’t vanish overnight, and traffic and audiences that could be highly targeted. Using content to tell stories and distribute content effectively works, but the tools available made this harder work than made sense to us.
         </p>
   <p>And so our inspiration came from murmuring <a href="https://www.youtube.com/watch?v=V4f_1_r80RY&amp;list=PLSw6GbeodJHTBj9mcumqabq5O8lpZFggN&amp;index=1">flocks of starlings</a>. One of nature’s great shows. Just like audiences, no flock is static – it's movement is governed by the influence of those around them. When something gets the attention of the edge of the flock it cascades through the group as a visible wave. We knew if we could help people create waves through content, then they too would get noticed by their audience. The Flockrush team set out to do something well that no one else has. The result is the single best platform for mass discovery, curation and distribution of content, at scale, for social media channels and blogs.
         </p>
@@ -51,7 +51,7 @@ For legacy WordPress users we also integrate with WordPress.org and WordPress.co
 Your success can be easily and effectively tracked with highly customizable social analytics dashboards to check all your key audience KPIs, including automated report scheduling to ensure you get insights delivered straight to your inbox when you need them.</p>
   <p>
 
-With all these powerful tools working seamlessly together, Flockrush is the only content management platform that can support you through the entire process of creation, distribution and monetization.</p>
+With all these powerful tools working seamlessly together, Flockrush is the only content management platform that can support you through the entire process of content creation, distribution, and monetization.</p>
 </div>
 </div>
 </div>
