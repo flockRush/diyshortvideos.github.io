@@ -33,13 +33,13 @@ layout: about.html
 Flockrush brings together a suite of tools for marketers to build and market to large, highly targeted audience groups, underpinned by a powerful strategy. For both B2B and B2C teams it is now possible to activate marketing via social to your target customers - wherever they choose to be. </p>
   <p>
 
-Building big audiences quickly requires great content to be posted frequently – with Flockrush you get access to great user-generated content, and royalty paid images of the best quality to Create &amp; Curate at scale – the greatest weapon for preparing high volumes of content to continually attract and engage fans.</p>
+Driving traffic and building big audiences quickly requires great content to be posted frequently – with Flockrush you get access to great user-generated content, and royalty paid images of the best quality to Create &amp; Curate at scale – the greatest weapon for preparing high volumes of content to continually attract and engage fans.</p>
   <p>
 
 Unlimited content queues enable you to set up and easily manage large pools of content and achieve huge scale with your content publishing. Built-in user-generated content rights authorization ensures you can safely manage all your UGC and have complete control of what gets published.</p>
   <p>
 
-Synchronizing high volumes of content across social pages and blogs is time-consuming, but now it’s as easy as adding another channel to post to. </p>
+Synchronizing and distributing high volumes of content across social pages and blogs is time-consuming, but now it’s as easy as adding another channel to post to. </p>
   <p>
 
 With Flockrush’s built-in SEO optimized blogging platform your social and blog posting can be fully integrated. Our blog platform is built on the latest JAMstack.org architecture to make sure you gain fast page load speeds and greater security, without any of the hassles of hosting or IT.</p>
@@ -51,7 +51,7 @@ For legacy WordPress users we also integrate with WordPress.org and WordPress.co
 Your success can be easily and effectively tracked with highly customizable social analytics dashboards to check all your key audience KPIs, including automated report scheduling to ensure you get insights delivered straight to your inbox when you need them.</p>
   <p>
 
-With all these powerful tools working seamlessly together, Flockrush is the only content management platform that can support you through the entire process of building and monetizing big audiences of social fans.</p>
+With all these powerful tools working seamlessly together, Flockrush is the only content management platform that can support you through the entire process of creation, distribution and monetization.</p>
 </div>
 </div>
 </div>
