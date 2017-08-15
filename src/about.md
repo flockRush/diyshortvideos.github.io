@@ -19,7 +19,7 @@ layout: about.html
         </p>
   <p>But we're never satisfied - our success only comes when yours does - so we're always working to make better and new ways to support you in achieving your marketing goals whatever it takes.
         </p>
-  <p>For building your audiences and growing fans, there really is nothing better.
+  <p>For building your traffic, audiences and growing email lists, there really is nothing better.
         </p>
   <h3>Welcome to Flockrush.</h3>
 </div>
