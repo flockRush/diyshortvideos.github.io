@@ -341,7 +341,7 @@ layout: product.html
         <a href="https://developers.google.com/speed/pagespeed/insights/">Google speed test. </a>  A key to optimum page ranking.
       </p>
   <p>You can test a live Flockrush powered blog
-            <a href="http://www.travelmediaco.com/">(www.travelmediaco.com) </a>  here.</p>
+            <a href="https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.travelmediaco.com%2F">(www.travelmediaco.com) </a>  here.</p>
   <p>
 </p>
 </div>
