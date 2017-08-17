@@ -238,7 +238,8 @@ layout: product.html
   <p>
         With Flockrush you can publish large volumes of content across multiple platforms simultaneously, and leverage the full scope of social media through our social amplification technology.</p>
   <p>
-        Unlimited content queues enable you to set up and easily manage large pools of content and achieve huge scale with your content publishing.</p>
+  Unlimited tailored queues of content enable you to set up superior unique experiences and easily manage large pools of content to gain scale and performance with your content publishing.
+        </p>
   <p>
         Our highly customizable workflow processes and automated scheduling means content can flow efficiently from discovering to social publishing and blog posting but with full control.</p>
 </div>
