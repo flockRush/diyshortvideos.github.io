@@ -55,11 +55,11 @@ layout: product.html
   <p class="ui h-semibold">Analytics Dashboards</p>
 </div>
 </a>
-      <a class="ui card" href="/product/#blog-management">
+      <a class="ui card" href="/product/#webmedia-management">
   <div class="center aligned content">
   <i class="newspaper huge inverted circular green networks icon">
 </i>
-  <p class="ui h-semibold">Blog Management</p>
+  <p class="ui h-semibold">Web Media Management</p>
 </div>
 </a></div>
 </div>
@@ -234,14 +234,14 @@ layout: product.html
 </div>
   <div class="five wide column">
   <div class="ui h-bold"> Content Publishing</div>
-  <p class="p-em-166">Feature rich queues, approval workflows, automated scheduling, blog posting and social amplification.</p>
+  <p class="p-em-166">Feature rich queues, approval workflows, automated scheduling, content hub, media publication or blog posting with social amplification.</p>
   <p>
         With Flockrush you can publish large volumes of content across multiple platforms simultaneously, and leverage the full scope of social media through our social amplification technology.</p>
   <p>
   Unlimited tailored queues of content enable you to set up superior unique experiences and easily manage large pools of content to gain scale and performance with your content publishing.
         </p>
   <p>
-        Our highly customizable workflow processes and automated scheduling means content can flow efficiently from discovering to social publishing and blog posting but with full control.</p>
+        Our highly customizable workflow processes and automated scheduling means content can flow efficiently from discovering to social publishing and content hub, media publication or blog posting but with full control.</p>
 </div>
 </div>
 </div>
@@ -291,17 +291,17 @@ layout: product.html
 </div>
 </div>
 
-<div id="blog-management" class="ui vertical stripe segment grey-color">
+<div id="webmedia-management" class="ui vertical stripe segment grey-color">
   <div class="ui stackable grid">
   <div class="two wide column">
 </div>
   <div class=" seven wide column">
   <div class="ui grid">
   <div class="sixteen wide column">
-  <img class="ui fluid image" <img="" src="/img/resources/flockrush-BLOG-MANAGEMENT-350x150.jpg" alt="Flockrush Blog Management">
+  <img class="ui fluid image" <img="" src="/img/resources/flockrush-BLOG-MANAGEMENT-350x150.jpg" alt="Flockrush Web Media Management">
 </div>
   <div class="sixteen wide left bottom aligned column">
-  <p class="p-em-166">Our latest blogging resources:
+  <p class="p-em-166">Our latest content hub, media publication or blog resources:
           </p>
 </div>
   <div class="eight wide column">
@@ -324,24 +324,24 @@ layout: product.html
   <div class="one wide column">
 </div>
   <div class="five wide column">
-  <div class="ui h-bold"> Blog Management</div>
-  <p class="p-em-166">With Flockrush’s built-in blogging and content hub platform your social and blog posting can be fully integrated.
+  <div class="ui h-bold"> Web Media Management</div>
+  <p class="p-em-166">With Flockrush’s built-in content hub, media publication and blogging your social and web media posting can be fully integrated.
       </p>
   <p>
-        Synchronizing high volumes of content across social pages, content hubs and blogs is time-consuming, but now it’s as easy as adding another channel to post to.
+        Synchronizing high volumes of content across social pages, content hubs and websites is time-consuming, but now it’s as easy as adding another channel to post to.
       </p>
   <p>
-        Our content hub and blog platform is built on the latest
+        Our content hub, media publication and blogging platform is built on the latest
         <a href="https://jamstack.org/">JAMstack </a>  architecture to make sure you gain fast page load speeds and greater security, without any of the hassles of hosting.
       </p>
   <p>
         For WordPress users we also integrate with WordPress.org and WordPress.com delivering your content via the Jetpack plugin.
       </p>
   <p>
-        Test your current content hub or blog performance at
+        Test your current content hub, media publication or blog performance at
         <a href="https://developers.google.com/speed/pagespeed/insights/">Google speed test. </a>  A key to optimum page ranking.
       </p>
-  <p>You can test a live Flockrush powered blog
+  <p>You can test a live Flockrush powered Media Site
             <a href="https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.travelmediaco.com%2F">(www.travelmediaco.com) </a>  here.</p>
   <p>
 </p>
