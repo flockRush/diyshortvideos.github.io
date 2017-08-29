@@ -16,9 +16,9 @@ layout: pricing.html
   <p>Flockrush <i class="ui icon large iconred heart"></i> Open Source.</p>
   <p>That's why we're giving an ad supported 1 million tier away free for open source projects.</p>
   <p>That's worth $12,000/year. <a href="/custom-demo/">Signup. </a>Enjoy!</p>
-  <p>
-  <a class="ui blue button button-font-format item space-3em" href="/custom-demo/">Learn and signup for free</a>
-</p>
+  <div class="space-3em">
+  <a class="ui blue button button-font-format item" href="/custom-demo/">Learn and signup for free</a>
+</div>
 </div>
   <div class="five wide left aligned column">
   <div class="ui segment grey-color"><br><div class="ui h-bold">Monthly cost</div><p class="p-em-166">
