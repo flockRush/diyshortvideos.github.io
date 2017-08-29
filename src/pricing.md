@@ -9,9 +9,9 @@ layout: pricing.html
   <div class="seven wide middle aligned column">
   <p class="p-em-166">
         Our business plans have simple pricing structure is tied to the size of your audience. </p>
-  <p>We offer a free plan for startups and individual professionals. Limited to 1 user, 1 audience group, 10,000 audiences, advanced published and 1 web media site only.
+  <p>We offer a free plan for startups and individual professionals. Limited to 1 user, 1 audience group, 10,000 audiences, 1 web media site and publishing only.
       </p>
-  <p>On paid plans you gain all features and it doesn't matter how many social pages, content hubs, media or blogs you manage, or how big your team is, what you pay is based on the overall results you achieve.</p>
+  <p>On business paid plans you gain all features and it doesn't matter how many social pages, content hubs, media or blogs you manage, or how big your team is, what you pay is based on the overall results you achieve.</p>
   <p>By working this way our success can only follow yours - keeping us working continually to make improvements to the speed and efficiency of growing your fans with Flockrush.</p>
   <p>Flockrush <i class="ui icon large iconred heart"></i> Open Source.</p>
   <p>That's why we're giving an ad supported 1 million tier away free for open source projects.</p>
