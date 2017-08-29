@@ -33,7 +33,7 @@ $(document).ready(function(){
   ]
   audiences = [
     null,
-    "0",
+    "10,000",
     "100,000",
     "1,000,000",
     "2,000,000",
