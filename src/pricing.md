@@ -16,10 +16,6 @@ layout: pricing.html
   <p>Flockrush <i class="ui icon large iconred heart"></i> Open Source.</p>
   <p>That's why we're giving an ad supported 1 million tier away free for open source projects.</p>
   <p>That's worth $12,000/year. <a href="/custom-demo/">Signup. </a>Enjoy!</p>
-  <p>
-  <a class="ui blue button button-font-format item space-3em" href="/custom-demo/">Learn and signup for free</a>
-</p>
-</div>
 </div>
   <div class="five wide left aligned column">
   <div class="ui segment grey-color"><br><div class="ui h-bold">Monthly cost</div><p class="p-em-166">
@@ -28,6 +24,7 @@ Audience size up to: <span id="display-audience">
 </div><br>
   <br><p class="p-em-166"><span class="h-semibold" id="display-pricing">
 </span> <span class="p-light icongrey">  US $/month</span></p></div>
+</div>
 </div>
 </div>
 
