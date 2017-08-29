@@ -23,7 +23,7 @@ $(document).ready(function(){
   // set custom step
   pricings = [
     null,
-    "0",
+    "Free - Limited Edition",
     "499",
     "999",
     "1499",
@@ -44,7 +44,7 @@ $(document).ready(function(){
   $("#pricing-slider").range({
     min: 1,
     max: 7,
-    start: 3,
+    start: 1,
     step: 1,
     onChange: function(value){
       $("#display-pricing").html(pricings[value]);
