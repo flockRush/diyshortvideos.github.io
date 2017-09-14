@@ -341,8 +341,10 @@ layout: product.html
         Test your current content hub, media publication or blog performance at
         <a href="https://developers.google.com/speed/pagespeed/insights/">Google speed test. </a>  A key to optimum page ranking.
       </p>
-  <p>You can test a live Flockrush powered Media Site
-            <a href="https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.travelmediaco.com%2F">(www.travelmediaco.com) </a>  here.</p>
+  <p>You can test a live Flockrush powered website.
+            <a href="https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.travelmediaco.com%2F">(www.travelmediaco.com) </a>  here. 90+/100 A perfect score</p>
+  <p>Now let's test a leading bank Bank of Montreal not using Flockrush
+                      <a href="https://developers.google.com/speed/pagespeed/insights/?url=www.bmo.com">(www.travelmediaco.com) </a>  here. 34/100 Very Poor</p>
   <p>
 </p>
 </div>
