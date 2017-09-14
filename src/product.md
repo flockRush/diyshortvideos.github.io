@@ -342,10 +342,9 @@ layout: product.html
         <a href="https://developers.google.com/speed/pagespeed/insights/">Google speed test. </a>  A key to optimum page ranking.
       </p>
   <p>You can test a live Flockrush powered website.
-            <a href="https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.travelmediaco.com%2F">(www.travelmediaco.com) </a>  here. 90+/100 A perfect score.</p>
+            <a href="https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.travelmediaco.com%2F">(www.travelmediaco.com) </a>  here. 90+/100 A near perfect score.</p>
   <p>Now let's test a world leading bank, Bank of Montreal not using Flockrush
                       <a href="https://developers.google.com/speed/pagespeed/insights/?url=www.bmo.com">(www.BMO.com) </a>  here. 34/100 Very Poor.</p>
-  <p>Technology matters and our customers see the results on the bottom line.</p>
   <p>
 </p>
 </div>
