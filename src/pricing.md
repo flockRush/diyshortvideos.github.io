@@ -77,6 +77,8 @@ layout: pricing.html
               </div>
   <div class="summary">Unlimited Images/Videos
               </div>
+  <div class="summary">Content Workflows
+                          </div>
   <div class="summary">Unified Social Care Inbox
               </div>
   <div class="summary">Analytics Dashboards
