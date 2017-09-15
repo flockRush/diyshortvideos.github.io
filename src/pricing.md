@@ -83,6 +83,8 @@ layout: pricing.html
               </div>
   <div class="summary">Reporting
               </div>
+  <div class="summary">Remove Flockrush branding
+                          </div>
   <br>
 </div>
 </div>
