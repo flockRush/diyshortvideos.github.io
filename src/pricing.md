@@ -9,7 +9,7 @@ layout: pricing.html
   <div class="seven wide middle aligned column">
   <p class="p-em-166">
         Our business plans have simple pricing structure, tied to the size of your audience. </p>
-  <p>We offer a free plan for startups and individual professionals with supports unlimited social profiles, posting, evergreen queues, and limited to 1 user, 1 audience group and 1 website.
+  <p>We offer a free plan for startups and individual professionals which supports unlimited social profiles, posting, evergreen queues, and limited to 1 user, 1 audience group and 1 website.
       </p>
   <p>On business paid plans you gain all features and it doesn't matter how many social pages, content hubs, media or blogs you manage, or how big your team is, what you pay is based on the overall results you achieve.</p>
   <p>By working this way our success can only follow yours - keeping us working continually to make improvements to the speed and efficiency of growing your fans with Flockrush.</p>
