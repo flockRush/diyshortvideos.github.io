@@ -86,17 +86,32 @@ layout: pricing.html
   <a class="ui green button" href="/custom-demo/">Contact Us</a>
 </div>
   <br>
+  <div class="ui small feed">
+  <div class="content center aligned">
   <div class="summary">or call at +1 416-937-5555</div>
 </div>
 </div>
 </div>
-  <div class="ui segment grey-color"><div class="ui h-bold">Business Plan Monthly cost</div><p class="p-em-166">
+</div>
+</div>
+  <div class="ui stackable grid">
+  <div class="eight wide middle aligned column">
+  <p class="p-em-166">
+      Our business plans have simple pricing structure, tied to the size of your audience. </p>
+  <p>You gain all features and it doesn't matter how many social pages, content hubs, media or blogs you manage, or how big your team is, what you pay is based on the overall results you achieve.</p>
+</div>
+  <div class="two wide middle aligned column">
+</div>
+  <div class="six wide left aligned column">
+  <div class="ui segment grey-color"><br><div class="ui h-bold">Monthly cost</div><p class="p-em-166">
         Audience size up to: <span id="display-audience">
 </span></p><br><div class="ui teal range" id="pricing-slider">
 </div><br>
       <br><p class="p-em-166"><span class="h-semibold" id="display-pricing">
 </span>
         <br><span class="p-light icongrey">  US $/month</span></p></div>
+</div>
+</div>
 </div>
 </div>
 
