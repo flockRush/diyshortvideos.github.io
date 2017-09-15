@@ -2,7 +2,7 @@
 layout: pricing.html
 ---
 
-<div class="ui vertical stripe segment grey-color">
+<div class="ui vertical stripe segment">
   <div class="ui text container">
   <div class="ui three stackable link cards feature-cards">
   <div class="ui card">
@@ -123,7 +123,7 @@ layout: pricing.html
 </div>
 </div>
 
-<div class="ui center aligned vertical stripe segment">
+<div class="ui center aligned vertical stripe segment grey-color">
   <div class="ui text container">
   <p>Flockrush
       <i class="ui icon large iconred heart"></i> Open Source.</p>
@@ -136,7 +136,7 @@ layout: pricing.html
 </div>
 </div>
 
-<div class="ui center aligned vertical stripe segment grey-color">
+<div class="ui center aligned vertical stripe segment">
   <div class="ui text container">
   <div class="ui h-bold">
       Why we do it this way? </div>
