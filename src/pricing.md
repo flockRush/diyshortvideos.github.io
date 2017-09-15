@@ -59,7 +59,7 @@ layout: pricing.html
   <div class="ui card">
   <div class="content center aligned ">
   <br>
-  <div class="header">Business</div>
+  <div class="header">Businesses</div>
   <br>
   <h4 class="ui sub header">Starts at $499/month</h4>
   <br>
