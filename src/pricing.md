@@ -34,6 +34,8 @@ layout: pricing.html
   <div class="summary">
                 Unlimited Profiles
               </div>
+  <div class="summary">Unlimited Publishing
+                                        </div>
   <div class="summary">
                 Unlimited Evergreen Queues
               </div>
@@ -65,6 +67,8 @@ layout: pricing.html
   <div class="content center aligned">
   <div class="summary">Unlimited Profiles
               </div>
+  <div class="summary">Unlimited Publishing
+                          </div>
   <div class="summary">Unlimited Evergreen Queues
               </div>
   <div class="summary">Unlimited Users
