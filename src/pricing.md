@@ -35,7 +35,7 @@ layout: pricing.html
                 Unlimited Profiles
               </div>
   <div class="summary">Unlimited Publishing
-                                        </div>
+              </div>
   <div class="summary">
                 Unlimited Evergreen Queues
               </div>
@@ -68,7 +68,7 @@ layout: pricing.html
   <div class="summary">Unlimited Profiles
               </div>
   <div class="summary">Unlimited Publishing
-                          </div>
+              </div>
   <div class="summary">Unlimited Evergreen Queues
               </div>
   <div class="summary">Unlimited Users
@@ -98,23 +98,23 @@ layout: pricing.html
 </div>
 </div>
 </div>
-</div>
   <div class="ui stackable grid space-3em">
   <div class="eight wide middle aligned column">
-  <p class="p-em-166">
-        Our business plan have simple pricing structure, tied to the size of your audience. </p>
+  <p>
+          Our business plan have simple pricing structure, tied to the size of your audience. </p>
   <p>You gain all features and it doesn't matter how many social pages, content hubs, media or blogs you manage, or how big your team is, what you pay is based on the overall results you achieve.</p>
 </div>
   <div class="two wide middle aligned column">
 </div>
   <div class="six wide left aligned column">
   <div class="ui segment grey-color"><br><div class="ui h-bold">Monthly cost</div><p class="p-em-166">
-          Audience size up to: <span id="display-audience">
+            Audience size up to: <span id="display-audience">
 </span></p><br><div class="ui teal range" id="pricing-slider">
 </div><br>
-        <br><p class="p-em-166"><span class="h-semibold" id="display-pricing">
+          <br><p class="p-em-166"><span class="h-semibold" id="display-pricing">
 </span>
-          <br><span class="p-light icongrey">  US $/month</span></p></div>
+            <br><span class="p-light icongrey">  US $/month</span></p></div>
+</div>
 </div>
 </div>
 </div>
