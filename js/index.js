@@ -23,7 +23,6 @@ $(document).ready(function(){
   // set custom step
   pricings = [
     null,
-    "Free - Limited Edition",
     "499",
     "999",
     "1499",
@@ -33,7 +32,6 @@ $(document).ready(function(){
   ]
   audiences = [
     null,
-    "10,000",
     "100,000",
     "1,000,000",
     "2,000,000",
