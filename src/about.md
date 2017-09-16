@@ -16,7 +16,7 @@ layout: about.html
   <p>
             For the first time, it is possible for teams to manage content workflows, build and host engaging websites, and monetize - all from a single platform. With the 'cradle to grave’ concept, we save content teams tremendous time, and with the features we've built to support content, engagement and monetization, you will excel.
         </p>
-  <p>Our cloud-based SaaS software platform giving you access to your projects wherever you want to be, always using the latest software release and running with telco-grade reliability.
+  <p>Our cloud-based SaaS software platform gives you access to your projects wherever you want to be, always using the latest software release and running with telco-grade reliability.
         </p>
   <p>But we're never satisfied - our success only comes when yours does - so we're always working to make better and new ways to support you in achieving your marketing goals whatever it takes.
         </p>
