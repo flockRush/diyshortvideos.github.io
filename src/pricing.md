@@ -106,7 +106,7 @@ layout: pricing.html
 </div>
 </div>
 </div>
-  <div class="ui stackable grid">
+  <div class="ui stackable grid space-9em">
   <div class="two wide middle aligned column">
 </div>
   <div class="seven wide middle aligned column">
