@@ -76,12 +76,12 @@ layout: pricing.html
   <div class="summary">Unlimited Websites
               </div>
   <div class="summary">
-                            Unlimited Audience Groups
-                          </div>
+                Unlimited Audience Groups
+              </div>
   <div class="summary">Unlimited Images/Videos
               </div>
   <div class="summary">Content Workflows
-                          </div>
+              </div>
   <div class="summary">Unified Social Care Inbox
               </div>
   <div class="summary">Analytics Dashboards
@@ -89,7 +89,7 @@ layout: pricing.html
   <div class="summary">Reporting
               </div>
   <div class="summary">Remove Flockrush branding
-                          </div>
+              </div>
   <br>
 </div>
 </div>
@@ -105,23 +105,23 @@ layout: pricing.html
 </div>
 </div>
 </div>
-  <div class="ui stackable grid space-3em">
-  <div class="eight wide middle aligned column">
-  <p>
-          Our business plan have simple pricing structure, tied to the size of your audience. </p>
-  <p>You gain all features and it doesn't matter how many social pages, content hubs, media or blogs you manage, or how big your team is, what you pay is based on the overall results you achieve.</p>
 </div>
+  <div class="ui stackable grid">
   <div class="two wide middle aligned column">
 </div>
-  <div class="six wide left aligned column">
+  <div class="seven wide middle aligned column">
+  <p>
+        Our business plans have simple pricing structure, tied to the size of your audience. </p>
+  <p>You gain all features and it doesn't matter how many social pages, content hubs, media or blogs you manage, or how big your team is, what you pay is based on the overall results you achieve.</p>
+</div>
+  <div class="five wide left aligned column">
   <div class="ui segment grey-color"><br><div class="ui h-bold">Monthly cost</div><p class="p-em-166">
-            Audience size up to: <span id="display-audience">
+          Audience size up to: <span id="display-audience">
 </span></p><br><div class="ui teal range" id="pricing-slider">
 </div><br>
-          <br><p class="p-em-166"><span class="h-semibold" id="display-pricing">
+        <br><p class="p-em-166"><span class="h-semibold" id="display-pricing">
 </span>
-            <br><span class="p-light icongrey">  US $/month</span></p></div>
-</div>
+          <br><span class="p-light icongrey">  US $/month</span></p></div>
 </div>
 </div>
 </div>
