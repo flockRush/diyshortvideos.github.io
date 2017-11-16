@@ -12,7 +12,7 @@ Metalsmith(__dirname)
     title: "The #1 Targeted Social Audience Building App: Flockrush",
     description: "Flockrush is a feature rich strategy-driven app for marketing teams to efficiently build big, targeted social audiences.",
     generator: "Metalsmith",
-    url: "http://www.flockrush.com",
+    url: "https://www.flockrush.com",
     latitude: "43.6437147",
     longitude: "79.4085915",
     type: "website",
