@@ -9,7 +9,7 @@ layout: FAQ.html
   <h3>What is Flockrush?</h3>
   <p></p>
   <p>Flockrush is a strategy-driven app for growing large social audiences based around a topic that’s of particular interest to your target market. The strategy is explained in more detail at
-        <a href="http://www.flockrush.com/An-Introduction-to-Flockrush/">http://www.flockrush.com/An-Introduction-to-Flockrush/ </a></p>
+        <a href="https://www.flockrush.com/An-Introduction-to-Flockrush/">https://www.flockrush.com/An-Introduction-to-Flockrush/ </a></p>
   <p>Our product features eight key tools:</p>
   <div class="ui ordered list p-light-up">
   <div class="item space-notchem-bottom">
@@ -115,14 +115,14 @@ layout: FAQ.html
           You can – the tools we use support the Flockrush audience growth strategy can be used to manage your brand, although how you use them will be slightly different as you will be unlikely to post at the same scale.
         </p>
   <p>If you use Flockrush for brand pages you may find it particularly useful to check our social care features -
-          <a href="http://www.flockrush.com/product/#audience-engagement/">http://www.flockrush.com/product/#audience-engagement/ </a>  – to see how Flockrush can be used for large scale follower/consumer engagement whether it’s customer service, engagement based on social listening or even prospecting. Using AI and
+          <a href="https://www.flockrush.com/product/#audience-engagement/">https://www.flockrush.com/product/#audience-engagement/ </a>  – to see how Flockrush can be used for large scale follower/consumer engagement whether it’s customer service, engagement based on social listening or even prospecting. Using AI and
           machine learning to remove the noise of poor data and let you focus on the conversations that matter to your brand most.
         </p>
   <h2>GETTING STARTED</h2>
   <h3>What do I need to do to get started?</h3>
   <p>
           You will need to identify the topic(s) you want to build your page(s) around. We have developed a guide to help you do that -
-          <a href="http://www.flockrush.com/resources/How-to-choose-a-topic-to-build-a-fan-page/">http://www.flockrush.com/resources/How-to-choose-a-topic-to-build-a-fan-page/ </a></p>
+          <a href="https://www.flockrush.com/resources/How-to-choose-a-topic-to-build-a-fan-page/">https://www.flockrush.com/resources/How-to-choose-a-topic-to-build-a-fan-page/ </a></p>
   <p>This needs to be something aligned to the interests your target market and getting this right is the critical first step. When you have registered the social pages on the platforms you wish to grow audiences on and secured a domain for your blog
           then you are ready to begin! You can sign-up for Flockrush here.
         </p>
@@ -139,7 +139,7 @@ layout: FAQ.html
           The core strategy for Flockrush is to build an audience through both paid and organic means to allow you to publish a proportion of your posts take consumers to a blog where, depending on the levels of traffic your generate, you are able to monetize visitors
           in a number of ways.
         </p>
-  <p>To find out more about monetizing social audiences check out our guide <a href="http://www.flockrush.com/resources/The-Flockrush-guide-to-monetizing-your-blog/">http://www.flockrush.com/resources/The-Flockrush-guide-to-monetizing-your-blog/</a></p>
+  <p>To find out more about monetizing social audiences check out our guide <a href="https://www.flockrush.com/resources/The-Flockrush-guide-to-monetizing-your-blog/">https://www.flockrush.com/resources/The-Flockrush-guide-to-monetizing-your-blog/</a></p>
   <p>Within Flockrush you will be able to create your own blog using the very latest JAMstack architecture for fast page performance. This is a killer feature – Flockrush has not only build a blog, if you want to use WordPress.com or WordPress.org
           then we support that too via the Jetpack plugin.
         </p>
@@ -148,7 +148,7 @@ layout: FAQ.html
   <p>
           Our pricing structure is very simple – you only pay for the audience you have, not the way you use Flockrush. So no matter how big your team is, or how many pages you want to manage it’s the same price structure and functionality for everyone. Our success
           always follows yours. You can get pricing based on your current audience size at
-          <a href="http://www.flockrush.com/pricing/">http://www.flockrush.com/pricing/. </a></p>
+          <a href="https://www.flockrush.com/pricing/">https://www.flockrush.com/pricing/. </a></p>
   <p>As a traffic engine Flockrush can accelerate your marketing activation at a fraction of the cost of typical marketing budgets spent to acquire traffic such as PPC, display ads and SEO. And because Flockrush builds fan pages around audience segments
           you can build your audience before you even launch your business for high impact marketing on day one. Flockrush can be used to:</p>
   <p>

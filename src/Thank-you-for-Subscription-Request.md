@@ -8,7 +8,7 @@ layout: Thank-you-for-Subscription-Request.html
       Expect to learn about a proven strategy to engage and monetize audiences.
   </div>
   <div class="item space-3em">
-  <a class="ui blue button button-font-format" href="http://www.flockrush.com">« return to home page</a>
+  <a class="ui blue button button-font-format" href="https://www.flockrush.com">« return to home page</a>
 </div>
 </div>
 </div>

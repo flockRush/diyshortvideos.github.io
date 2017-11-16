@@ -42,7 +42,7 @@ layout: How-to-Monetize-your-Social-Audience.html
     </p>
   <h3 class="ui header">Improving your audience scale</h3>
   <p>
-      The scale and growth rate of you fan page audience is a factor of the quality of your content and frequency of publishing – we built Flockrush to deliver on both of these and you can find out more about how Flockrush works to grow your audience here <a href="http://www.flockrush.com/resources/">http://www.flockrush.com/resources/</a></p>
+      The scale and growth rate of you fan page audience is a factor of the quality of your content and frequency of publishing – we built Flockrush to deliver on both of these and you can find out more about how Flockrush works to grow your audience here <a href="https://www.flockrush.com/resources/">https://www.flockrush.com/resources/</a></p>
   <h3 class="ui header">Who is Flockrush for? </h3>
   <p>
       Whether you are a brand, an agency or simply an individual fan page builder, anyone who wants to grow targeted social audiences can benefit from Flockrush – perhaps you are: </p>
