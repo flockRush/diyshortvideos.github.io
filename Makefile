@@ -1,4 +1,3 @@
-
 build: node_modules csv_to_json
 	node build.js
 
