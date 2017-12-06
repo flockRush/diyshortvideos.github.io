@@ -8,7 +8,7 @@ layout: pricing.html
   <div class="ui card">
   <div class="content center aligned ">
   <br>
-  <div class="header">Writers</div>
+  <div class="header">Creatives</div>
   <br>
   <h4 class="ui sub header">Free</h4>
   <br>
@@ -18,7 +18,7 @@ layout: pricing.html
 </div>
 </div>
   <div class="extra content center aligned ">
-  <button class="ui green basic button">Create Account</button>
+  <a class="ui green button" href="/custom-demo/">Contact Us</a>
 </div>
 </div>
 </div>
@@ -52,7 +52,7 @@ layout: pricing.html
 </div>
 </div>
   <div class="extra content center aligned ">
-  <button class="ui green basic button">Create Account</button>
+  <a class="ui green button" href="/custom-demo/">Contact Us</a>
 </div>
 </div>
 </div>
